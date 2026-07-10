@@ -1,0 +1,30 @@
+{
+    "电子教材": {
+        "format": "PDF",
+        "count": 2539
+    },
+    "音频听力": {
+        "format": "MP3",
+        "count": 14061
+    },
+    "视频课程": {
+        "format": "MP4",
+        "count": 61550
+    },
+    "教学课件": {
+        "format": "PPT",
+        "count": 30302
+    },
+    "教学设计": {
+        "format": "PDF",
+        "count": 25103
+    },
+    "学习任务": {
+        "format": "PDF",
+        "count": 42667
+    },
+    "课后练习": {
+        "format": "PDF",
+        "count": 43297
+    }
+}

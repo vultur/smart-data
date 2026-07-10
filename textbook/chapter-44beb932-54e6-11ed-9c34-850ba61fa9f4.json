@@ -1,0 +1,1553 @@
+{
+    "a1e81a85-c394-8112-f487-8f9d96b2b6bc": [
+        {
+            "id": "81e19ebb-0b49-2c28-37b3-0e1eaddc1fd8",
+            "title": "义务教育教科书（五•四学制）体育与健康 七年级（全一册）",
+            "node_path": "81e19ebb-0b49-2c28-37b3-0e1eaddc1fd8",
+            "child_nodes": []
+        },
+        {
+            "id": "9b8f2b32-fd11-9f26-3f3a-2c73250d73a1",
+            "title": "第1课 努力守护眼健康",
+            "node_path": "9b8f2b32-fd11-9f26-3f3a-2c73250d73a1",
+            "child_nodes": []
+        },
+        {
+            "id": "e9876b6d-1a61-1f0c-e24e-a54a69bf2017",
+            "title": "第2课 坚决抵制性骚扰",
+            "node_path": "e9876b6d-1a61-1f0c-e24e-a54a69bf2017",
+            "child_nodes": []
+        },
+        {
+            "id": "e91236f0-9c3b-ec3b-a91c-2e68727cd171",
+            "title": "第3课 自我保护与逃生",
+            "node_path": "e91236f0-9c3b-ec3b-a91c-2e68727cd171",
+            "child_nodes": []
+        },
+        {
+            "id": "41e279d1-29ce-6ae4-421f-1909c43926c6",
+            "title": "第4课 体育文化传承与互鉴",
+            "node_path": "41e279d1-29ce-6ae4-421f-1909c43926c6",
+            "child_nodes": []
+        },
+        {
+            "id": "e3e3f9bc-b15c-eb63-d76d-b3527fe21668",
+            "title": "第5课 奥运会上的精彩时刻",
+            "node_path": "e3e3f9bc-b15c-eb63-d76d-b3527fe21668",
+            "child_nodes": []
+        },
+        {
+            "id": "dc651cca-5c2a-aea3-0708-f04211ef3f40",
+            "title": "第6课 精彩的体育外交",
+            "node_path": "dc651cca-5c2a-aea3-0708-f04211ef3f40",
+            "child_nodes": []
+        }
+    ],
+    "212619df-7ccd-b54c-aa59-86800fb26e71": [
+        {
+            "id": "12692669-2e36-9ed9-1885-6117045ecfb9",
+            "title": "义务教育教科书（五•四学制）体育与健康 六年级（全一册）",
+            "node_path": "12692669-2e36-9ed9-1885-6117045ecfb9",
+            "child_nodes": []
+        },
+        {
+            "id": "e5e999e4-0ad0-de06-5a53-076978c1f439",
+            "title": "第1课 保持健康的方法",
+            "node_path": "e5e999e4-0ad0-de06-5a53-076978c1f439",
+            "child_nodes": []
+        },
+        {
+            "id": "ea87c3bc-b477-498e-6957-88425cf68cee",
+            "title": "第2课 运动促进心理健康",
+            "node_path": "ea87c3bc-b477-498e-6957-88425cf68cee",
+            "child_nodes": []
+        },
+        {
+            "id": "99b846d9-13f5-c57d-bdea-68643542cfb0",
+            "title": "第3课 远离不良行为",
+            "node_path": "99b846d9-13f5-c57d-bdea-68643542cfb0",
+            "child_nodes": []
+        },
+        {
+            "id": "84e227e4-b447-91ce-e951-27de47795e48",
+            "title": "第4课 武术与传统文化",
+            "node_path": "84e227e4-b447-91ce-e951-27de47795e48",
+            "child_nodes": []
+        },
+        {
+            "id": "82cc9a62-9581-23a5-3a55-a26120431896",
+            "title": "第5课 看出比赛门道",
+            "node_path": "82cc9a62-9581-23a5-3a55-a26120431896",
+            "child_nodes": []
+        },
+        {
+            "id": "c6255fae-7098-e433-c165-8daa3b0c8ca1",
+            "title": "第6课 运动场上敢挑战",
+            "node_path": "c6255fae-7098-e433-c165-8daa3b0c8ca1",
+            "child_nodes": []
+        }
+    ],
+    "51fceb0c-c91a-2773-7eaf-c01fed32b814": [
+        {
+            "id": "8b763b90-1b7b-d58b-ac87-b420064b55fb",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 乒乓球运动（全一册）",
+            "node_path": "8b763b90-1b7b-d58b-ac87-b420064b55fb",
+            "child_nodes": []
+        },
+        {
+            "id": "09ad4603-eece-5ade-f4a8-01b2a3452ad8",
+            "title": "水平二",
+            "node_path": "09ad4603-eece-5ade-f4a8-01b2a3452ad8",
+            "child_nodes": [
+                {
+                    "id": "19dcbee9-b483-9bf4-3951-7c98973fb132",
+                    "title": "准备姿势",
+                    "node_path": "09ad4603-eece-5ade-f4a8-01b2a3452ad8/19dcbee9-b483-9bf4-3951-7c98973fb132",
+                    "child_nodes": []
+                },
+                {
+                    "id": "17bf2c3c-d490-07d8-fc97-42a6def2092d",
+                    "title": "发球",
+                    "node_path": "09ad4603-eece-5ade-f4a8-01b2a3452ad8/17bf2c3c-d490-07d8-fc97-42a6def2092d",
+                    "child_nodes": []
+                },
+                {
+                    "id": "393aeebb-3ca8-e752-07ba-50e71a2a2488",
+                    "title": "握拍",
+                    "node_path": "09ad4603-eece-5ade-f4a8-01b2a3452ad8/393aeebb-3ca8-e752-07ba-50e71a2a2488",
+                    "child_nodes": []
+                },
+                {
+                    "id": "34c0ca8b-e362-cf27-3af5-7f49eea2a761",
+                    "title": "攻球、推挡球",
+                    "node_path": "09ad4603-eece-5ade-f4a8-01b2a3452ad8/34c0ca8b-e362-cf27-3af5-7f49eea2a761",
+                    "child_nodes": []
+                },
+                {
+                    "id": "4aff226d-70c9-5b63-275c-d542d7b43f1b",
+                    "title": "站位",
+                    "node_path": "09ad4603-eece-5ade-f4a8-01b2a3452ad8/4aff226d-70c9-5b63-275c-d542d7b43f1b",
+                    "child_nodes": []
+                },
+                {
+                    "id": "b94892d1-0e91-0f76-f2ac-883509d8aa62",
+                    "title": "脚步移动",
+                    "node_path": "09ad4603-eece-5ade-f4a8-01b2a3452ad8/b94892d1-0e91-0f76-f2ac-883509d8aa62",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "8dd538c1-3cf3-ea26-bbc0-421e6ee5988a",
+            "title": "水平三",
+            "node_path": "8dd538c1-3cf3-ea26-bbc0-421e6ee5988a",
+            "child_nodes": [
+                {
+                    "id": "492f080f-42b9-1458-7a44-94e64afa5ec5",
+                    "title": "体能练习",
+                    "node_path": "8dd538c1-3cf3-ea26-bbc0-421e6ee5988a/492f080f-42b9-1458-7a44-94e64afa5ec5",
+                    "child_nodes": []
+                },
+                {
+                    "id": "df3a06f5-b199-46a7-3fab-3b7417e5102e",
+                    "title": "旋球",
+                    "node_path": "8dd538c1-3cf3-ea26-bbc0-421e6ee5988a/df3a06f5-b199-46a7-3fab-3b7417e5102e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "273178e2-148d-4df6-e24e-758486ff7a4a",
+            "title": "水平四",
+            "node_path": "273178e2-148d-4df6-e24e-758486ff7a4a",
+            "child_nodes": [
+                {
+                    "id": "86f55b05-f428-4195-e66c-4cb2033b6025",
+                    "title": "其他单个技术动作",
+                    "node_path": "273178e2-148d-4df6-e24e-758486ff7a4a/86f55b05-f428-4195-e66c-4cb2033b6025",
+                    "child_nodes": []
+                },
+                {
+                    "id": "54fa525b-905a-d5af-c8c6-8c6de02698c8",
+                    "title": "搓球",
+                    "node_path": "273178e2-148d-4df6-e24e-758486ff7a4a/54fa525b-905a-d5af-c8c6-8c6de02698c8",
+                    "child_nodes": []
+                },
+                {
+                    "id": "52f072e1-3fb7-a40c-54c1-bcbaa14a04a1",
+                    "title": "组合动作",
+                    "node_path": "273178e2-148d-4df6-e24e-758486ff7a4a/52f072e1-3fb7-a40c-54c1-bcbaa14a04a1",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "c3e1bc03-4995-5ca9-aab9-7e4f5a1ef8ea": [
+        {
+            "id": "a9683156-5c56-5bcf-6abe-bf8cb294f90e",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 体操类运动（全一册）",
+            "node_path": "a9683156-5c56-5bcf-6abe-bf8cb294f90e",
+            "child_nodes": []
+        },
+        {
+            "id": "d7bee238-65ed-ba69-7574-b9cdaccead9f",
+            "title": "水平二",
+            "node_path": "d7bee238-65ed-ba69-7574-b9cdaccead9f",
+            "child_nodes": [
+                {
+                    "id": "bdef2d65-bbf4-c800-d599-2561c8c50d0f",
+                    "title": "健美操",
+                    "node_path": "d7bee238-65ed-ba69-7574-b9cdaccead9f/bdef2d65-bbf4-c800-d599-2561c8c50d0f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3f4569a7-63a1-3c8a-5c53-bb9615746752",
+                    "title": "单杠运动",
+                    "node_path": "d7bee238-65ed-ba69-7574-b9cdaccead9f/3f4569a7-63a1-3c8a-5c53-bb9615746752",
+                    "child_nodes": []
+                },
+                {
+                    "id": "bae6c31e-738c-326a-07c7-19af8855a7e6",
+                    "title": "基本动作",
+                    "node_path": "d7bee238-65ed-ba69-7574-b9cdaccead9f/bae6c31e-738c-326a-07c7-19af8855a7e6",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7526d4e1-449a-1444-38eb-2650d1cdeb52",
+            "title": "水平三",
+            "node_path": "7526d4e1-449a-1444-38eb-2650d1cdeb52",
+            "child_nodes": [
+                {
+                    "id": "67bfd1d1-3027-29db-1b83-fddb24349791",
+                    "title": "垫上运动",
+                    "node_path": "7526d4e1-449a-1444-38eb-2650d1cdeb52/67bfd1d1-3027-29db-1b83-fddb24349791",
+                    "child_nodes": []
+                },
+                {
+                    "id": "17209bcb-e1e3-7b49-5d1d-20cf564a033e",
+                    "title": "跳箱运动",
+                    "node_path": "7526d4e1-449a-1444-38eb-2650d1cdeb52/17209bcb-e1e3-7b49-5d1d-20cf564a033e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "a443e573-9502-ab0c-f414-957e6e75aa28",
+                    "title": "踏板操",
+                    "node_path": "7526d4e1-449a-1444-38eb-2650d1cdeb52/a443e573-9502-ab0c-f414-957e6e75aa28",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "89ae9a83-ce53-a86e-02cd-58d22f9492e2",
+            "title": "水平四",
+            "node_path": "89ae9a83-ce53-a86e-02cd-58d22f9492e2",
+            "child_nodes": [
+                {
+                    "id": "d2d1f10c-ec00-46b4-0223-a35b86b56ebf",
+                    "title": "4个八拍协调动作组合",
+                    "node_path": "89ae9a83-ce53-a86e-02cd-58d22f9492e2/d2d1f10c-ec00-46b4-0223-a35b86b56ebf",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e57a28a1-7c1f-857b-fa39-18b09675b003",
+                    "title": "4个八拍小组合：上肢和步法动作",
+                    "node_path": "89ae9a83-ce53-a86e-02cd-58d22f9492e2/e57a28a1-7c1f-857b-fa39-18b09675b003",
+                    "child_nodes": []
+                },
+                {
+                    "id": "60f7bdd9-71ac-e75e-8204-20f2ae4eff03",
+                    "title": "8个八拍组合动作",
+                    "node_path": "89ae9a83-ce53-a86e-02cd-58d22f9492e2/60f7bdd9-71ac-e75e-8204-20f2ae4eff03",
+                    "child_nodes": []
+                },
+                {
+                    "id": "b0a3adbb-e021-0ec8-c019-61bab31956c6",
+                    "title": "双杠运动",
+                    "node_path": "89ae9a83-ce53-a86e-02cd-58d22f9492e2/b0a3adbb-e021-0ec8-c019-61bab31956c6",
+                    "child_nodes": []
+                },
+                {
+                    "id": "31583182-df20-9f66-3270-f80ec17103ae",
+                    "title": "手臂动作组合",
+                    "node_path": "89ae9a83-ce53-a86e-02cd-58d22f9492e2/31583182-df20-9f66-3270-f80ec17103ae",
+                    "child_nodes": []
+                },
+                {
+                    "id": "ea1aba4b-58cc-7422-3e14-eb1049c65358",
+                    "title": "步法动作组合",
+                    "node_path": "89ae9a83-ce53-a86e-02cd-58d22f9492e2/ea1aba4b-58cc-7422-3e14-eb1049c65358",
+                    "child_nodes": []
+                },
+                {
+                    "id": "7626979d-5308-d14d-1874-5d013ce871f1",
+                    "title": "组合动作",
+                    "node_path": "89ae9a83-ce53-a86e-02cd-58d22f9492e2/7626979d-5308-d14d-1874-5d013ce871f1",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3325eeb9-813a-bc3a-181f-d950f2936522",
+                    "title": "跨学科主题学习",
+                    "node_path": "89ae9a83-ce53-a86e-02cd-58d22f9492e2/3325eeb9-813a-bc3a-181f-d950f2936522",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "a4530ad3-5cf1-3349-f548-81a02058522b": [
+        {
+            "id": "513f48e2-4ab1-b739-e409-74dd04c1dd03",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 体能（全一册）",
+            "node_path": "513f48e2-4ab1-b739-e409-74dd04c1dd03",
+            "child_nodes": []
+        },
+        {
+            "id": "e87e8f71-a6fb-1606-c07d-6e0328dc62a3",
+            "title": "水平二",
+            "node_path": "e87e8f71-a6fb-1606-c07d-6e0328dc62a3",
+            "child_nodes": [
+                {
+                    "id": "7fd6d499-b8d6-6ee4-44de-34c810a28796",
+                    "title": "伙伴互跳爬",
+                    "node_path": "e87e8f71-a6fb-1606-c07d-6e0328dc62a3/7fd6d499-b8d6-6ee4-44de-34c810a28796",
+                    "child_nodes": []
+                },
+                {
+                    "id": "7b02829e-22c7-27f2-f883-119606d10507",
+                    "title": "伙伴起立",
+                    "node_path": "e87e8f71-a6fb-1606-c07d-6e0328dc62a3/7b02829e-22c7-27f2-f883-119606d10507",
+                    "child_nodes": []
+                },
+                {
+                    "id": "d76f874c-7d61-c357-5239-006549d96e98",
+                    "title": "拉手深蹲",
+                    "node_path": "e87e8f71-a6fb-1606-c07d-6e0328dc62a3/d76f874c-7d61-c357-5239-006549d96e98",
+                    "child_nodes": []
+                },
+                {
+                    "id": "620ec2bd-f274-878e-b4db-223017eee0fb",
+                    "title": "绳梯练习一",
+                    "node_path": "e87e8f71-a6fb-1606-c07d-6e0328dc62a3/620ec2bd-f274-878e-b4db-223017eee0fb",
+                    "child_nodes": []
+                },
+                {
+                    "id": "c35fa31b-8364-5da3-cc28-02c5bed4c492",
+                    "title": "绳梯练习二",
+                    "node_path": "e87e8f71-a6fb-1606-c07d-6e0328dc62a3/c35fa31b-8364-5da3-cc28-02c5bed4c492",
+                    "child_nodes": []
+                },
+                {
+                    "id": "cb5d7047-7945-0631-02ae-4a78ad32cb61",
+                    "title": "踢毽子",
+                    "node_path": "e87e8f71-a6fb-1606-c07d-6e0328dc62a3/cb5d7047-7945-0631-02ae-4a78ad32cb61",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7ce159ed-86d9-d3bc-5ff4-b52a87f1d1fe",
+            "title": "水平三",
+            "node_path": "7ce159ed-86d9-d3bc-5ff4-b52a87f1d1fe",
+            "child_nodes": [
+                {
+                    "id": "69d8f4a4-3855-66a5-be01-a91c42d72945",
+                    "title": "保加利亚蹲",
+                    "node_path": "7ce159ed-86d9-d3bc-5ff4-b52a87f1d1fe/69d8f4a4-3855-66a5-be01-a91c42d72945",
+                    "child_nodes": []
+                },
+                {
+                    "id": "ba19b713-034b-58d6-86ec-83ba4a998ce5",
+                    "title": "化简成蝶",
+                    "node_path": "7ce159ed-86d9-d3bc-5ff4-b52a87f1d1fe/ba19b713-034b-58d6-86ec-83ba4a998ce5",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3e6b9590-792b-2d5a-c7b5-f65cc0c6de31",
+                    "title": "变向跑",
+                    "node_path": "7ce159ed-86d9-d3bc-5ff4-b52a87f1d1fe/3e6b9590-792b-2d5a-c7b5-f65cc0c6de31",
+                    "child_nodes": []
+                },
+                {
+                    "id": "57c47e3a-36e8-7460-8311-f10556baed9c",
+                    "title": "最全面的拉伸",
+                    "node_path": "7ce159ed-86d9-d3bc-5ff4-b52a87f1d1fe/57c47e3a-36e8-7460-8311-f10556baed9c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "68132bb6-2a7f-b361-e461-42657dad72c3",
+                    "title": "环环相扣",
+                    "node_path": "7ce159ed-86d9-d3bc-5ff4-b52a87f1d1fe/68132bb6-2a7f-b361-e461-42657dad72c3",
+                    "child_nodes": []
+                },
+                {
+                    "id": "01e97240-49c8-fd4f-b4c7-6e94093abb08",
+                    "title": "米字折返跑",
+                    "node_path": "7ce159ed-86d9-d3bc-5ff4-b52a87f1d1fe/01e97240-49c8-fd4f-b4c7-6e94093abb08",
+                    "child_nodes": []
+                },
+                {
+                    "id": "aa880690-2c95-a5e1-7477-819fa25b9847",
+                    "title": "莲花绽放",
+                    "node_path": "7ce159ed-86d9-d3bc-5ff4-b52a87f1d1fe/aa880690-2c95-a5e1-7477-819fa25b9847",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "e141ff84-d92a-bfe3-87c4-310ed529e515",
+            "title": "水平四",
+            "node_path": "e141ff84-d92a-bfe3-87c4-310ed529e515",
+            "child_nodes": [
+                {
+                    "id": "c867d786-3bae-9a22-e7e9-e89db1cd32a8",
+                    "title": "双人分腿跳",
+                    "node_path": "e141ff84-d92a-bfe3-87c4-310ed529e515/c867d786-3bae-9a22-e7e9-e89db1cd32a8",
+                    "child_nodes": []
+                },
+                {
+                    "id": "710acbb9-fafe-44e5-e43c-e180bee65097",
+                    "title": "双人平板跳",
+                    "node_path": "e141ff84-d92a-bfe3-87c4-310ed529e515/710acbb9-fafe-44e5-e43c-e180bee65097",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e17e93b5-ef53-98ee-f97f-effac93d992d",
+                    "title": "反弓下腰",
+                    "node_path": "e141ff84-d92a-bfe3-87c4-310ed529e515/e17e93b5-ef53-98ee-f97f-effac93d992d",
+                    "child_nodes": []
+                },
+                {
+                    "id": "10c59fcd-cc9f-624a-b9be-815e1ed5d971",
+                    "title": "对脚仰卧挺髋",
+                    "node_path": "e141ff84-d92a-bfe3-87c4-310ed529e515/10c59fcd-cc9f-624a-b9be-815e1ed5d971",
+                    "child_nodes": []
+                },
+                {
+                    "id": "85c4155c-bcd7-1cd8-4a14-2abcec50a732",
+                    "title": "平板环绕",
+                    "node_path": "e141ff84-d92a-bfe3-87c4-310ed529e515/85c4155c-bcd7-1cd8-4a14-2abcec50a732",
+                    "child_nodes": []
+                },
+                {
+                    "id": "4e446b61-adc6-89a2-2001-bb15b2eddcf0",
+                    "title": "盘腿俯身下压拉伸",
+                    "node_path": "e141ff84-d92a-bfe3-87c4-310ed529e515/4e446b61-adc6-89a2-2001-bb15b2eddcf0",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e888929e-1fef-d7c9-333d-6bd5f8fd9a83",
+                    "title": "莱格尔跑",
+                    "node_path": "e141ff84-d92a-bfe3-87c4-310ed529e515/e888929e-1fef-d7c9-333d-6bd5f8fd9a83",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3bdf87c1-488e-8b02-b793-11966bd8c139",
+                    "title": "转动风火轮",
+                    "node_path": "e141ff84-d92a-bfe3-87c4-310ed529e515/3bdf87c1-488e-8b02-b793-11966bd8c139",
+                    "child_nodes": []
+                },
+                {
+                    "id": "5fcac788-6b8d-6ec4-152d-69a2e6aabc9e",
+                    "title": "马克操",
+                    "node_path": "e141ff84-d92a-bfe3-87c4-310ed529e515/5fcac788-6b8d-6ec4-152d-69a2e6aabc9e",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "17c93339-87e3-2342-9a58-ad78925ab165": [
+        {
+            "id": "6cbd7cb0-92a6-2aa8-412a-5a88914d8ee1",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 其他民族民间传统体育类运动（全一册）",
+            "node_path": "6cbd7cb0-92a6-2aa8-412a-5a88914d8ee1",
+            "child_nodes": []
+        },
+        {
+            "id": "4d7d40b3-2890-24a8-e147-d6c4f1317787",
+            "title": "水平二",
+            "node_path": "4d7d40b3-2890-24a8-e147-d6c4f1317787",
+            "child_nodes": [
+                {
+                    "id": "a5f5b531-5961-b388-4f85-c1082deb7b2e",
+                    "title": "舞狮基本原地舞法",
+                    "node_path": "4d7d40b3-2890-24a8-e147-d6c4f1317787/a5f5b531-5961-b388-4f85-c1082deb7b2e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "48ae270d-8846-b3e8-a6e1-037ea2ae794e",
+                    "title": "舞狮基本手法步型、步法",
+                    "node_path": "4d7d40b3-2890-24a8-e147-d6c4f1317787/48ae270d-8846-b3e8-a6e1-037ea2ae794e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "11187b79-d439-12ec-6083-beff27b8c1f3",
+                    "title": "舞狮基本行进间（移动）舞法",
+                    "node_path": "4d7d40b3-2890-24a8-e147-d6c4f1317787/11187b79-d439-12ec-6083-beff27b8c1f3",
+                    "child_nodes": []
+                },
+                {
+                    "id": "1298b724-a575-b872-0d82-a45040e4c070",
+                    "title": "舞龙基本握法基本手法",
+                    "node_path": "4d7d40b3-2890-24a8-e147-d6c4f1317787/1298b724-a575-b872-0d82-a45040e4c070",
+                    "child_nodes": []
+                },
+                {
+                    "id": "cd0b47c2-ec7f-0b13-f0ba-673091b21847",
+                    "title": "舞龙基本步型基本步法",
+                    "node_path": "4d7d40b3-2890-24a8-e147-d6c4f1317787/cd0b47c2-ec7f-0b13-f0ba-673091b21847",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "8ef18b57-5c6b-20a8-67ac-05a86971c8cd",
+            "title": "水平三",
+            "node_path": "8ef18b57-5c6b-20a8-67ac-05a86971c8cd",
+            "child_nodes": [
+                {
+                    "id": "66b7e080-d27e-2426-691f-b0ddec392cbe",
+                    "title": "舞狮基础难度动作",
+                    "node_path": "8ef18b57-5c6b-20a8-67ac-05a86971c8cd/66b7e080-d27e-2426-691f-b0ddec392cbe",
+                    "child_nodes": []
+                },
+                {
+                    "id": "cf70dbc8-a966-6868-fdc1-99904f7708cc",
+                    "title": "舞龙“8”字舞龙类动作",
+                    "node_path": "8ef18b57-5c6b-20a8-67ac-05a86971c8cd/cf70dbc8-a966-6868-fdc1-99904f7708cc",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "decf016c-6bc5-bdbb-c972-f517b60125f9",
+            "title": "水平四",
+            "node_path": "decf016c-6bc5-bdbb-c972-f517b60125f9",
+            "child_nodes": [
+                {
+                    "id": "2812c694-816a-01e1-d5b0-5904fbce3d3b",
+                    "title": "舞狮组合动作",
+                    "node_path": "decf016c-6bc5-bdbb-c972-f517b60125f9/2812c694-816a-01e1-d5b0-5904fbce3d3b",
+                    "child_nodes": []
+                },
+                {
+                    "id": "153a0b6c-abb7-8026-145d-b27d8cbf72f5",
+                    "title": "舞龙游龙类动作",
+                    "node_path": "decf016c-6bc5-bdbb-c972-f517b60125f9/153a0b6c-abb7-8026-145d-b27d8cbf72f5",
+                    "child_nodes": []
+                },
+                {
+                    "id": "464cd8ed-77ef-a8d9-c993-2c40124979c8",
+                    "title": "舞龙组图类动作",
+                    "node_path": "decf016c-6bc5-bdbb-c972-f517b60125f9/464cd8ed-77ef-a8d9-c993-2c40124979c8",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "64059908-5d35-69ff-86f0-11abe9072653": [
+        {
+            "id": "1ff83996-dec4-bc64-766e-c611cd294da4",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 基本运动技能（全一册）",
+            "node_path": "1ff83996-dec4-bc64-766e-c611cd294da4",
+            "child_nodes": []
+        },
+        {
+            "id": "18e489c9-1169-4f9a-8a36-4cacc67523ff",
+            "title": "水平一",
+            "node_path": "18e489c9-1169-4f9a-8a36-4cacc67523ff",
+            "child_nodes": [
+                {
+                    "id": "3ff90ea2-a123-06d5-56df-5fb74aecef87",
+                    "title": "操控性技能",
+                    "node_path": "18e489c9-1169-4f9a-8a36-4cacc67523ff/3ff90ea2-a123-06d5-56df-5fb74aecef87",
+                    "child_nodes": []
+                },
+                {
+                    "id": "5ad47d32-2139-d508-b75b-5ef49a743943",
+                    "title": "移动性技能",
+                    "node_path": "18e489c9-1169-4f9a-8a36-4cacc67523ff/5ad47d32-2139-d508-b75b-5ef49a743943",
+                    "child_nodes": []
+                },
+                {
+                    "id": "44aa78e0-526d-b9cb-7ff9-763fd33fbb3e",
+                    "title": "身体姿态",
+                    "node_path": "18e489c9-1169-4f9a-8a36-4cacc67523ff/44aa78e0-526d-b9cb-7ff9-763fd33fbb3e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "45b766dc-ceb2-9657-72bf-e104dbf198c2",
+                    "title": "非移动性技能",
+                    "node_path": "18e489c9-1169-4f9a-8a36-4cacc67523ff/45b766dc-ceb2-9657-72bf-e104dbf198c2",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "f3499f10-b9f1-4f50-c686-8eb324529717": [
+        {
+            "id": "de105bb3-a019-4efd-7995-e27994eb1b61",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 排球运动（全一册）",
+            "node_path": "de105bb3-a019-4efd-7995-e27994eb1b61",
+            "child_nodes": []
+        },
+        {
+            "id": "b6372597-6028-c230-3a80-77a569dd2b04",
+            "title": "水平二",
+            "node_path": "b6372597-6028-c230-3a80-77a569dd2b04",
+            "child_nodes": [
+                {
+                    "id": "24969642-ba4c-af0b-9715-2d3e712a4fa5",
+                    "title": "准备姿势",
+                    "node_path": "b6372597-6028-c230-3a80-77a569dd2b04/24969642-ba4c-af0b-9715-2d3e712a4fa5",
+                    "child_nodes": []
+                },
+                {
+                    "id": "c13c6a4d-5ac5-2cd0-845c-6fd3c490a31c",
+                    "title": "垫球",
+                    "node_path": "b6372597-6028-c230-3a80-77a569dd2b04/c13c6a4d-5ac5-2cd0-845c-6fd3c490a31c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "76eea1a1-2bc0-d21c-e1cb-b37ed27c7f32",
+                    "title": "移动",
+                    "node_path": "b6372597-6028-c230-3a80-77a569dd2b04/76eea1a1-2bc0-d21c-e1cb-b37ed27c7f32",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c7a9a7c1-641c-08cb-8386-228923d2e90e",
+            "title": "水平三",
+            "node_path": "c7a9a7c1-641c-08cb-8386-228923d2e90e",
+            "child_nodes": [
+                {
+                    "id": "f94118a8-8db3-2533-a367-478755c6bf56",
+                    "title": "传球",
+                    "node_path": "c7a9a7c1-641c-08cb-8386-228923d2e90e/f94118a8-8db3-2533-a367-478755c6bf56",
+                    "child_nodes": []
+                },
+                {
+                    "id": "83e52703-9260-3f43-7035-965d97db6711",
+                    "title": "扣球",
+                    "node_path": "c7a9a7c1-641c-08cb-8386-228923d2e90e/83e52703-9260-3f43-7035-965d97db6711",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "b8e7f702-a396-3427-e00e-76579ff3af95",
+            "title": "水平四",
+            "node_path": "b8e7f702-a396-3427-e00e-76579ff3af95",
+            "child_nodes": [
+                {
+                    "id": "1fc5f5c4-d019-d7b4-a3c2-06b172e488b3",
+                    "title": "战术练习",
+                    "node_path": "b8e7f702-a396-3427-e00e-76579ff3af95/1fc5f5c4-d019-d7b4-a3c2-06b172e488b3",
+                    "child_nodes": []
+                },
+                {
+                    "id": "64ba797b-b3a8-dd1f-e9ab-6f22ec2e312c",
+                    "title": "拦网",
+                    "node_path": "b8e7f702-a396-3427-e00e-76579ff3af95/64ba797b-b3a8-dd1f-e9ab-6f22ec2e312c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "46663a6e-e595-04f3-e7d3-68370be84134",
+                    "title": "正面上手发球",
+                    "node_path": "b8e7f702-a396-3427-e00e-76579ff3af95/46663a6e-e595-04f3-e7d3-68370be84134",
+                    "child_nodes": []
+                },
+                {
+                    "id": "487d5872-ba5a-09f4-a12c-41b02ba583c6",
+                    "title": "组合练习",
+                    "node_path": "b8e7f702-a396-3427-e00e-76579ff3af95/487d5872-ba5a-09f4-a12c-41b02ba583c6",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "0e456397-691e-0426-eb65-192494c9da11": [
+        {
+            "id": "bf0aefc9-418f-3828-f270-2a77e5095adc",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 新兴体育类运动（全一册）",
+            "node_path": "bf0aefc9-418f-3828-f270-2a77e5095adc",
+            "child_nodes": []
+        },
+        {
+            "id": "87be050d-26ef-dc1f-b282-f48093b32f94",
+            "title": "水平二",
+            "node_path": "87be050d-26ef-dc1f-b282-f48093b32f94",
+            "child_nodes": [
+                {
+                    "id": "aa541196-6869-1391-70e7-22899d5bb53e",
+                    "title": "花样跳绳：单个动作",
+                    "node_path": "87be050d-26ef-dc1f-b282-f48093b32f94/aa541196-6869-1391-70e7-22899d5bb53e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "a629d767-0fbd-f1e6-d49d-99a40c51c314",
+                    "title": "花样跳绳：组合动作一",
+                    "node_path": "87be050d-26ef-dc1f-b282-f48093b32f94/a629d767-0fbd-f1e6-d49d-99a40c51c314",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f69dd55e-df34-caad-1044-cf3976642835",
+                    "title": "花样跳绳：组合动作二",
+                    "node_path": "87be050d-26ef-dc1f-b282-f48093b32f94/f69dd55e-df34-caad-1044-cf3976642835",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "5bdb6c23-7813-cd7d-de3e-7b2038fecdbb",
+            "title": "水平三",
+            "node_path": "5bdb6c23-7813-cd7d-de3e-7b2038fecdbb",
+            "child_nodes": [
+                {
+                    "id": "a27c83d9-5458-670b-d5a2-1118c4857acc",
+                    "title": "花样跳绳：带长绳跳",
+                    "node_path": "5bdb6c23-7813-cd7d-de3e-7b2038fecdbb/a27c83d9-5458-670b-d5a2-1118c4857acc",
+                    "child_nodes": []
+                },
+                {
+                    "id": "c8cb7a74-61f3-7624-fc4e-c6f00d707600",
+                    "title": "花样跳绳：跨学科内容",
+                    "node_path": "5bdb6c23-7813-cd7d-de3e-7b2038fecdbb/c8cb7a74-61f3-7624-fc4e-c6f00d707600",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2aa3cbf5-704d-0a8c-1e7c-307e9bfd7fbd",
+                    "title": "花样跳绳：车轮跳",
+                    "node_path": "5bdb6c23-7813-cd7d-de3e-7b2038fecdbb/2aa3cbf5-704d-0a8c-1e7c-307e9bfd7fbd",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "42e57028-c6e8-6a15-45f0-7e5ceb5d6c82",
+            "title": "水平四",
+            "node_path": "42e57028-c6e8-6a15-45f0-7e5ceb5d6c82",
+            "child_nodes": [
+                {
+                    "id": "c26be230-8f2e-62dd-b493-2c61b08d01c3",
+                    "title": "花样跳绳：二级套路",
+                    "node_path": "42e57028-c6e8-6a15-45f0-7e5ceb5d6c82/c26be230-8f2e-62dd-b493-2c61b08d01c3",
+                    "child_nodes": []
+                },
+                {
+                    "id": "00b42657-b4b4-6f21-f14f-0580d336fe34",
+                    "title": "花样跳绳：套人跳",
+                    "node_path": "42e57028-c6e8-6a15-45f0-7e5ceb5d6c82/00b42657-b4b4-6f21-f14f-0580d336fe34",
+                    "child_nodes": []
+                },
+                {
+                    "id": "02304889-3d47-aa6e-4ceb-bb2b5d68200f",
+                    "title": "花样跳绳：绳游戏",
+                    "node_path": "42e57028-c6e8-6a15-45f0-7e5ceb5d6c82/02304889-3d47-aa6e-4ceb-bb2b5d68200f",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "34355168-a640-6844-b585-654838e66d5b": [
+        {
+            "id": "1440e058-0825-bf34-7841-9bd3c53a7936",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 武术类运动（全一册）",
+            "node_path": "1440e058-0825-bf34-7841-9bd3c53a7936",
+            "child_nodes": []
+        },
+        {
+            "id": "72464e5f-2e0c-b17d-9461-2667f66dbfae",
+            "title": "水平二",
+            "node_path": "72464e5f-2e0c-b17d-9461-2667f66dbfae",
+            "child_nodes": [
+                {
+                    "id": "5e992ed6-6393-21e6-305f-ac2d23835134",
+                    "title": "中国式摔跤",
+                    "node_path": "72464e5f-2e0c-b17d-9461-2667f66dbfae/5e992ed6-6393-21e6-305f-ac2d23835134",
+                    "child_nodes": []
+                },
+                {
+                    "id": "a63c6e07-1ed2-9d1c-927a-5f8935e66ac4",
+                    "title": "剑术",
+                    "node_path": "72464e5f-2e0c-b17d-9461-2667f66dbfae/a63c6e07-1ed2-9d1c-927a-5f8935e66ac4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "93bf2ce0-e357-fe51-b855-433eeec19f89",
+                    "title": "长拳段前一级拳操",
+                    "node_path": "72464e5f-2e0c-b17d-9461-2667f66dbfae/93bf2ce0-e357-fe51-b855-433eeec19f89",
+                    "child_nodes": []
+                },
+                {
+                    "id": "da6a9bf7-0928-98c8-18c9-d4615490617e",
+                    "title": "长拳段前二级拳操",
+                    "node_path": "72464e5f-2e0c-b17d-9461-2667f66dbfae/da6a9bf7-0928-98c8-18c9-d4615490617e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "ec18f136-5959-7c12-8703-5ee411f1db9c",
+            "title": "水平三",
+            "node_path": "ec18f136-5959-7c12-8703-5ee411f1db9c",
+            "child_nodes": [
+                {
+                    "id": "9bd84c9a-f088-f559-0ce9-e1501c86a9d1",
+                    "title": "长拳一段单练套路",
+                    "node_path": "ec18f136-5959-7c12-8703-5ee411f1db9c/9bd84c9a-f088-f559-0ce9-e1501c86a9d1",
+                    "child_nodes": []
+                },
+                {
+                    "id": "906536eb-8c7e-2904-9b4d-a5c3b234bfcf",
+                    "title": "长拳一段对打套路",
+                    "node_path": "ec18f136-5959-7c12-8703-5ee411f1db9c/906536eb-8c7e-2904-9b4d-a5c3b234bfcf",
+                    "child_nodes": []
+                },
+                {
+                    "id": "fa713c9d-ebd2-bea7-6ce2-c322f174da33",
+                    "title": "长拳一段拆招",
+                    "node_path": "ec18f136-5959-7c12-8703-5ee411f1db9c/fa713c9d-ebd2-bea7-6ce2-c322f174da33",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "26be0f3c-ee0e-e0e1-1c0a-13e0340cb6a7",
+            "title": "水平四",
+            "node_path": "26be0f3c-ee0e-e0e1-1c0a-13e0340cb6a7",
+            "child_nodes": [
+                {
+                    "id": "c300e984-9c14-70f7-3e12-6ef9dd6fc258",
+                    "title": "长拳二段单练套路",
+                    "node_path": "26be0f3c-ee0e-e0e1-1c0a-13e0340cb6a7/c300e984-9c14-70f7-3e12-6ef9dd6fc258",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9a9ad21d-b964-7428-e1ac-3938c2469582",
+                    "title": "长拳二段对打套路",
+                    "node_path": "26be0f3c-ee0e-e0e1-1c0a-13e0340cb6a7/9a9ad21d-b964-7428-e1ac-3938c2469582",
+                    "child_nodes": []
+                },
+                {
+                    "id": "746ca707-9e45-4811-1ddd-ce4d468df349",
+                    "title": "长拳二段拆招",
+                    "node_path": "26be0f3c-ee0e-e0e1-1c0a-13e0340cb6a7/746ca707-9e45-4811-1ddd-ce4d468df349",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "d6dcccb4-b62e-8159-5857-4e926872b341": [
+        {
+            "id": "d2983017-a648-12bc-3b81-fcdc84b89174",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 游泳•滑冰（全一册）",
+            "node_path": "d2983017-a648-12bc-3b81-fcdc84b89174",
+            "child_nodes": []
+        },
+        {
+            "id": "71ebf7b8-1667-d49c-3858-fcffe773107d",
+            "title": "水平二",
+            "node_path": "71ebf7b8-1667-d49c-3858-fcffe773107d",
+            "child_nodes": [
+                {
+                    "id": "09f9eb1f-eac7-9d01-a597-b951873c8507",
+                    "title": "游泳易犯错误及纠正方法",
+                    "node_path": "71ebf7b8-1667-d49c-3858-fcffe773107d/09f9eb1f-eac7-9d01-a597-b951873c8507",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9d489341-573b-7bb5-5a04-61402273f7f4",
+                    "title": "游泳池边俯卧蛙泳腿模仿练习",
+                    "node_path": "71ebf7b8-1667-d49c-3858-fcffe773107d/9d489341-573b-7bb5-5a04-61402273f7f4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "a9e3de35-3981-5985-d65a-5a4af3ab8a39",
+                    "title": "游泳蛙泳",
+                    "node_path": "71ebf7b8-1667-d49c-3858-fcffe773107d/a9e3de35-3981-5985-d65a-5a4af3ab8a39",
+                    "child_nodes": []
+                },
+                {
+                    "id": "58864c05-a99e-be3d-1272-6540e64e9c3a",
+                    "title": "游泳蹬壁滑行—一次蛙泳腿",
+                    "node_path": "71ebf7b8-1667-d49c-3858-fcffe773107d/58864c05-a99e-be3d-1272-6540e64e9c3a",
+                    "child_nodes": []
+                },
+                {
+                    "id": "1c0fc2c2-0122-abbf-b334-11b82f5d6eca",
+                    "title": "滑冰主要教学手段与方法",
+                    "node_path": "71ebf7b8-1667-d49c-3858-fcffe773107d/1c0fc2c2-0122-abbf-b334-11b82f5d6eca",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3a29a3fb-add4-8400-0139-7961880b3bf2",
+                    "title": "滑冰易犯错误及纠正方法",
+                    "node_path": "71ebf7b8-1667-d49c-3858-fcffe773107d/3a29a3fb-add4-8400-0139-7961880b3bf2",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2a752d36-4a1c-7a7d-4fcc-921de14c1dd1",
+                    "title": "滑冰速度滑冰",
+                    "node_path": "71ebf7b8-1667-d49c-3858-fcffe773107d/2a752d36-4a1c-7a7d-4fcc-921de14c1dd1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "5b5d5f72-7720-0b35-09a1-27de6f081873",
+            "title": "水平三",
+            "node_path": "5b5d5f72-7720-0b35-09a1-27de6f081873",
+            "child_nodes": [
+                {
+                    "id": "03476877-1c36-6745-c5eb-46d43fc23a8f",
+                    "title": "游泳一次蛙泳腿—一次划臂呼吸",
+                    "node_path": "5b5d5f72-7720-0b35-09a1-27de6f081873/03476877-1c36-6745-c5eb-46d43fc23a8f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2d922f06-9bc6-4d66-0a0d-46b8dd568906",
+                    "title": "滑冰弯道辅助练习",
+                    "node_path": "5b5d5f72-7720-0b35-09a1-27de6f081873/2d922f06-9bc6-4d66-0a0d-46b8dd568906",
+                    "child_nodes": []
+                },
+                {
+                    "id": "4b990d2a-63f1-41ec-f092-8f855ba926d5",
+                    "title": "滑冰直道辅助练习",
+                    "node_path": "5b5d5f72-7720-0b35-09a1-27de6f081873/4b990d2a-63f1-41ec-f092-8f855ba926d5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "4cd3e24b-6bf0-d674-8b58-590137dea9c0",
+            "title": "水平四",
+            "node_path": "4cd3e24b-6bf0-d674-8b58-590137dea9c0",
+            "child_nodes": [
+                {
+                    "id": "e1599932-6b34-b4a2-7a8d-dfcbb327c834",
+                    "title": "游泳综合活动",
+                    "node_path": "4cd3e24b-6bf0-d674-8b58-590137dea9c0/e1599932-6b34-b4a2-7a8d-dfcbb327c834",
+                    "child_nodes": []
+                },
+                {
+                    "id": "fd4d3183-09d1-55a3-d9fc-9d067f688ca4",
+                    "title": "游泳蛙泳完整动作练习",
+                    "node_path": "4cd3e24b-6bf0-d674-8b58-590137dea9c0/fd4d3183-09d1-55a3-d9fc-9d067f688ca4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "6d919423-0492-9595-8d7a-05ddf79c0d3d",
+                    "title": "滑冰综合活动",
+                    "node_path": "4cd3e24b-6bf0-d674-8b58-590137dea9c0/6d919423-0492-9595-8d7a-05ddf79c0d3d",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "c819c5b5-a6ad-705c-9173-a1dcb08f4226": [
+        {
+            "id": "e74b7518-2dbb-af08-74e9-373efc4e0fab",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 田径类运动（全一册）",
+            "node_path": "e74b7518-2dbb-af08-74e9-373efc4e0fab",
+            "child_nodes": []
+        },
+        {
+            "id": "02dc273c-fc92-e437-ef5d-7d73c7b1c5b4",
+            "title": "水平二",
+            "node_path": "02dc273c-fc92-e437-ef5d-7d73c7b1c5b4",
+            "child_nodes": [
+                {
+                    "id": "722adefe-4ed6-b76d-61e4-df67a0daa151",
+                    "title": "前抛实心球",
+                    "node_path": "02dc273c-fc92-e437-ef5d-7d73c7b1c5b4/722adefe-4ed6-b76d-61e4-df67a0daa151",
+                    "child_nodes": []
+                },
+                {
+                    "id": "d54052e6-eced-9ead-457f-0a7cdff77941",
+                    "title": "前掷实心球",
+                    "node_path": "02dc273c-fc92-e437-ef5d-7d73c7b1c5b4/d54052e6-eced-9ead-457f-0a7cdff77941",
+                    "child_nodes": []
+                },
+                {
+                    "id": "a62a7967-f0be-76d9-490c-7712618efb55",
+                    "title": "单双脚跳",
+                    "node_path": "02dc273c-fc92-e437-ef5d-7d73c7b1c5b4/a62a7967-f0be-76d9-490c-7712618efb55",
+                    "child_nodes": []
+                },
+                {
+                    "id": "d5e3446c-2333-257b-516a-e3a0889fde3f",
+                    "title": "持轻物掷远",
+                    "node_path": "02dc273c-fc92-e437-ef5d-7d73c7b1c5b4/d5e3446c-2333-257b-516a-e3a0889fde3f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "89857e14-5c44-a62c-1574-9b7196fa0f47",
+                    "title": "立定跳远",
+                    "node_path": "02dc273c-fc92-e437-ef5d-7d73c7b1c5b4/89857e14-5c44-a62c-1574-9b7196fa0f47",
+                    "child_nodes": []
+                },
+                {
+                    "id": "4e7dbc7d-a7b3-2865-cfb7-10085ee3cbae",
+                    "title": "跑走交替",
+                    "node_path": "02dc273c-fc92-e437-ef5d-7d73c7b1c5b4/4e7dbc7d-a7b3-2865-cfb7-10085ee3cbae",
+                    "child_nodes": []
+                },
+                {
+                    "id": "868a58a2-9b35-c8a9-8e40-2354904e89f3",
+                    "title": "迎面接力跑",
+                    "node_path": "02dc273c-fc92-e437-ef5d-7d73c7b1c5b4/868a58a2-9b35-c8a9-8e40-2354904e89f3",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "a0a232cf-33f7-5e6e-c979-4c5bcec4c39d",
+            "title": "水平三",
+            "node_path": "a0a232cf-33f7-5e6e-c979-4c5bcec4c39d",
+            "child_nodes": [
+                {
+                    "id": "d17f90c5-5e7c-65ce-815c-50dd9cf10dfe",
+                    "title": "100米",
+                    "node_path": "a0a232cf-33f7-5e6e-c979-4c5bcec4c39d/d17f90c5-5e7c-65ce-815c-50dd9cf10dfe",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f698b93b-568a-ae9d-ff86-9dab7245c04c",
+                    "title": "中长跑",
+                    "node_path": "a0a232cf-33f7-5e6e-c979-4c5bcec4c39d/f698b93b-568a-ae9d-ff86-9dab7245c04c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "fc309d82-c153-8f87-6bc8-d251c24c266d",
+                    "title": "助跑掷垒球",
+                    "node_path": "a0a232cf-33f7-5e6e-c979-4c5bcec4c39d/fc309d82-c153-8f87-6bc8-d251c24c266d",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f84039eb-4d4b-728d-945b-5955776692a4",
+                    "title": "往返跑",
+                    "node_path": "a0a232cf-33f7-5e6e-c979-4c5bcec4c39d/f84039eb-4d4b-728d-945b-5955776692a4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "06ce2260-33b5-5294-5621-9a710c55f9f1",
+                    "title": "蹲踞式跳远",
+                    "node_path": "a0a232cf-33f7-5e6e-c979-4c5bcec4c39d/06ce2260-33b5-5294-5621-9a710c55f9f1",
+                    "child_nodes": []
+                },
+                {
+                    "id": "4766e054-7a7c-ced8-298e-684a1f6b33ff",
+                    "title": "障碍跑",
+                    "node_path": "a0a232cf-33f7-5e6e-c979-4c5bcec4c39d/4766e054-7a7c-ced8-298e-684a1f6b33ff",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "067627e7-9a10-72fd-6417-eea351ce893a",
+            "title": "水平四",
+            "node_path": "067627e7-9a10-72fd-6417-eea351ce893a",
+            "child_nodes": [
+                {
+                    "id": "8a93e5af-8ab1-6696-658b-d6df82f400a9",
+                    "title": "4×100米接力",
+                    "node_path": "067627e7-9a10-72fd-6417-eea351ce893a/8a93e5af-8ab1-6696-658b-d6df82f400a9",
+                    "child_nodes": []
+                },
+                {
+                    "id": "32ba0fb8-befd-b04d-82a4-54b6d83d330f",
+                    "title": "侧向滑步推铅球",
+                    "node_path": "067627e7-9a10-72fd-6417-eea351ce893a/32ba0fb8-befd-b04d-82a4-54b6d83d330f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3b5767cf-0fb3-caaf-b47f-7f484e4082a7",
+                    "title": "原地侧向推实心球",
+                    "node_path": "067627e7-9a10-72fd-6417-eea351ce893a/3b5767cf-0fb3-caaf-b47f-7f484e4082a7",
+                    "child_nodes": []
+                },
+                {
+                    "id": "cedacd87-5b49-474f-e36e-75a58989bf7e",
+                    "title": "后抛实心球",
+                    "node_path": "067627e7-9a10-72fd-6417-eea351ce893a/cedacd87-5b49-474f-e36e-75a58989bf7e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0491fdf5-d3d1-26ad-5af8-422900706a77",
+                    "title": "立定三级跳远",
+                    "node_path": "067627e7-9a10-72fd-6417-eea351ce893a/0491fdf5-d3d1-26ad-5af8-422900706a77",
+                    "child_nodes": []
+                },
+                {
+                    "id": "482c585e-f818-b773-fab4-1e9f7caac0de",
+                    "title": "跨栏跑",
+                    "node_path": "067627e7-9a10-72fd-6417-eea351ce893a/482c585e-f818-b773-fab4-1e9f7caac0de",
+                    "child_nodes": []
+                },
+                {
+                    "id": "267fb447-4238-4e03-5f71-b44289434ded",
+                    "title": "跨越式跳高",
+                    "node_path": "067627e7-9a10-72fd-6417-eea351ce893a/267fb447-4238-4e03-5f71-b44289434ded",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "114d66c7-79aa-b6f0-64e5-7faf294096fb": [
+        {
+            "id": "bfacf8f9-b618-93ad-9a2b-77534696af3c",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 篮球运动（全一册）",
+            "node_path": "bfacf8f9-b618-93ad-9a2b-77534696af3c",
+            "child_nodes": []
+        },
+        {
+            "id": "a24d869f-3354-50d8-3a08-acb91a2b3d1c",
+            "title": "水平二",
+            "node_path": "a24d869f-3354-50d8-3a08-acb91a2b3d1c",
+            "child_nodes": [
+                {
+                    "id": "f5fa2119-e525-fa04-0cdc-f3c06ce3a791",
+                    "title": "传准接龙游戏",
+                    "node_path": "a24d869f-3354-50d8-3a08-acb91a2b3d1c/f5fa2119-e525-fa04-0cdc-f3c06ce3a791",
+                    "child_nodes": []
+                },
+                {
+                    "id": "6815ac7b-14a6-5b54-d88f-b3db14384382",
+                    "title": "传球转圈游戏",
+                    "node_path": "a24d869f-3354-50d8-3a08-acb91a2b3d1c/6815ac7b-14a6-5b54-d88f-b3db14384382",
+                    "child_nodes": []
+                },
+                {
+                    "id": "06961927-69a7-92b3-3532-5d5eddcb297d",
+                    "title": "传递接龙游戏",
+                    "node_path": "a24d869f-3354-50d8-3a08-acb91a2b3d1c/06961927-69a7-92b3-3532-5d5eddcb297d",
+                    "child_nodes": []
+                },
+                {
+                    "id": "1469e071-a3eb-8578-5785-f9748fa247b4",
+                    "title": "穿越过山车球性游戏",
+                    "node_path": "a24d869f-3354-50d8-3a08-acb91a2b3d1c/1469e071-a3eb-8578-5785-f9748fa247b4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "62f42745-d15f-8a92-4761-c6dc093a5684",
+                    "title": "行进间手指拨球",
+                    "node_path": "a24d869f-3354-50d8-3a08-acb91a2b3d1c/62f42745-d15f-8a92-4761-c6dc093a5684",
+                    "child_nodes": []
+                },
+                {
+                    "id": "6a49cf03-ebff-7866-9ed4-466b9f5dd3b8",
+                    "title": "行进间运球猜拳挑战赛",
+                    "node_path": "a24d869f-3354-50d8-3a08-acb91a2b3d1c/6a49cf03-ebff-7866-9ed4-466b9f5dd3b8",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2b205e9b-47f4-3140-372b-0ec9ac5957c1",
+                    "title": "运球拔河游戏",
+                    "node_path": "a24d869f-3354-50d8-3a08-acb91a2b3d1c/2b205e9b-47f4-3140-372b-0ec9ac5957c1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "fbda2166-edc6-318e-a9eb-b4b58fb09477",
+            "title": "水平三",
+            "node_path": "fbda2166-edc6-318e-a9eb-b4b58fb09477",
+            "child_nodes": [
+                {
+                    "id": "76288749-0e17-9017-dc3c-72f3eb0bd60f",
+                    "title": "传击地球",
+                    "node_path": "fbda2166-edc6-318e-a9eb-b4b58fb09477/76288749-0e17-9017-dc3c-72f3eb0bd60f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "c2ab285d-713d-f392-bef6-4f3974221e38",
+                    "title": "单手肩上投篮",
+                    "node_path": "fbda2166-edc6-318e-a9eb-b4b58fb09477/c2ab285d-713d-f392-bef6-4f3974221e38",
+                    "child_nodes": []
+                },
+                {
+                    "id": "235ba5f8-c461-1f4c-1b8d-fbae1ac51120",
+                    "title": "双手胸前传接球",
+                    "node_path": "fbda2166-edc6-318e-a9eb-b4b58fb09477/235ba5f8-c461-1f4c-1b8d-fbae1ac51120",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e6347e8a-f7a8-7725-38c1-6e7f8f755679",
+                    "title": "双手胸前投篮",
+                    "node_path": "fbda2166-edc6-318e-a9eb-b4b58fb09477/e6347e8a-f7a8-7725-38c1-6e7f8f755679",
+                    "child_nodes": []
+                },
+                {
+                    "id": "913e13e2-d401-85a6-0567-9b3b46743d21",
+                    "title": "夺取标志桶游戏",
+                    "node_path": "fbda2166-edc6-318e-a9eb-b4b58fb09477/913e13e2-d401-85a6-0567-9b3b46743d21",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "d1ec67d9-c9aa-e62c-1fd2-f4b9ed957cea",
+            "title": "水平四",
+            "node_path": "d1ec67d9-c9aa-e62c-1fd2-f4b9ed957cea",
+            "child_nodes": [
+                {
+                    "id": "9ab36cb2-fd24-1641-7ffd-828b81df33cf",
+                    "title": "三人组合",
+                    "node_path": "d1ec67d9-c9aa-e62c-1fd2-f4b9ed957cea/9ab36cb2-fd24-1641-7ffd-828b81df33cf",
+                    "child_nodes": []
+                },
+                {
+                    "id": "60752300-e5e4-695b-820d-14f0dcb1711b",
+                    "title": "两人组合",
+                    "node_path": "d1ec67d9-c9aa-e62c-1fd2-f4b9ed957cea/60752300-e5e4-695b-820d-14f0dcb1711b",
+                    "child_nodes": []
+                },
+                {
+                    "id": "b6aa2f06-2663-9f85-bac9-8dd5bbaa521b",
+                    "title": "五人组合",
+                    "node_path": "d1ec67d9-c9aa-e62c-1fd2-f4b9ed957cea/b6aa2f06-2663-9f85-bac9-8dd5bbaa521b",
+                    "child_nodes": []
+                },
+                {
+                    "id": "1e6f6bce-57fc-31ce-4cda-a22c1d2f4860",
+                    "title": "多人组合投篮",
+                    "node_path": "d1ec67d9-c9aa-e62c-1fd2-f4b9ed957cea/1e6f6bce-57fc-31ce-4cda-a22c1d2f4860",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "a85f0f92-0231-e5cd-79f6-06b8e0e3d4ed": [
+        {
+            "id": "5be4f529-2f77-e92e-d58d-eda6179943f2",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 羽毛球•网球（全一册）",
+            "node_path": "5be4f529-2f77-e92e-d58d-eda6179943f2",
+            "child_nodes": []
+        },
+        {
+            "id": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a",
+            "title": "水平二",
+            "node_path": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a",
+            "child_nodes": [
+                {
+                    "id": "87189d53-2503-e918-53be-2727b08a9673",
+                    "title": "网球上手发球技术",
+                    "node_path": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a/87189d53-2503-e918-53be-2727b08a9673",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e7988c59-45fa-add9-f40d-84e28e81b848",
+                    "title": "网球双手反拍击落地球技术",
+                    "node_path": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a/e7988c59-45fa-add9-f40d-84e28e81b848",
+                    "child_nodes": []
+                },
+                {
+                    "id": "eadbb95a-eec3-e64b-e65f-c430cea61411",
+                    "title": "网球截击技术",
+                    "node_path": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a/eadbb95a-eec3-e64b-e65f-c430cea61411",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e3f90efe-6f9f-7ded-7949-a5e09a31cdc3",
+                    "title": "网球正手击落地球技术",
+                    "node_path": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a/e3f90efe-6f9f-7ded-7949-a5e09a31cdc3",
+                    "child_nodes": []
+                },
+                {
+                    "id": "7662dee9-719e-b00f-370f-739b07fe067d",
+                    "title": "网球高压技术",
+                    "node_path": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a/7662dee9-719e-b00f-370f-739b07fe067d",
+                    "child_nodes": []
+                },
+                {
+                    "id": "ee0aeed8-8bc9-118b-2464-825cd7d3d304",
+                    "title": "羽毛球一",
+                    "node_path": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a/ee0aeed8-8bc9-118b-2464-825cd7d3d304",
+                    "child_nodes": []
+                },
+                {
+                    "id": "5efe32c1-a481-1c18-c57b-8ca19b77f0cd",
+                    "title": "羽毛球二",
+                    "node_path": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a/5efe32c1-a481-1c18-c57b-8ca19b77f0cd",
+                    "child_nodes": []
+                },
+                {
+                    "id": "70dde8ca-8691-ad4b-16f2-2bccb3f337ff",
+                    "title": "羽毛球三",
+                    "node_path": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a/70dde8ca-8691-ad4b-16f2-2bccb3f337ff",
+                    "child_nodes": []
+                },
+                {
+                    "id": "b8b5999d-a384-17e6-b397-086804fba848",
+                    "title": "羽毛球四",
+                    "node_path": "54c66fe2-fa93-2fb8-da71-07f8e9efe51a/b8b5999d-a384-17e6-b397-086804fba848",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "d99a560c-cf38-ca6e-5753-3441ad34e58d",
+            "title": "水平三",
+            "node_path": "d99a560c-cf38-ca6e-5753-3441ad34e58d",
+            "child_nodes": [
+                {
+                    "id": "1104d7f5-29c3-0d2a-5918-7dc847502987",
+                    "title": "网球上网战术：接发球上网",
+                    "node_path": "d99a560c-cf38-ca6e-5753-3441ad34e58d/1104d7f5-29c3-0d2a-5918-7dc847502987",
+                    "child_nodes": []
+                },
+                {
+                    "id": "76ababb1-a80b-3f01-b803-18ca86cfb8be",
+                    "title": "羽毛球五",
+                    "node_path": "d99a560c-cf38-ca6e-5753-3441ad34e58d/76ababb1-a80b-3f01-b803-18ca86cfb8be",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0f0120ee-fb29-af61-9345-add4cf7be830",
+                    "title": "羽毛球六",
+                    "node_path": "d99a560c-cf38-ca6e-5753-3441ad34e58d/0f0120ee-fb29-af61-9345-add4cf7be830",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "3dea6cb3-b541-4482-6dcc-248e72a49f99",
+            "title": "水平四",
+            "node_path": "3dea6cb3-b541-4482-6dcc-248e72a49f99",
+            "child_nodes": [
+                {
+                    "id": "22ea4b57-2e39-8569-8bf2-b9343b761b90",
+                    "title": "网球单打战术：分点调动、重复落点",
+                    "node_path": "3dea6cb3-b541-4482-6dcc-248e72a49f99/22ea4b57-2e39-8569-8bf2-b9343b761b90",
+                    "child_nodes": []
+                },
+                {
+                    "id": "781c7284-0f60-1bb2-8228-e99d4090dbdf",
+                    "title": "网球单打战术：半场随球上网",
+                    "node_path": "3dea6cb3-b541-4482-6dcc-248e72a49f99/781c7284-0f60-1bb2-8228-e99d4090dbdf",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3dfc728c-6383-5682-5fa7-93e196b01c89",
+                    "title": "网球双打战术：一网一底战术",
+                    "node_path": "3dea6cb3-b541-4482-6dcc-248e72a49f99/3dfc728c-6383-5682-5fa7-93e196b01c89",
+                    "child_nodes": []
+                },
+                {
+                    "id": "b43f584c-ca5b-e2a6-3220-11daee69ca55",
+                    "title": "网球双打战术：双上网战术",
+                    "node_path": "3dea6cb3-b541-4482-6dcc-248e72a49f99/b43f584c-ca5b-e2a6-3220-11daee69ca55",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "5c5e5d9f-c4ec-b7c6-9e24-ead1b470d4b1": [
+        {
+            "id": "c5b7db1b-7b64-550a-44da-2e82cdd990fb",
+            "title": "义务教育教科书（五•四学制）•体育与健康教师用书 足球运动（全一册）",
+            "node_path": "c5b7db1b-7b64-550a-44da-2e82cdd990fb",
+            "child_nodes": []
+        },
+        {
+            "id": "92fd327c-c8fa-6a0f-22a4-d5ece7e980b0",
+            "title": "水平二",
+            "node_path": "92fd327c-c8fa-6a0f-22a4-d5ece7e980b0",
+            "child_nodes": [
+                {
+                    "id": "a8d21de2-2da5-fd99-f7d4-ad061a652c59",
+                    "title": "拨球",
+                    "node_path": "92fd327c-c8fa-6a0f-22a4-d5ece7e980b0/a8d21de2-2da5-fd99-f7d4-ad061a652c59",
+                    "child_nodes": []
+                },
+                {
+                    "id": "b3a1a0f5-135d-abde-b045-347c551dd4a4",
+                    "title": "推球",
+                    "node_path": "92fd327c-c8fa-6a0f-22a4-d5ece7e980b0/b3a1a0f5-135d-abde-b045-347c551dd4a4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "115f3e4e-bc9b-0842-d8bc-5b0b66fe6c2d",
+                    "title": "踢球",
+                    "node_path": "92fd327c-c8fa-6a0f-22a4-d5ece7e980b0/115f3e4e-bc9b-0842-d8bc-5b0b66fe6c2d",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c7a4f5a0-39fd-8501-75e1-379af1be7d94",
+            "title": "水平三",
+            "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94",
+            "child_nodes": [
+                {
+                    "id": "c7800480-4b94-7d08-02ee-1ab19d874545",
+                    "title": "三对三比赛",
+                    "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94/c7800480-4b94-7d08-02ee-1ab19d874545",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0b634216-938c-eb8f-a383-39ace45114bf",
+                    "title": "四对二抢截球",
+                    "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94/0b634216-938c-eb8f-a383-39ace45114bf",
+                    "child_nodes": []
+                },
+                {
+                    "id": "ff73aaa0-4887-595d-c415-60a3a98b40d3",
+                    "title": "封堵",
+                    "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94/ff73aaa0-4887-595d-c415-60a3a98b40d3",
+                    "child_nodes": []
+                },
+                {
+                    "id": "6c10758d-a345-89d0-f996-bb1c696b4ab8",
+                    "title": "捅球",
+                    "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94/6c10758d-a345-89d0-f996-bb1c696b4ab8",
+                    "child_nodes": []
+                },
+                {
+                    "id": "a27d9528-b252-cb87-aacc-8c8d328d632c",
+                    "title": "接球射门",
+                    "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94/a27d9528-b252-cb87-aacc-8c8d328d632c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "4ecf1776-57af-c011-8c52-079e21b8b7be",
+                    "title": "直传斜插",
+                    "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94/4ecf1776-57af-c011-8c52-079e21b8b7be",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0285bf4e-2ef1-474e-9763-eb64448d8dbd",
+                    "title": "移动中传接球",
+                    "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94/0285bf4e-2ef1-474e-9763-eb64448d8dbd",
+                    "child_nodes": []
+                },
+                {
+                    "id": "88c5813d-0c51-313e-ec03-c011627228d8",
+                    "title": "边路进攻",
+                    "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94/88c5813d-0c51-313e-ec03-c011627228d8",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e476beef-2897-54f3-eec2-1280fb3f2ae4",
+                    "title": "运球射门",
+                    "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94/e476beef-2897-54f3-eec2-1280fb3f2ae4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "acee46b7-8af8-ffe4-c2a3-357163dd450a",
+                    "title": "运球过人",
+                    "node_path": "c7a4f5a0-39fd-8501-75e1-379af1be7d94/acee46b7-8af8-ffe4-c2a3-357163dd450a",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96",
+            "title": "水平四",
+            "node_path": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96",
+            "child_nodes": [
+                {
+                    "id": "18ddb8fa-b19f-33f1-a438-f1f01db53708",
+                    "title": "中前场逼迫式防守",
+                    "node_path": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96/18ddb8fa-b19f-33f1-a438-f1f01db53708",
+                    "child_nodes": []
+                },
+                {
+                    "id": "d93f68ab-32af-5822-71c9-f0d9a332b396",
+                    "title": "任意球战术",
+                    "node_path": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96/d93f68ab-32af-5822-71c9-f0d9a332b396",
+                    "child_nodes": []
+                },
+                {
+                    "id": "76225810-2df4-0675-fb26-40610ec73795",
+                    "title": "守门员屈膝手抛球",
+                    "node_path": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96/76225810-2df4-0675-fb26-40610ec73795",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9f930a1f-14fe-2cf1-6eb3-e39a6377d48e",
+                    "title": "守门员接地滚球",
+                    "node_path": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96/9f930a1f-14fe-2cf1-6eb3-e39a6377d48e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "cc47594a-104d-03c9-a5d3-167b1756f753",
+                    "title": "守门员站立姿势",
+                    "node_path": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96/cc47594a-104d-03c9-a5d3-167b1756f753",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e36c018f-e860-d841-4a27-869ad9372fd2",
+                    "title": "抢断球",
+                    "node_path": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96/e36c018f-e860-d841-4a27-869ad9372fd2",
+                    "child_nodes": []
+                },
+                {
+                    "id": "1d6cb68e-d7d9-4b26-5385-5353e4a14ab7",
+                    "title": "斜传直插",
+                    "node_path": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96/1d6cb68e-d7d9-4b26-5385-5353e4a14ab7",
+                    "child_nodes": []
+                },
+                {
+                    "id": "1586c47e-64d8-af02-47ba-87cf66004942",
+                    "title": "盯人与协防战术",
+                    "node_path": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96/1586c47e-64d8-af02-47ba-87cf66004942",
+                    "child_nodes": []
+                },
+                {
+                    "id": "39131e17-edf2-3f06-ae25-8069b9392b5d",
+                    "title": "绕杆射门",
+                    "node_path": "e08e1f4a-59d8-84ac-0537-d5d0f99f8a96/39131e17-edf2-3f06-ae25-8069b9392b5d",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "6a8a4a6a-fa93-6177-6f92-0e81d798da36": [
+        {
+            "id": "b41ee1b5-8b5c-40a4-8649-9631bdf6b768",
+            "title": "义务教育教科书（五•四学制）体育与健康 八年级（全一册）",
+            "node_path": "b41ee1b5-8b5c-40a4-8649-9631bdf6b768",
+            "child_nodes": []
+        },
+        {
+            "id": "49dab97f-5e89-e594-d1b1-b829fe6bc02b",
+            "title": "第1课",
+            "node_path": "49dab97f-5e89-e594-d1b1-b829fe6bc02b",
+            "child_nodes": []
+        },
+        {
+            "id": "af3d9602-f8ff-920f-8f5c-43e47b237d3c",
+            "title": "第2课",
+            "node_path": "af3d9602-f8ff-920f-8f5c-43e47b237d3c",
+            "child_nodes": []
+        },
+        {
+            "id": "8c3d6d83-a6ed-922b-7691-2350458a7850",
+            "title": "第3课",
+            "node_path": "8c3d6d83-a6ed-922b-7691-2350458a7850",
+            "child_nodes": []
+        },
+        {
+            "id": "857d8962-81b6-63c9-527b-ad24b5a5ca4f",
+            "title": "第4课",
+            "node_path": "857d8962-81b6-63c9-527b-ad24b5a5ca4f",
+            "child_nodes": []
+        },
+        {
+            "id": "52d48a2f-41b7-9a54-8420-adeebd3beb61",
+            "title": "第5课",
+            "node_path": "52d48a2f-41b7-9a54-8420-adeebd3beb61",
+            "child_nodes": []
+        },
+        {
+            "id": "28847079-69dc-0b77-40dd-4e418b0b8433",
+            "title": "第6课",
+            "node_path": "28847079-69dc-0b77-40dd-4e418b0b8433",
+            "child_nodes": []
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "key": "course",
+        "label": "视频课程",
+        "name": "视频",
+        "unit": "节",
+        "format": "mp4",
+        "count": 35710
+    },
+    {
+        "key": "listening",
+        "label": "音频听力",
+        "name": "音频",
+        "unit": "段",
+        "format": "mp3",
+        "count": 4421
+    },
+    {
+        "key": "courseware",
+        "label": "教学课件",
+        "name": "课件",
+        "unit": "组",
+        "format": "pdf",
+        "count": 19113
+    },
+    {
+        "key": "exercise",
+        "label": "课后练习",
+        "name": "练习",
+        "unit": "份",
+        "format": "pdf",
+        "count": 28334
+    },
+    {
+        "key": "plandesign",
+        "label": "教学设计",
+        "name": "设计",
+        "unit": "篇",
+        "format": "pdf",
+        "count": 14166
+    },
+    {
+        "key": "task",
+        "label": "学习任务",
+        "name": "任务",
+        "unit": "项",
+        "format": "pdf",
+        "count": 27729
+    }
+]

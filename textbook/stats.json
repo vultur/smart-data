@@ -1,0 +1,34 @@
+[
+    {
+        "key": "material",
+        "label": "电子教材",
+        "name": "教材",
+        "unit": "册",
+        "format": "pdf",
+        "count": 2539
+    },
+    {
+        "key": "course",
+        "label": "视频课程",
+        "name": "视频",
+        "unit": "节",
+        "format": "mp4",
+        "count": 10221
+    },
+    {
+        "key": "listening",
+        "label": "音频听力",
+        "name": "音频",
+        "unit": "段",
+        "format": "mp3",
+        "count": 9640
+    },
+    {
+        "key": "courseware",
+        "label": "教学课件",
+        "name": "课件",
+        "unit": "组",
+        "format": "ppt",
+        "count": 251
+    }
+]
