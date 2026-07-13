@@ -77466,5 +77466,675 @@
                 }
             ]
         }
+    ],
+    "36288018-49f8-b679-0149-fbb206461051": [
+        {
+            "id": "01fcf8b9-808b-3f2e-83a6-3b4f65a25a19",
+            "title": "第六章 认识大洲",
+            "node_path": "01fcf8b9-808b-3f2e-83a6-3b4f65a25a19",
+            "child_nodes": [
+                {
+                    "id": "edeb2df0-0b36-3f63-abed-d291e42b8f03",
+                    "title": "第一节 亚洲及欧洲",
+                    "node_path": "01fcf8b9-808b-3f2e-83a6-3b4f65a25a19/edeb2df0-0b36-3f63-abed-d291e42b8f03",
+                    "child_nodes": []
+                },
+                {
+                    "id": "8814a38a-ac52-3de0-af6c-056050c98198",
+                    "title": "第二节 非洲",
+                    "node_path": "01fcf8b9-808b-3f2e-83a6-3b4f65a25a19/8814a38a-ac52-3de0-af6c-056050c98198",
+                    "child_nodes": []
+                },
+                {
+                    "id": "7ec754d2-4f67-30db-90e2-007e4520f0be",
+                    "title": "第三节 美洲",
+                    "node_path": "01fcf8b9-808b-3f2e-83a6-3b4f65a25a19/7ec754d2-4f67-30db-90e2-007e4520f0be",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7305b14d-5e61-3040-8d0f-bcf6e5e821c8",
+            "title": "第七章 了解地区",
+            "node_path": "7305b14d-5e61-3040-8d0f-bcf6e5e821c8",
+            "child_nodes": [
+                {
+                    "id": "3842fb4a-6742-3090-bc13-b7c9da47fc7e",
+                    "title": "第一节 东南亚",
+                    "node_path": "7305b14d-5e61-3040-8d0f-bcf6e5e821c8/3842fb4a-6742-3090-bc13-b7c9da47fc7e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "25dcd2c9-261b-3eb7-95b6-913e114882d4",
+                    "title": "第二节 南亚",
+                    "node_path": "7305b14d-5e61-3040-8d0f-bcf6e5e821c8/25dcd2c9-261b-3eb7-95b6-913e114882d4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3f31111e-5ed3-3d42-8d94-d09389129bfd",
+                    "title": "第三节 西亚",
+                    "node_path": "7305b14d-5e61-3040-8d0f-bcf6e5e821c8/3f31111e-5ed3-3d42-8d94-d09389129bfd",
+                    "child_nodes": []
+                },
+                {
+                    "id": "5d155252-5c8c-3555-b104-5e3f36940ed1",
+                    "title": "第四节 欧洲西部",
+                    "node_path": "7305b14d-5e61-3040-8d0f-bcf6e5e821c8/5d155252-5c8c-3555-b104-5e3f36940ed1",
+                    "child_nodes": []
+                },
+                {
+                    "id": "81b74a71-4267-3abf-9413-ff2680f546f5",
+                    "title": "第五节 北极地区和南极地区",
+                    "node_path": "7305b14d-5e61-3040-8d0f-bcf6e5e821c8/81b74a71-4267-3abf-9413-ff2680f546f5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "8c9ffe6c-bbf9-34f7-96aa-2b6f8aa4c2d6",
+            "title": "第八章 走近国家",
+            "node_path": "8c9ffe6c-bbf9-34f7-96aa-2b6f8aa4c2d6",
+            "child_nodes": [
+                {
+                    "id": "b781b4de-7934-3077-9e0e-bdac6ae6ba88",
+                    "title": "第一节 日本",
+                    "node_path": "8c9ffe6c-bbf9-34f7-96aa-2b6f8aa4c2d6/b781b4de-7934-3077-9e0e-bdac6ae6ba88",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3d8fe357-796d-30a8-ad96-ae9eef3cece9",
+                    "title": "第二节 埃及",
+                    "node_path": "8c9ffe6c-bbf9-34f7-96aa-2b6f8aa4c2d6/3d8fe357-796d-30a8-ad96-ae9eef3cece9",
+                    "child_nodes": []
+                },
+                {
+                    "id": "b29e80d8-68b8-3cba-91a2-ac28eb8aa1e2",
+                    "title": "第三节 俄罗斯",
+                    "node_path": "8c9ffe6c-bbf9-34f7-96aa-2b6f8aa4c2d6/b29e80d8-68b8-3cba-91a2-ac28eb8aa1e2",
+                    "child_nodes": []
+                },
+                {
+                    "id": "ba76f69a-0c31-3ae0-86ce-9193c73e9242",
+                    "title": "第四节 法国",
+                    "node_path": "8c9ffe6c-bbf9-34f7-96aa-2b6f8aa4c2d6/ba76f69a-0c31-3ae0-86ce-9193c73e9242",
+                    "child_nodes": []
+                },
+                {
+                    "id": "ef891b47-982c-3665-9a5b-98fbb8327c0e",
+                    "title": "第五节 美国",
+                    "node_path": "8c9ffe6c-bbf9-34f7-96aa-2b6f8aa4c2d6/ef891b47-982c-3665-9a5b-98fbb8327c0e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "4b767a4e-c423-3f3b-8c6f-bb9b4f783825",
+                    "title": "第六节 巴西",
+                    "node_path": "8c9ffe6c-bbf9-34f7-96aa-2b6f8aa4c2d6/4b767a4e-c423-3f3b-8c6f-bb9b4f783825",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e19fe71e-a6fd-308c-ba4a-cd60871a28d8",
+                    "title": "第七节 澳大利亚",
+                    "node_path": "8c9ffe6c-bbf9-34f7-96aa-2b6f8aa4c2d6/e19fe71e-a6fd-308c-ba4a-cd60871a28d8",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "3743302e-7272-cbf3-ae37-2c665e309640": [
+        {
+            "id": "a8218742-c1fc-3607-96c1-ff7b4ea4c48b",
+            "title": "第1章 二次函数",
+            "node_path": "a8218742-c1fc-3607-96c1-ff7b4ea4c48b",
+            "child_nodes": [
+                {
+                    "id": "a8279a18-1145-37a0-9c1b-9fde6767e4de",
+                    "title": "1.1 二次函数",
+                    "node_path": "a8218742-c1fc-3607-96c1-ff7b4ea4c48b/a8279a18-1145-37a0-9c1b-9fde6767e4de",
+                    "child_nodes": []
+                },
+                {
+                    "id": "bc62f3b9-302b-302e-9d79-1c94d324e90f",
+                    "title": "1.2 二次函数的图象与性质",
+                    "node_path": "a8218742-c1fc-3607-96c1-ff7b4ea4c48b/bc62f3b9-302b-302e-9d79-1c94d324e90f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f44e6728-082c-320f-a52a-5a3dd9607d24",
+                    "title": "*1.3 不共线三点确定二次函数的表达式",
+                    "node_path": "a8218742-c1fc-3607-96c1-ff7b4ea4c48b/f44e6728-082c-320f-a52a-5a3dd9607d24",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f2c1d743-e12e-3c78-aadb-85f999f16f73",
+                    "title": "1.4 二次函数与一元二次方程的联系",
+                    "node_path": "a8218742-c1fc-3607-96c1-ff7b4ea4c48b/f2c1d743-e12e-3c78-aadb-85f999f16f73",
+                    "child_nodes": []
+                },
+                {
+                    "id": "a7069e27-8510-3519-9f8d-9ae188636ee6",
+                    "title": "1.5 二次函数的应用",
+                    "node_path": "a8218742-c1fc-3607-96c1-ff7b4ea4c48b/a7069e27-8510-3519-9f8d-9ae188636ee6",
+                    "child_nodes": []
+                },
+                {
+                    "id": "865db37c-574f-47ba-a830-9a5afaa40103",
+                    "title": "IT教室 用计算机研究二次函数的图象与性质",
+                    "node_path": "a8218742-c1fc-3607-96c1-ff7b4ea4c48b/865db37c-574f-47ba-a830-9a5afaa40103",
+                    "child_nodes": []
+                },
+                {
+                    "id": "eecc09d2-73dd-3b81-bd2b-ba86f24ff203",
+                    "title": "小结与复习",
+                    "node_path": "a8218742-c1fc-3607-96c1-ff7b4ea4c48b/eecc09d2-73dd-3b81-bd2b-ba86f24ff203",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "1e518b45-d16e-3ee1-b977-36a4b3eab9c6",
+            "title": "综合与实践 汽车能通过隧道吗？",
+            "node_path": "1e518b45-d16e-3ee1-b977-36a4b3eab9c6",
+            "child_nodes": []
+        },
+        {
+            "id": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca",
+            "title": "第2章 圆",
+            "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca",
+            "child_nodes": [
+                {
+                    "id": "cdd61f7f-93bc-3696-8887-8d90a71cbe54",
+                    "title": "2.1 圆的对称性",
+                    "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/cdd61f7f-93bc-3696-8887-8d90a71cbe54",
+                    "child_nodes": []
+                },
+                {
+                    "id": "daa7edbb-5e49-35a5-93e4-c4e2ef505b12",
+                    "title": "2.2 圆心角、圆周角",
+                    "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/daa7edbb-5e49-35a5-93e4-c4e2ef505b12",
+                    "child_nodes": [
+                        {
+                            "id": "4511d7b6-ea37-3150-b005-947015d40ef4",
+                            "title": "2.2.1圆心角",
+                            "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/daa7edbb-5e49-35a5-93e4-c4e2ef505b12/4511d7b6-ea37-3150-b005-947015d40ef4",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "66dc1659-b32c-358f-87a1-db48a00afe95",
+                            "title": "2.2.2圆周角",
+                            "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/daa7edbb-5e49-35a5-93e4-c4e2ef505b12/66dc1659-b32c-358f-87a1-db48a00afe95",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "80967f84-5f47-32b6-9749-8df4ae130c96",
+                    "title": "*2.3 垂径定理",
+                    "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/80967f84-5f47-32b6-9749-8df4ae130c96",
+                    "child_nodes": []
+                },
+                {
+                    "id": "66620296-a378-3dd2-9858-f6992faaec04",
+                    "title": "2.4 过不共线三点作圆",
+                    "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/66620296-a378-3dd2-9858-f6992faaec04",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9b8c13c1-4eef-37ae-8cc6-b77a42ff6451",
+                    "title": "2.5 直线与圆的位置关系",
+                    "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/9b8c13c1-4eef-37ae-8cc6-b77a42ff6451",
+                    "child_nodes": [
+                        {
+                            "id": "07d7e50e-819c-3d24-afed-c5464bf23980",
+                            "title": "2.5.1直线与圆的位置关系",
+                            "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/9b8c13c1-4eef-37ae-8cc6-b77a42ff6451/07d7e50e-819c-3d24-afed-c5464bf23980",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "dc310e5b-ea53-3785-a676-f80fb92019a2",
+                            "title": "2.5.2圆的切线",
+                            "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/9b8c13c1-4eef-37ae-8cc6-b77a42ff6451/dc310e5b-ea53-3785-a676-f80fb92019a2",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "ffb6685d-14d5-3564-ab8c-76b405521e31",
+                            "title": "*2.5.3切线长定理",
+                            "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/9b8c13c1-4eef-37ae-8cc6-b77a42ff6451/ffb6685d-14d5-3564-ab8c-76b405521e31",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "5cd357f3-75cc-3e02-a636-f46dbb96d52c",
+                            "title": "2.5.4三角形的内切圆",
+                            "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/9b8c13c1-4eef-37ae-8cc6-b77a42ff6451/5cd357f3-75cc-3e02-a636-f46dbb96d52c",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "bf5cd04c-90bc-375f-83c3-0190459f9efc",
+                    "title": "2.6 弧长与扇形面积",
+                    "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/bf5cd04c-90bc-375f-83c3-0190459f9efc",
+                    "child_nodes": []
+                },
+                {
+                    "id": "b004d05a-b9fa-3ac0-a6c1-7cbcfbab4810",
+                    "title": "2.7 正多边形与圆",
+                    "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/b004d05a-b9fa-3ac0-a6c1-7cbcfbab4810",
+                    "child_nodes": []
+                },
+                {
+                    "id": "51e309c4-dc40-42fa-a64a-0634303b55f6",
+                    "title": "数学与文化 圆的再认识",
+                    "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/51e309c4-dc40-42fa-a64a-0634303b55f6",
+                    "child_nodes": []
+                },
+                {
+                    "id": "533b6965-e33b-3677-b018-452f46c61ce5",
+                    "title": "小结与复习",
+                    "node_path": "792aa295-eb2f-3b65-b0e6-c715bdbfe1ca/533b6965-e33b-3677-b018-452f46c61ce5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "fef3ad6c-56cf-3eb3-8260-98bfa74b6ce3",
+            "title": "第3章 投影与视图",
+            "node_path": "fef3ad6c-56cf-3eb3-8260-98bfa74b6ce3",
+            "child_nodes": [
+                {
+                    "id": "637e44d6-07e6-32f3-a3ee-85c1a4f6fff3",
+                    "title": "3.1 投影",
+                    "node_path": "fef3ad6c-56cf-3eb3-8260-98bfa74b6ce3/637e44d6-07e6-32f3-a3ee-85c1a4f6fff3",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e2145c9c-2e3c-3f50-ac0e-e5a165415626",
+                    "title": "3.2 直棱柱、圆锥的侧面展开图",
+                    "node_path": "fef3ad6c-56cf-3eb3-8260-98bfa74b6ce3/e2145c9c-2e3c-3f50-ac0e-e5a165415626",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e41d991d-d261-3865-852f-d20c40130c0c",
+                    "title": "3.3 三视图",
+                    "node_path": "fef3ad6c-56cf-3eb3-8260-98bfa74b6ce3/e41d991d-d261-3865-852f-d20c40130c0c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3fcee257-7810-37df-a81d-cf876b6d6215",
+                    "title": "小结与复习",
+                    "node_path": "fef3ad6c-56cf-3eb3-8260-98bfa74b6ce3/3fcee257-7810-37df-a81d-cf876b6d6215",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "1e7b71e3-48c8-302b-8ace-4f96e83f9098",
+            "title": "第4章 概率",
+            "node_path": "1e7b71e3-48c8-302b-8ace-4f96e83f9098",
+            "child_nodes": [
+                {
+                    "id": "ab6ee9dc-4a2f-3c1f-94cd-76a0f64299ee",
+                    "title": "4.1 随机事件与可能性",
+                    "node_path": "1e7b71e3-48c8-302b-8ace-4f96e83f9098/ab6ee9dc-4a2f-3c1f-94cd-76a0f64299ee",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0db67d2a-431c-39d8-aec2-31b5ac992252",
+                    "title": "4.2 概率及其计算",
+                    "node_path": "1e7b71e3-48c8-302b-8ace-4f96e83f9098/0db67d2a-431c-39d8-aec2-31b5ac992252",
+                    "child_nodes": [
+                        {
+                            "id": "d5a15b53-7a2d-342f-915f-6c9afe80aee0",
+                            "title": "4.2.1概率的概念",
+                            "node_path": "1e7b71e3-48c8-302b-8ace-4f96e83f9098/0db67d2a-431c-39d8-aec2-31b5ac992252/d5a15b53-7a2d-342f-915f-6c9afe80aee0",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "b4cb2255-7338-3190-959b-b7d579cbcfef",
+                            "title": "4.2.2用例举法求概率",
+                            "node_path": "1e7b71e3-48c8-302b-8ace-4f96e83f9098/0db67d2a-431c-39d8-aec2-31b5ac992252/b4cb2255-7338-3190-959b-b7d579cbcfef",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "59955881-f2c8-3e7f-9aeb-b9b64a90f52f",
+                    "title": "4.3 用频率估计概率",
+                    "node_path": "1e7b71e3-48c8-302b-8ace-4f96e83f9098/59955881-f2c8-3e7f-9aeb-b9b64a90f52f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "81f99b46-f030-4f69-8668-0cea78b0c185",
+                    "title": "IT教室 用计算机模拟掷硬币试验",
+                    "node_path": "1e7b71e3-48c8-302b-8ace-4f96e83f9098/81f99b46-f030-4f69-8668-0cea78b0c185",
+                    "child_nodes": []
+                },
+                {
+                    "id": "d62d16d1-89a8-3bb8-ba4f-927887a9f218",
+                    "title": "小结与复习",
+                    "node_path": "1e7b71e3-48c8-302b-8ace-4f96e83f9098/d62d16d1-89a8-3bb8-ba4f-927887a9f218",
+                    "child_nodes": []
+                },
+                {
+                    "id": "41f479c1-bd0b-468b-abc1-b5cbf84ef1f5",
+                    "title": "数学与文化 漫谈小概率事件",
+                    "node_path": "1e7b71e3-48c8-302b-8ace-4f96e83f9098/41f479c1-bd0b-468b-abc1-b5cbf84ef1f5",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "e465cb3d-9c62-eeb6-1469-e2a8b5a206a8": [
+        {
+            "id": "8ba9550b-12db-3126-8504-612fe385dd53",
+            "title": "第1章 二元一次方程组",
+            "node_path": "8ba9550b-12db-3126-8504-612fe385dd53",
+            "child_nodes": [
+                {
+                    "id": "dc1284e0-adf2-37f8-9299-eed9c0b99942",
+                    "title": "1.1 建立二元一次方程组",
+                    "node_path": "8ba9550b-12db-3126-8504-612fe385dd53/dc1284e0-adf2-37f8-9299-eed9c0b99942",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9f0e7a98-84c4-39eb-b7fc-89fccbde2bef",
+                    "title": "1.2 二元一次方程组的解法",
+                    "node_path": "8ba9550b-12db-3126-8504-612fe385dd53/9f0e7a98-84c4-39eb-b7fc-89fccbde2bef",
+                    "child_nodes": [
+                        {
+                            "id": "dbc13849-33f5-3ecd-9b85-672f3becafcf",
+                            "title": "1.2.1代入消元法",
+                            "node_path": "8ba9550b-12db-3126-8504-612fe385dd53/9f0e7a98-84c4-39eb-b7fc-89fccbde2bef/dbc13849-33f5-3ecd-9b85-672f3becafcf",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "fe0771ef-feea-3ff9-8847-7cab77db6adb",
+                            "title": "1.2.2加减消元法",
+                            "node_path": "8ba9550b-12db-3126-8504-612fe385dd53/9f0e7a98-84c4-39eb-b7fc-89fccbde2bef/fe0771ef-feea-3ff9-8847-7cab77db6adb",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "2a7e7f21-57b7-363e-801d-def2acd37e70",
+                            "title": "1.2.3绝对值",
+                            "node_path": "8ba9550b-12db-3126-8504-612fe385dd53/9f0e7a98-84c4-39eb-b7fc-89fccbde2bef/2a7e7f21-57b7-363e-801d-def2acd37e70",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "678ad3b1-8cb6-3a64-a97a-7eddd7e07a76",
+                    "title": "1.3 二元一次方程组的应用",
+                    "node_path": "8ba9550b-12db-3126-8504-612fe385dd53/678ad3b1-8cb6-3a64-a97a-7eddd7e07a76",
+                    "child_nodes": []
+                },
+                {
+                    "id": "8644e075-eb1c-32c0-a552-f04e8b949565",
+                    "title": "*1.4 三元一次方程组",
+                    "node_path": "8ba9550b-12db-3126-8504-612fe385dd53/8644e075-eb1c-32c0-a552-f04e8b949565",
+                    "child_nodes": []
+                },
+                {
+                    "id": "580fd5af-a62c-34c8-99f5-685730b08f53",
+                    "title": "小结与复习",
+                    "node_path": "8ba9550b-12db-3126-8504-612fe385dd53/580fd5af-a62c-34c8-99f5-685730b08f53",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "eb0586a6-7bee-3ded-875f-32bb6338e2fa",
+            "title": "第2章 整式的乘法",
+            "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa",
+            "child_nodes": [
+                {
+                    "id": "f1cece04-051d-3e2e-a3e6-b488e0296566",
+                    "title": "2.1 整式的乘法",
+                    "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa/f1cece04-051d-3e2e-a3e6-b488e0296566",
+                    "child_nodes": [
+                        {
+                            "id": "f57803ef-2998-384d-b2f1-96ee4bd5b476",
+                            "title": "2.1.1同底幂的乘法",
+                            "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa/f1cece04-051d-3e2e-a3e6-b488e0296566/f57803ef-2998-384d-b2f1-96ee4bd5b476",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "f2f69a21-3401-3b68-8a78-4f209d886abe",
+                            "title": "2.1.2幂的乘方与积的乘方",
+                            "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa/f1cece04-051d-3e2e-a3e6-b488e0296566/f2f69a21-3401-3b68-8a78-4f209d886abe",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "27d6cec6-3574-310f-be40-0bd27f5d24b5",
+                            "title": "2.1.3单项式的乘法",
+                            "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa/f1cece04-051d-3e2e-a3e6-b488e0296566/27d6cec6-3574-310f-be40-0bd27f5d24b5",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "402b60b6-2c06-30ee-b4ff-bba1421b2806",
+                            "title": "2.1.4多项式的乘法",
+                            "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa/f1cece04-051d-3e2e-a3e6-b488e0296566/402b60b6-2c06-30ee-b4ff-bba1421b2806",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "2f77fe82-2a80-377e-a159-ee88984ade52",
+                    "title": "2.2 乘法公式",
+                    "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa/2f77fe82-2a80-377e-a159-ee88984ade52",
+                    "child_nodes": [
+                        {
+                            "id": "8d97d6b8-0f0b-304f-b56c-ac1d589b04f4",
+                            "title": "2.2.1平方差公式",
+                            "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa/2f77fe82-2a80-377e-a159-ee88984ade52/8d97d6b8-0f0b-304f-b56c-ac1d589b04f4",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "40b42849-af27-3e41-8e25-a9a38566e40e",
+                            "title": "2.2.2完全平方公式",
+                            "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa/2f77fe82-2a80-377e-a159-ee88984ade52/40b42849-af27-3e41-8e25-a9a38566e40e",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "703d6a8d-585b-30ee-856a-15b979e2b0c6",
+                            "title": "2.2.3运用乘法公式进行计算",
+                            "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa/2f77fe82-2a80-377e-a159-ee88984ade52/703d6a8d-585b-30ee-856a-15b979e2b0c6",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "6f28c024-e147-354e-b175-a3d09fe59af0",
+                    "title": "小结与复习",
+                    "node_path": "eb0586a6-7bee-3ded-875f-32bb6338e2fa/6f28c024-e147-354e-b175-a3d09fe59af0",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c0fae34b-0736-37c1-884f-c9a518ab8d89",
+            "title": "第3章 因式分解",
+            "node_path": "c0fae34b-0736-37c1-884f-c9a518ab8d89",
+            "child_nodes": [
+                {
+                    "id": "328b11c5-9ba2-364d-b327-59f837ae16d1",
+                    "title": "3.1 多项式的因式分解",
+                    "node_path": "c0fae34b-0736-37c1-884f-c9a518ab8d89/328b11c5-9ba2-364d-b327-59f837ae16d1",
+                    "child_nodes": []
+                },
+                {
+                    "id": "a2e0bc7d-9aea-3bb1-b8e9-f1b65891c4ab",
+                    "title": "3.2 提公因式法",
+                    "node_path": "c0fae34b-0736-37c1-884f-c9a518ab8d89/a2e0bc7d-9aea-3bb1-b8e9-f1b65891c4ab",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e08a4c8b-c413-315d-9966-76947eb1be09",
+                    "title": "3.3 公式法",
+                    "node_path": "c0fae34b-0736-37c1-884f-c9a518ab8d89/e08a4c8b-c413-315d-9966-76947eb1be09",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f550ef1d-b67f-36cf-a6f2-9f89d0909ce3",
+                    "title": "小结与复习",
+                    "node_path": "c0fae34b-0736-37c1-884f-c9a518ab8d89/f550ef1d-b67f-36cf-a6f2-9f89d0909ce3",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "bafa01df-5196-34ae-96f9-96a2e6a72e43",
+            "title": "第4章 相交线与平行线",
+            "node_path": "bafa01df-5196-34ae-96f9-96a2e6a72e43",
+            "child_nodes": [
+                {
+                    "id": "54bf46f4-3f27-3196-967b-182911fcf086",
+                    "title": "4.1 平面上两条直线的位置关系",
+                    "node_path": "bafa01df-5196-34ae-96f9-96a2e6a72e43/54bf46f4-3f27-3196-967b-182911fcf086",
+                    "child_nodes": [
+                        {
+                            "id": "9f993223-4a37-3c47-925f-444009660a0a",
+                            "title": "4.1.1相交与平行",
+                            "node_path": "bafa01df-5196-34ae-96f9-96a2e6a72e43/54bf46f4-3f27-3196-967b-182911fcf086/9f993223-4a37-3c47-925f-444009660a0a",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "58dc208d-f91e-3c0d-bed5-5acf0b0499bd",
+                            "title": "4.1.2相交直线所成的角",
+                            "node_path": "bafa01df-5196-34ae-96f9-96a2e6a72e43/54bf46f4-3f27-3196-967b-182911fcf086/58dc208d-f91e-3c0d-bed5-5acf0b0499bd",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "3a01b7f5-7339-3e60-947f-313ca623b72e",
+                    "title": "4.2 平移",
+                    "node_path": "bafa01df-5196-34ae-96f9-96a2e6a72e43/3a01b7f5-7339-3e60-947f-313ca623b72e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "d6e86e0b-6619-3349-8d72-a406c0dab73c",
+                    "title": "4.3 平行线的性质",
+                    "node_path": "bafa01df-5196-34ae-96f9-96a2e6a72e43/d6e86e0b-6619-3349-8d72-a406c0dab73c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "c1cc8513-12bf-3490-99e1-27648c492975",
+                    "title": "4.4 平行线的判定",
+                    "node_path": "bafa01df-5196-34ae-96f9-96a2e6a72e43/c1cc8513-12bf-3490-99e1-27648c492975",
+                    "child_nodes": []
+                },
+                {
+                    "id": "6ea3e0cd-9332-35c4-9e82-578f22db20c6",
+                    "title": "4.5 垂线",
+                    "node_path": "bafa01df-5196-34ae-96f9-96a2e6a72e43/6ea3e0cd-9332-35c4-9e82-578f22db20c6",
+                    "child_nodes": []
+                },
+                {
+                    "id": "4c0ce7f1-cc95-3a21-ae7c-da760fa73701",
+                    "title": "4.6 两条平行线间的距离",
+                    "node_path": "bafa01df-5196-34ae-96f9-96a2e6a72e43/4c0ce7f1-cc95-3a21-ae7c-da760fa73701",
+                    "child_nodes": []
+                },
+                {
+                    "id": "81d24b2f-f5de-30ec-89db-e815745dbc1f",
+                    "title": "小结与复习",
+                    "node_path": "bafa01df-5196-34ae-96f9-96a2e6a72e43/81d24b2f-f5de-30ec-89db-e815745dbc1f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "35c9b796-cefb-3126-9d11-3fab51f98efb",
+            "title": "第5章 轴对称与旋转",
+            "node_path": "35c9b796-cefb-3126-9d11-3fab51f98efb",
+            "child_nodes": [
+                {
+                    "id": "93db80e0-0c8a-362b-bcd1-f810efcf4c2b",
+                    "title": "5.1 轴对称",
+                    "node_path": "35c9b796-cefb-3126-9d11-3fab51f98efb/93db80e0-0c8a-362b-bcd1-f810efcf4c2b",
+                    "child_nodes": [
+                        {
+                            "id": "33a9c824-ac1b-37c7-aacd-dacbbf7a8415",
+                            "title": "5.1.1轴对称图形",
+                            "node_path": "35c9b796-cefb-3126-9d11-3fab51f98efb/93db80e0-0c8a-362b-bcd1-f810efcf4c2b/33a9c824-ac1b-37c7-aacd-dacbbf7a8415",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "8b7ac821-c574-3c7b-8789-7eaf5e7ff0c7",
+                            "title": "5.1.2轴对称变换",
+                            "node_path": "35c9b796-cefb-3126-9d11-3fab51f98efb/93db80e0-0c8a-362b-bcd1-f810efcf4c2b/8b7ac821-c574-3c7b-8789-7eaf5e7ff0c7",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "80d03685-7473-3863-aecd-fab07ac6ab5b",
+                    "title": "5.2 旋转",
+                    "node_path": "35c9b796-cefb-3126-9d11-3fab51f98efb/80d03685-7473-3863-aecd-fab07ac6ab5b",
+                    "child_nodes": []
+                },
+                {
+                    "id": "8c51507d-c5b8-362f-8a06-42e4f9c7e2fe",
+                    "title": "5.3 图形变换的简单应用",
+                    "node_path": "35c9b796-cefb-3126-9d11-3fab51f98efb/8c51507d-c5b8-362f-8a06-42e4f9c7e2fe",
+                    "child_nodes": []
+                },
+                {
+                    "id": "aaeadeba-5db2-3157-ba9d-e0ab3917b498",
+                    "title": "小结与复习",
+                    "node_path": "35c9b796-cefb-3126-9d11-3fab51f98efb/aaeadeba-5db2-3157-ba9d-e0ab3917b498",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "ab16cdeb-5781-331a-a108-1bd55cbb5f89",
+            "title": "综合与实践 长方体包装盒的设计与制作",
+            "node_path": "ab16cdeb-5781-331a-a108-1bd55cbb5f89",
+            "child_nodes": []
+        },
+        {
+            "id": "fc1fb112-7d76-32d2-93f7-2bf0fcd0a106",
+            "title": "第6章 数据的分析",
+            "node_path": "fc1fb112-7d76-32d2-93f7-2bf0fcd0a106",
+            "child_nodes": [
+                {
+                    "id": "9bc24009-0be0-3df7-9774-8da88f7083ed",
+                    "title": "6.1平均数、中位数、众数",
+                    "node_path": "fc1fb112-7d76-32d2-93f7-2bf0fcd0a106/9bc24009-0be0-3df7-9774-8da88f7083ed",
+                    "child_nodes": [
+                        {
+                            "id": "fc4cf0fc-fbfb-3c6b-aed6-b9af83e4ce34",
+                            "title": "6.1.1平均数",
+                            "node_path": "fc1fb112-7d76-32d2-93f7-2bf0fcd0a106/9bc24009-0be0-3df7-9774-8da88f7083ed/fc4cf0fc-fbfb-3c6b-aed6-b9af83e4ce34",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "def8f6d5-cc97-3af3-a3f0-f7fe6e21f4c0",
+                            "title": "6.1.2中位数",
+                            "node_path": "fc1fb112-7d76-32d2-93f7-2bf0fcd0a106/9bc24009-0be0-3df7-9774-8da88f7083ed/def8f6d5-cc97-3af3-a3f0-f7fe6e21f4c0",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "b3b07877-be23-3368-aaaa-c53942fc62fb",
+                            "title": "6.1.3众数",
+                            "node_path": "fc1fb112-7d76-32d2-93f7-2bf0fcd0a106/9bc24009-0be0-3df7-9774-8da88f7083ed/b3b07877-be23-3368-aaaa-c53942fc62fb",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "e700def7-1243-3a38-b35c-226d6f405b62",
+                    "title": "6.2方差",
+                    "node_path": "fc1fb112-7d76-32d2-93f7-2bf0fcd0a106/e700def7-1243-3a38-b35c-226d6f405b62",
+                    "child_nodes": []
+                },
+                {
+                    "id": "022e10b4-32b0-35e5-a592-c710f0c7bb15",
+                    "title": "小结与复习",
+                    "node_path": "fc1fb112-7d76-32d2-93f7-2bf0fcd0a106/022e10b4-32b0-35e5-a592-c710f0c7bb15",
+                    "child_nodes": []
+                }
+            ]
+        }
     ]
 }

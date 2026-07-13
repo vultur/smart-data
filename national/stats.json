@@ -5,7 +5,7 @@
         "name": "视频",
         "unit": "节",
         "format": "mp4",
-        "count": 35710
+        "count": 36295
     },
     {
         "key": "listening",
@@ -13,7 +13,7 @@
         "name": "音频",
         "unit": "段",
         "format": "mp3",
-        "count": 4421
+        "count": 4543
     },
     {
         "key": "courseware",
@@ -21,7 +21,7 @@
         "name": "课件",
         "unit": "组",
         "format": "pdf",
-        "count": 19113
+        "count": 19120
     },
     {
         "key": "exercise",
@@ -29,7 +29,7 @@
         "name": "练习",
         "unit": "份",
         "format": "pdf",
-        "count": 28334
+        "count": 28915
     },
     {
         "key": "plandesign",
@@ -37,7 +37,7 @@
         "name": "设计",
         "unit": "篇",
         "format": "pdf",
-        "count": 14166
+        "count": 14169
     },
     {
         "key": "task",
@@ -45,6 +45,6 @@
         "name": "任务",
         "unit": "项",
         "format": "pdf",
-        "count": 27729
+        "count": 28310
     }
 ]

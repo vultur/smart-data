@@ -1,0 +1,2147 @@
+{
+    "dea4d900-413c-387c-11f6-6e4a94db2a34": [
+        {
+            "id": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "title": "地图导航",
+            "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "child_nodes": [
+                {
+                    "id": "c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "title": "第01集什么是地图导航？路痴救星闪亮登场",
+                    "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e/c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06af7953-85cd-447c-8652-40f698691c0c",
+            "title": "机器人控制",
+            "node_path": "06af7953-85cd-447c-8652-40f698691c0c",
+            "child_nodes": [
+                {
+                    "id": "d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "title": "第02集-什么是机器人? 4分钟了解机器人的前生今世",
+                    "node_path": "06af7953-85cd-447c-8652-40f698691c0c/d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c68c983b-8533-4761-ba11-50873854d945",
+            "title": "计算机视觉",
+            "node_path": "c68c983b-8533-4761-ba11-50873854d945",
+            "child_nodes": [
+                {
+                    "id": "fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "title": "第03集-什么是计算机摄影学? 解密Biibili弹幕防挡的实现",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "title": "第04集-什么是计算机视觉? 揭秘自动售货机的窥探之\"眼\"",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "title": "图像处理",
+            "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "child_nodes": [
+                {
+                    "id": "66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "title": "第05集-什么是图像修复? 坏损图像的回春之术",
+                    "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f/66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "title": "推荐系统",
+            "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "child_nodes": [
+                {
+                    "id": "21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "title": "第06集-什么是推荐系统? 深入浅出聊聊淘宝的推荐机制",
+                    "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c/21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "title": "增强现实",
+            "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "child_nodes": [
+                {
+                    "id": "01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "title": "第07集-什么是增强现实? 初音未来和宝可梦\"下凡记\"",
+                    "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822/01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "title": "数据",
+            "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "child_nodes": [
+                {
+                    "id": "fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "title": "第08集-怎样从数据中学习? 5分钟搞懂机器学习",
+                    "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee/fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "title": "人脸聚类",
+            "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "child_nodes": [
+                {
+                    "id": "7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "title": "第09集-什么是人脸聚类? 论手机如何克服\"脸盲症\"",
+                    "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab/7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "title": "语音识别",
+            "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "child_nodes": [
+                {
+                    "id": "ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "title": "第10集-什么是听歌识曲? 众里寻\"歌\"千百度",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "title": "第11集-什么是语音识别? 语音助手会在上课的时候插嘴吗",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "10a383e5-7823-26fd-7a9d-6548c09afd68": [
+        {
+            "id": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "title": "地图导航",
+            "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "child_nodes": [
+                {
+                    "id": "c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "title": "第01集什么是地图导航？路痴救星闪亮登场",
+                    "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e/c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06af7953-85cd-447c-8652-40f698691c0c",
+            "title": "机器人控制",
+            "node_path": "06af7953-85cd-447c-8652-40f698691c0c",
+            "child_nodes": [
+                {
+                    "id": "d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "title": "第02集-什么是机器人? 4分钟了解机器人的前生今世",
+                    "node_path": "06af7953-85cd-447c-8652-40f698691c0c/d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c68c983b-8533-4761-ba11-50873854d945",
+            "title": "计算机视觉",
+            "node_path": "c68c983b-8533-4761-ba11-50873854d945",
+            "child_nodes": [
+                {
+                    "id": "fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "title": "第03集-什么是计算机摄影学? 解密Biibili弹幕防挡的实现",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "title": "第04集-什么是计算机视觉? 揭秘自动售货机的窥探之\"眼\"",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "title": "图像处理",
+            "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "child_nodes": [
+                {
+                    "id": "66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "title": "第05集-什么是图像修复? 坏损图像的回春之术",
+                    "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f/66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "title": "推荐系统",
+            "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "child_nodes": [
+                {
+                    "id": "21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "title": "第06集-什么是推荐系统? 深入浅出聊聊淘宝的推荐机制",
+                    "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c/21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "title": "增强现实",
+            "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "child_nodes": [
+                {
+                    "id": "01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "title": "第07集-什么是增强现实? 初音未来和宝可梦\"下凡记\"",
+                    "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822/01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "title": "数据",
+            "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "child_nodes": [
+                {
+                    "id": "fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "title": "第08集-怎样从数据中学习? 5分钟搞懂机器学习",
+                    "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee/fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "title": "人脸聚类",
+            "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "child_nodes": [
+                {
+                    "id": "7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "title": "第09集-什么是人脸聚类? 论手机如何克服\"脸盲症\"",
+                    "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab/7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "title": "语音识别",
+            "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "child_nodes": [
+                {
+                    "id": "ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "title": "第10集-什么是听歌识曲? 众里寻\"歌\"千百度",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "title": "第11集-什么是语音识别? 语音助手会在上课的时候插嘴吗",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "7cb9713c-2d0f-07f3-fdb1-b26dd92bba74": [
+        {
+            "id": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "title": "地图导航",
+            "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "child_nodes": [
+                {
+                    "id": "c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "title": "第01集什么是地图导航？路痴救星闪亮登场",
+                    "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e/c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06af7953-85cd-447c-8652-40f698691c0c",
+            "title": "机器人控制",
+            "node_path": "06af7953-85cd-447c-8652-40f698691c0c",
+            "child_nodes": [
+                {
+                    "id": "d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "title": "第02集-什么是机器人? 4分钟了解机器人的前生今世",
+                    "node_path": "06af7953-85cd-447c-8652-40f698691c0c/d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c68c983b-8533-4761-ba11-50873854d945",
+            "title": "计算机视觉",
+            "node_path": "c68c983b-8533-4761-ba11-50873854d945",
+            "child_nodes": [
+                {
+                    "id": "fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "title": "第03集-什么是计算机摄影学? 解密Biibili弹幕防挡的实现",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "title": "第04集-什么是计算机视觉? 揭秘自动售货机的窥探之\"眼\"",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "title": "图像处理",
+            "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "child_nodes": [
+                {
+                    "id": "66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "title": "第05集-什么是图像修复? 坏损图像的回春之术",
+                    "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f/66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "title": "推荐系统",
+            "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "child_nodes": [
+                {
+                    "id": "21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "title": "第06集-什么是推荐系统? 深入浅出聊聊淘宝的推荐机制",
+                    "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c/21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "title": "增强现实",
+            "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "child_nodes": [
+                {
+                    "id": "01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "title": "第07集-什么是增强现实? 初音未来和宝可梦\"下凡记\"",
+                    "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822/01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "title": "数据",
+            "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "child_nodes": [
+                {
+                    "id": "fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "title": "第08集-怎样从数据中学习? 5分钟搞懂机器学习",
+                    "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee/fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "title": "人脸聚类",
+            "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "child_nodes": [
+                {
+                    "id": "7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "title": "第09集-什么是人脸聚类? 论手机如何克服\"脸盲症\"",
+                    "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab/7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "title": "语音识别",
+            "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "child_nodes": [
+                {
+                    "id": "ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "title": "第10集-什么是听歌识曲? 众里寻\"歌\"千百度",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "title": "第11集-什么是语音识别? 语音助手会在上课的时候插嘴吗",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "396bf2d1-ac50-3625-f11a-57ea5c85c9b3": [
+        {
+            "id": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "title": "地图导航",
+            "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "child_nodes": [
+                {
+                    "id": "c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "title": "第01集什么是地图导航？路痴救星闪亮登场",
+                    "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e/c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06af7953-85cd-447c-8652-40f698691c0c",
+            "title": "机器人控制",
+            "node_path": "06af7953-85cd-447c-8652-40f698691c0c",
+            "child_nodes": [
+                {
+                    "id": "d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "title": "第02集-什么是机器人? 4分钟了解机器人的前生今世",
+                    "node_path": "06af7953-85cd-447c-8652-40f698691c0c/d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c68c983b-8533-4761-ba11-50873854d945",
+            "title": "计算机视觉",
+            "node_path": "c68c983b-8533-4761-ba11-50873854d945",
+            "child_nodes": [
+                {
+                    "id": "fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "title": "第03集-什么是计算机摄影学? 解密Biibili弹幕防挡的实现",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "title": "第04集-什么是计算机视觉? 揭秘自动售货机的窥探之\"眼\"",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "title": "图像处理",
+            "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "child_nodes": [
+                {
+                    "id": "66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "title": "第05集-什么是图像修复? 坏损图像的回春之术",
+                    "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f/66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "title": "推荐系统",
+            "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "child_nodes": [
+                {
+                    "id": "21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "title": "第06集-什么是推荐系统? 深入浅出聊聊淘宝的推荐机制",
+                    "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c/21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "title": "增强现实",
+            "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "child_nodes": [
+                {
+                    "id": "01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "title": "第07集-什么是增强现实? 初音未来和宝可梦\"下凡记\"",
+                    "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822/01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "title": "数据",
+            "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "child_nodes": [
+                {
+                    "id": "fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "title": "第08集-怎样从数据中学习? 5分钟搞懂机器学习",
+                    "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee/fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "title": "人脸聚类",
+            "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "child_nodes": [
+                {
+                    "id": "7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "title": "第09集-什么是人脸聚类? 论手机如何克服\"脸盲症\"",
+                    "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab/7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "title": "语音识别",
+            "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "child_nodes": [
+                {
+                    "id": "ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "title": "第10集-什么是听歌识曲? 众里寻\"歌\"千百度",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "title": "第11集-什么是语音识别? 语音助手会在上课的时候插嘴吗",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "1eedb420-bb73-4d2a-a630-b98528f30b7c": [
+        {
+            "id": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "title": "地图导航",
+            "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "child_nodes": [
+                {
+                    "id": "c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "title": "第01集什么是地图导航？路痴救星闪亮登场",
+                    "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e/c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06af7953-85cd-447c-8652-40f698691c0c",
+            "title": "机器人控制",
+            "node_path": "06af7953-85cd-447c-8652-40f698691c0c",
+            "child_nodes": [
+                {
+                    "id": "d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "title": "第02集-什么是机器人? 4分钟了解机器人的前生今世",
+                    "node_path": "06af7953-85cd-447c-8652-40f698691c0c/d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c68c983b-8533-4761-ba11-50873854d945",
+            "title": "计算机视觉",
+            "node_path": "c68c983b-8533-4761-ba11-50873854d945",
+            "child_nodes": [
+                {
+                    "id": "fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "title": "第03集-什么是计算机摄影学? 解密Biibili弹幕防挡的实现",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "title": "第04集-什么是计算机视觉? 揭秘自动售货机的窥探之\"眼\"",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "title": "图像处理",
+            "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "child_nodes": [
+                {
+                    "id": "66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "title": "第05集-什么是图像修复? 坏损图像的回春之术",
+                    "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f/66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "title": "推荐系统",
+            "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "child_nodes": [
+                {
+                    "id": "21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "title": "第06集-什么是推荐系统? 深入浅出聊聊淘宝的推荐机制",
+                    "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c/21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "title": "增强现实",
+            "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "child_nodes": [
+                {
+                    "id": "01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "title": "第07集-什么是增强现实? 初音未来和宝可梦\"下凡记\"",
+                    "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822/01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "title": "数据",
+            "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "child_nodes": [
+                {
+                    "id": "fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "title": "第08集-怎样从数据中学习? 5分钟搞懂机器学习",
+                    "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee/fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "title": "人脸聚类",
+            "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "child_nodes": [
+                {
+                    "id": "7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "title": "第09集-什么是人脸聚类? 论手机如何克服\"脸盲症\"",
+                    "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab/7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "title": "语音识别",
+            "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "child_nodes": [
+                {
+                    "id": "ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "title": "第10集-什么是听歌识曲? 众里寻\"歌\"千百度",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "title": "第11集-什么是语音识别? 语音助手会在上课的时候插嘴吗",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "9611c1fb-8585-29d5-e063-e45400b6cd44": [
+        {
+            "id": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "title": "地图导航",
+            "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "child_nodes": [
+                {
+                    "id": "c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "title": "第01集什么是地图导航？路痴救星闪亮登场",
+                    "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e/c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06af7953-85cd-447c-8652-40f698691c0c",
+            "title": "机器人控制",
+            "node_path": "06af7953-85cd-447c-8652-40f698691c0c",
+            "child_nodes": [
+                {
+                    "id": "d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "title": "第02集-什么是机器人? 4分钟了解机器人的前生今世",
+                    "node_path": "06af7953-85cd-447c-8652-40f698691c0c/d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c68c983b-8533-4761-ba11-50873854d945",
+            "title": "计算机视觉",
+            "node_path": "c68c983b-8533-4761-ba11-50873854d945",
+            "child_nodes": [
+                {
+                    "id": "fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "title": "第03集-什么是计算机摄影学? 解密Biibili弹幕防挡的实现",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "title": "第04集-什么是计算机视觉? 揭秘自动售货机的窥探之\"眼\"",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "title": "图像处理",
+            "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "child_nodes": [
+                {
+                    "id": "66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "title": "第05集-什么是图像修复? 坏损图像的回春之术",
+                    "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f/66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "title": "推荐系统",
+            "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "child_nodes": [
+                {
+                    "id": "21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "title": "第06集-什么是推荐系统? 深入浅出聊聊淘宝的推荐机制",
+                    "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c/21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "title": "增强现实",
+            "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "child_nodes": [
+                {
+                    "id": "01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "title": "第07集-什么是增强现实? 初音未来和宝可梦\"下凡记\"",
+                    "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822/01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "title": "数据",
+            "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "child_nodes": [
+                {
+                    "id": "fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "title": "第08集-怎样从数据中学习? 5分钟搞懂机器学习",
+                    "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee/fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "title": "人脸聚类",
+            "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "child_nodes": [
+                {
+                    "id": "7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "title": "第09集-什么是人脸聚类? 论手机如何克服\"脸盲症\"",
+                    "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab/7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "title": "语音识别",
+            "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "child_nodes": [
+                {
+                    "id": "ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "title": "第10集-什么是听歌识曲? 众里寻\"歌\"千百度",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "title": "第11集-什么是语音识别? 语音助手会在上课的时候插嘴吗",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "f5bbd911-99a0-0dc6-5cb4-1bac86f96f92": [
+        {
+            "id": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "title": "地图导航",
+            "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "child_nodes": [
+                {
+                    "id": "c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "title": "第01集什么是地图导航？路痴救星闪亮登场",
+                    "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e/c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06af7953-85cd-447c-8652-40f698691c0c",
+            "title": "机器人控制",
+            "node_path": "06af7953-85cd-447c-8652-40f698691c0c",
+            "child_nodes": [
+                {
+                    "id": "d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "title": "第02集-什么是机器人? 4分钟了解机器人的前生今世",
+                    "node_path": "06af7953-85cd-447c-8652-40f698691c0c/d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c68c983b-8533-4761-ba11-50873854d945",
+            "title": "计算机视觉",
+            "node_path": "c68c983b-8533-4761-ba11-50873854d945",
+            "child_nodes": [
+                {
+                    "id": "fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "title": "第03集-什么是计算机摄影学? 解密Biibili弹幕防挡的实现",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "title": "第04集-什么是计算机视觉? 揭秘自动售货机的窥探之\"眼\"",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "title": "图像处理",
+            "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "child_nodes": [
+                {
+                    "id": "66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "title": "第05集-什么是图像修复? 坏损图像的回春之术",
+                    "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f/66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "title": "推荐系统",
+            "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "child_nodes": [
+                {
+                    "id": "21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "title": "第06集-什么是推荐系统? 深入浅出聊聊淘宝的推荐机制",
+                    "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c/21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "title": "增强现实",
+            "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "child_nodes": [
+                {
+                    "id": "01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "title": "第07集-什么是增强现实? 初音未来和宝可梦\"下凡记\"",
+                    "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822/01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "title": "数据",
+            "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "child_nodes": [
+                {
+                    "id": "fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "title": "第08集-怎样从数据中学习? 5分钟搞懂机器学习",
+                    "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee/fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "title": "人脸聚类",
+            "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "child_nodes": [
+                {
+                    "id": "7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "title": "第09集-什么是人脸聚类? 论手机如何克服\"脸盲症\"",
+                    "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab/7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "title": "语音识别",
+            "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "child_nodes": [
+                {
+                    "id": "ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "title": "第10集-什么是听歌识曲? 众里寻\"歌\"千百度",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "title": "第11集-什么是语音识别? 语音助手会在上课的时候插嘴吗",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "d7b3f04b-cfaf-52f4-79d7-38b8077994a4": [
+        {
+            "id": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "title": "地图导航",
+            "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "child_nodes": [
+                {
+                    "id": "c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "title": "第01集什么是地图导航？路痴救星闪亮登场",
+                    "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e/c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06af7953-85cd-447c-8652-40f698691c0c",
+            "title": "机器人控制",
+            "node_path": "06af7953-85cd-447c-8652-40f698691c0c",
+            "child_nodes": [
+                {
+                    "id": "d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "title": "第02集-什么是机器人? 4分钟了解机器人的前生今世",
+                    "node_path": "06af7953-85cd-447c-8652-40f698691c0c/d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c68c983b-8533-4761-ba11-50873854d945",
+            "title": "计算机视觉",
+            "node_path": "c68c983b-8533-4761-ba11-50873854d945",
+            "child_nodes": [
+                {
+                    "id": "fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "title": "第03集-什么是计算机摄影学? 解密Biibili弹幕防挡的实现",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "title": "第04集-什么是计算机视觉? 揭秘自动售货机的窥探之\"眼\"",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "title": "图像处理",
+            "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "child_nodes": [
+                {
+                    "id": "66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "title": "第05集-什么是图像修复? 坏损图像的回春之术",
+                    "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f/66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "title": "推荐系统",
+            "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "child_nodes": [
+                {
+                    "id": "21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "title": "第06集-什么是推荐系统? 深入浅出聊聊淘宝的推荐机制",
+                    "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c/21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "title": "增强现实",
+            "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "child_nodes": [
+                {
+                    "id": "01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "title": "第07集-什么是增强现实? 初音未来和宝可梦\"下凡记\"",
+                    "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822/01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "title": "数据",
+            "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "child_nodes": [
+                {
+                    "id": "fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "title": "第08集-怎样从数据中学习? 5分钟搞懂机器学习",
+                    "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee/fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "title": "人脸聚类",
+            "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "child_nodes": [
+                {
+                    "id": "7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "title": "第09集-什么是人脸聚类? 论手机如何克服\"脸盲症\"",
+                    "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab/7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "title": "语音识别",
+            "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "child_nodes": [
+                {
+                    "id": "ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "title": "第10集-什么是听歌识曲? 众里寻\"歌\"千百度",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "title": "第11集-什么是语音识别? 语音助手会在上课的时候插嘴吗",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "c8b2b154-edd9-7992-7622-2420dd687f8e": [
+        {
+            "id": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "title": "地图导航",
+            "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e",
+            "child_nodes": [
+                {
+                    "id": "c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "title": "第01集什么是地图导航？路痴救星闪亮登场",
+                    "node_path": "6e22d74e-06b7-4f97-9233-ef5f6ba8873e/c24b2f28-6274-4e59-98ee-b6eb70ebc798",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06af7953-85cd-447c-8652-40f698691c0c",
+            "title": "机器人控制",
+            "node_path": "06af7953-85cd-447c-8652-40f698691c0c",
+            "child_nodes": [
+                {
+                    "id": "d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "title": "第02集-什么是机器人? 4分钟了解机器人的前生今世",
+                    "node_path": "06af7953-85cd-447c-8652-40f698691c0c/d0f26b15-57f6-40d7-9396-246ff3ec126e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c68c983b-8533-4761-ba11-50873854d945",
+            "title": "计算机视觉",
+            "node_path": "c68c983b-8533-4761-ba11-50873854d945",
+            "child_nodes": [
+                {
+                    "id": "fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "title": "第03集-什么是计算机摄影学? 解密Biibili弹幕防挡的实现",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/fb1fa36d-0461-4bfb-912e-387d70c1b030",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "title": "第04集-什么是计算机视觉? 揭秘自动售货机的窥探之\"眼\"",
+                    "node_path": "c68c983b-8533-4761-ba11-50873854d945/2b1bf633-76b9-4b0f-91a4-511beb5d1801",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "title": "图像处理",
+            "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f",
+            "child_nodes": [
+                {
+                    "id": "66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "title": "第05集-什么是图像修复? 坏损图像的回春之术",
+                    "node_path": "06babd27-0da7-4355-9333-4b51e1c1730f/66d2c784-f3a5-4c81-b5b3-6f27987ccd1c",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "title": "推荐系统",
+            "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c",
+            "child_nodes": [
+                {
+                    "id": "21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "title": "第06集-什么是推荐系统? 深入浅出聊聊淘宝的推荐机制",
+                    "node_path": "22f96c31-08e0-4d06-8961-86aaf3640c6c/21f4479f-d61c-4276-8ba8-23451abcc0d4",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "title": "增强现实",
+            "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822",
+            "child_nodes": [
+                {
+                    "id": "01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "title": "第07集-什么是增强现实? 初音未来和宝可梦\"下凡记\"",
+                    "node_path": "cb3b8ba0-c327-4724-869c-2b3e6f961822/01e891c4-a3f8-45e7-ae45-046e521bed2f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "title": "数据",
+            "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee",
+            "child_nodes": [
+                {
+                    "id": "fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "title": "第08集-怎样从数据中学习? 5分钟搞懂机器学习",
+                    "node_path": "cf6768a5-dd2d-4a56-9c05-2b49aa0770ee/fce9c4c9-83eb-4da1-abb4-0ce5545ceee5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "title": "人脸聚类",
+            "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab",
+            "child_nodes": [
+                {
+                    "id": "7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "title": "第09集-什么是人脸聚类? 论手机如何克服\"脸盲症\"",
+                    "node_path": "7e38f075-ca93-4980-b18b-0d93d12f19ab/7b454ca3-3c6a-4884-befc-5134c086ecb1",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "title": "语音识别",
+            "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409",
+            "child_nodes": [
+                {
+                    "id": "ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "title": "第10集-什么是听歌识曲? 众里寻\"歌\"千百度",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/ebea22e8-cb83-459f-bd6d-556a4d95d8f4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "title": "第11集-什么是语音识别? 语音助手会在上课的时候插嘴吗",
+                    "node_path": "663aabb5-e454-474d-bb12-f6ef2dd18409/0ce8a3a0-f9be-4871-a160-86c859c0b95f",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "1b9e9904-0f86-638b-5c65-156373a2eafc": [
+        {
+            "id": "d4fe131b-f1d8-4a1a-97d3-ae38d2f2ba33",
+            "title": "机器学习的发展历程",
+            "node_path": "d4fe131b-f1d8-4a1a-97d3-ae38d2f2ba33",
+            "child_nodes": []
+        },
+        {
+            "id": "3ca3835a-fdd0-4230-9fe6-4b163484ab0b",
+            "title": "机器学习",
+            "node_path": "3ca3835a-fdd0-4230-9fe6-4b163484ab0b",
+            "child_nodes": []
+        },
+        {
+            "id": "7f83a528-40ce-489f-bc72-9cd6f67a9c90",
+            "title": "模型评估",
+            "node_path": "7f83a528-40ce-489f-bc72-9cd6f67a9c90",
+            "child_nodes": []
+        },
+        {
+            "id": "dd8c5d7e-da43-4377-90f5-2a581ea200c5",
+            "title": "深度学习",
+            "node_path": "dd8c5d7e-da43-4377-90f5-2a581ea200c5",
+            "child_nodes": []
+        }
+    ],
+    "a3c7d585-b2f6-1afb-9775-4c3a484cf3c4": [
+        {
+            "id": "d4fe131b-f1d8-4a1a-97d3-ae38d2f2ba33",
+            "title": "机器学习的发展历程",
+            "node_path": "d4fe131b-f1d8-4a1a-97d3-ae38d2f2ba33",
+            "child_nodes": []
+        },
+        {
+            "id": "3ca3835a-fdd0-4230-9fe6-4b163484ab0b",
+            "title": "机器学习",
+            "node_path": "3ca3835a-fdd0-4230-9fe6-4b163484ab0b",
+            "child_nodes": []
+        },
+        {
+            "id": "7f83a528-40ce-489f-bc72-9cd6f67a9c90",
+            "title": "模型评估",
+            "node_path": "7f83a528-40ce-489f-bc72-9cd6f67a9c90",
+            "child_nodes": []
+        },
+        {
+            "id": "dd8c5d7e-da43-4377-90f5-2a581ea200c5",
+            "title": "深度学习",
+            "node_path": "dd8c5d7e-da43-4377-90f5-2a581ea200c5",
+            "child_nodes": []
+        }
+    ],
+    "f52764de-2e82-f6f1-dc6c-c56699859883": [
+        {
+            "id": "d4fe131b-f1d8-4a1a-97d3-ae38d2f2ba33",
+            "title": "机器学习的发展历程",
+            "node_path": "d4fe131b-f1d8-4a1a-97d3-ae38d2f2ba33",
+            "child_nodes": []
+        },
+        {
+            "id": "3ca3835a-fdd0-4230-9fe6-4b163484ab0b",
+            "title": "机器学习",
+            "node_path": "3ca3835a-fdd0-4230-9fe6-4b163484ab0b",
+            "child_nodes": []
+        },
+        {
+            "id": "7f83a528-40ce-489f-bc72-9cd6f67a9c90",
+            "title": "模型评估",
+            "node_path": "7f83a528-40ce-489f-bc72-9cd6f67a9c90",
+            "child_nodes": []
+        },
+        {
+            "id": "dd8c5d7e-da43-4377-90f5-2a581ea200c5",
+            "title": "深度学习",
+            "node_path": "dd8c5d7e-da43-4377-90f5-2a581ea200c5",
+            "child_nodes": []
+        }
+    ],
+    "c51f1a9d-4315-9a2a-96ea-9a7fb11dc41d": [
+        {
+            "id": "d4fe131b-f1d8-4a1a-97d3-ae38d2f2ba33",
+            "title": "机器学习的发展历程",
+            "node_path": "d4fe131b-f1d8-4a1a-97d3-ae38d2f2ba33",
+            "child_nodes": []
+        },
+        {
+            "id": "3ca3835a-fdd0-4230-9fe6-4b163484ab0b",
+            "title": "机器学习",
+            "node_path": "3ca3835a-fdd0-4230-9fe6-4b163484ab0b",
+            "child_nodes": []
+        },
+        {
+            "id": "7f83a528-40ce-489f-bc72-9cd6f67a9c90",
+            "title": "模型评估",
+            "node_path": "7f83a528-40ce-489f-bc72-9cd6f67a9c90",
+            "child_nodes": []
+        },
+        {
+            "id": "dd8c5d7e-da43-4377-90f5-2a581ea200c5",
+            "title": "深度学习",
+            "node_path": "dd8c5d7e-da43-4377-90f5-2a581ea200c5",
+            "child_nodes": []
+        }
+    ],
+    "95a73c25-a6cd-7bfb-407a-2430c1a3c657": [
+        {
+            "id": "f1211c1a-d8a9-47a9-84fd-b5d332abde46",
+            "title": "语音唤醒",
+            "node_path": "f1211c1a-d8a9-47a9-84fd-b5d332abde46",
+            "child_nodes": []
+        },
+        {
+            "id": "aa5693eb-7253-40ea-ad91-0a343a7f5667",
+            "title": "语音识别1",
+            "node_path": "aa5693eb-7253-40ea-ad91-0a343a7f5667",
+            "child_nodes": []
+        },
+        {
+            "id": "de5643ae-4d0a-4662-afff-b2ca59542b53",
+            "title": "语音识别2",
+            "node_path": "de5643ae-4d0a-4662-afff-b2ca59542b53",
+            "child_nodes": []
+        },
+        {
+            "id": "27c665aa-c954-4250-a85b-9f30cd02f433",
+            "title": "声纹识别1",
+            "node_path": "27c665aa-c954-4250-a85b-9f30cd02f433",
+            "child_nodes": []
+        },
+        {
+            "id": "df8a9aab-e42f-4c0b-a933-0ac436a111de",
+            "title": "声纹识别2",
+            "node_path": "df8a9aab-e42f-4c0b-a933-0ac436a111de",
+            "child_nodes": []
+        },
+        {
+            "id": "6faa0ac9-2743-44bd-8a1d-a7c93b54b565",
+            "title": "语音合成",
+            "node_path": "6faa0ac9-2743-44bd-8a1d-a7c93b54b565",
+            "child_nodes": []
+        },
+        {
+            "id": "d2853781-0641-46f2-ab18-678d26a7a2a5",
+            "title": "语音评测",
+            "node_path": "d2853781-0641-46f2-ab18-678d26a7a2a5",
+            "child_nodes": []
+        }
+    ],
+    "29d2fa53-1bcb-11b4-8145-a89955fb7f9e": [
+        {
+            "id": "f1211c1a-d8a9-47a9-84fd-b5d332abde46",
+            "title": "语音唤醒",
+            "node_path": "f1211c1a-d8a9-47a9-84fd-b5d332abde46",
+            "child_nodes": []
+        },
+        {
+            "id": "aa5693eb-7253-40ea-ad91-0a343a7f5667",
+            "title": "语音识别1",
+            "node_path": "aa5693eb-7253-40ea-ad91-0a343a7f5667",
+            "child_nodes": []
+        },
+        {
+            "id": "de5643ae-4d0a-4662-afff-b2ca59542b53",
+            "title": "语音识别2",
+            "node_path": "de5643ae-4d0a-4662-afff-b2ca59542b53",
+            "child_nodes": []
+        },
+        {
+            "id": "27c665aa-c954-4250-a85b-9f30cd02f433",
+            "title": "声纹识别1",
+            "node_path": "27c665aa-c954-4250-a85b-9f30cd02f433",
+            "child_nodes": []
+        },
+        {
+            "id": "df8a9aab-e42f-4c0b-a933-0ac436a111de",
+            "title": "声纹识别2",
+            "node_path": "df8a9aab-e42f-4c0b-a933-0ac436a111de",
+            "child_nodes": []
+        },
+        {
+            "id": "6faa0ac9-2743-44bd-8a1d-a7c93b54b565",
+            "title": "语音合成",
+            "node_path": "6faa0ac9-2743-44bd-8a1d-a7c93b54b565",
+            "child_nodes": []
+        },
+        {
+            "id": "d2853781-0641-46f2-ab18-678d26a7a2a5",
+            "title": "语音评测",
+            "node_path": "d2853781-0641-46f2-ab18-678d26a7a2a5",
+            "child_nodes": []
+        }
+    ],
+    "b0f3f027-7427-7fb0-e69c-a22beaca3191": [
+        {
+            "id": "f1211c1a-d8a9-47a9-84fd-b5d332abde46",
+            "title": "语音唤醒",
+            "node_path": "f1211c1a-d8a9-47a9-84fd-b5d332abde46",
+            "child_nodes": []
+        },
+        {
+            "id": "aa5693eb-7253-40ea-ad91-0a343a7f5667",
+            "title": "语音识别1",
+            "node_path": "aa5693eb-7253-40ea-ad91-0a343a7f5667",
+            "child_nodes": []
+        },
+        {
+            "id": "de5643ae-4d0a-4662-afff-b2ca59542b53",
+            "title": "语音识别2",
+            "node_path": "de5643ae-4d0a-4662-afff-b2ca59542b53",
+            "child_nodes": []
+        },
+        {
+            "id": "27c665aa-c954-4250-a85b-9f30cd02f433",
+            "title": "声纹识别1",
+            "node_path": "27c665aa-c954-4250-a85b-9f30cd02f433",
+            "child_nodes": []
+        },
+        {
+            "id": "df8a9aab-e42f-4c0b-a933-0ac436a111de",
+            "title": "声纹识别2",
+            "node_path": "df8a9aab-e42f-4c0b-a933-0ac436a111de",
+            "child_nodes": []
+        },
+        {
+            "id": "6faa0ac9-2743-44bd-8a1d-a7c93b54b565",
+            "title": "语音合成",
+            "node_path": "6faa0ac9-2743-44bd-8a1d-a7c93b54b565",
+            "child_nodes": []
+        },
+        {
+            "id": "d2853781-0641-46f2-ab18-678d26a7a2a5",
+            "title": "语音评测",
+            "node_path": "d2853781-0641-46f2-ab18-678d26a7a2a5",
+            "child_nodes": []
+        }
+    ],
+    "8b1290d0-350a-4f7b-b6dd-f5c89217c1cd": [
+        {
+            "id": "f1211c1a-d8a9-47a9-84fd-b5d332abde46",
+            "title": "语音唤醒",
+            "node_path": "f1211c1a-d8a9-47a9-84fd-b5d332abde46",
+            "child_nodes": []
+        },
+        {
+            "id": "aa5693eb-7253-40ea-ad91-0a343a7f5667",
+            "title": "语音识别1",
+            "node_path": "aa5693eb-7253-40ea-ad91-0a343a7f5667",
+            "child_nodes": []
+        },
+        {
+            "id": "de5643ae-4d0a-4662-afff-b2ca59542b53",
+            "title": "语音识别2",
+            "node_path": "de5643ae-4d0a-4662-afff-b2ca59542b53",
+            "child_nodes": []
+        },
+        {
+            "id": "27c665aa-c954-4250-a85b-9f30cd02f433",
+            "title": "声纹识别1",
+            "node_path": "27c665aa-c954-4250-a85b-9f30cd02f433",
+            "child_nodes": []
+        },
+        {
+            "id": "df8a9aab-e42f-4c0b-a933-0ac436a111de",
+            "title": "声纹识别2",
+            "node_path": "df8a9aab-e42f-4c0b-a933-0ac436a111de",
+            "child_nodes": []
+        },
+        {
+            "id": "6faa0ac9-2743-44bd-8a1d-a7c93b54b565",
+            "title": "语音合成",
+            "node_path": "6faa0ac9-2743-44bd-8a1d-a7c93b54b565",
+            "child_nodes": []
+        },
+        {
+            "id": "d2853781-0641-46f2-ab18-678d26a7a2a5",
+            "title": "语音评测",
+            "node_path": "d2853781-0641-46f2-ab18-678d26a7a2a5",
+            "child_nodes": []
+        }
+    ],
+    "68d3c6b5-6881-9b4a-c51c-b2c53e7677f3": [
+        {
+            "id": "f1211c1a-d8a9-47a9-84fd-b5d332abde46",
+            "title": "语音唤醒",
+            "node_path": "f1211c1a-d8a9-47a9-84fd-b5d332abde46",
+            "child_nodes": []
+        },
+        {
+            "id": "aa5693eb-7253-40ea-ad91-0a343a7f5667",
+            "title": "语音识别1",
+            "node_path": "aa5693eb-7253-40ea-ad91-0a343a7f5667",
+            "child_nodes": []
+        },
+        {
+            "id": "de5643ae-4d0a-4662-afff-b2ca59542b53",
+            "title": "语音识别2",
+            "node_path": "de5643ae-4d0a-4662-afff-b2ca59542b53",
+            "child_nodes": []
+        },
+        {
+            "id": "27c665aa-c954-4250-a85b-9f30cd02f433",
+            "title": "声纹识别1",
+            "node_path": "27c665aa-c954-4250-a85b-9f30cd02f433",
+            "child_nodes": []
+        },
+        {
+            "id": "df8a9aab-e42f-4c0b-a933-0ac436a111de",
+            "title": "声纹识别2",
+            "node_path": "df8a9aab-e42f-4c0b-a933-0ac436a111de",
+            "child_nodes": []
+        },
+        {
+            "id": "6faa0ac9-2743-44bd-8a1d-a7c93b54b565",
+            "title": "语音合成",
+            "node_path": "6faa0ac9-2743-44bd-8a1d-a7c93b54b565",
+            "child_nodes": []
+        },
+        {
+            "id": "d2853781-0641-46f2-ab18-678d26a7a2a5",
+            "title": "语音评测",
+            "node_path": "d2853781-0641-46f2-ab18-678d26a7a2a5",
+            "child_nodes": []
+        }
+    ],
+    "218b1682-4c9d-3bc3-4ec0-7eb251610e26": [
+        {
+            "id": "5ac3c121-4148-4dcf-b6b5-bec59497b4e5",
+            "title": "中文分词",
+            "node_path": "5ac3c121-4148-4dcf-b6b5-bec59497b4e5",
+            "child_nodes": []
+        },
+        {
+            "id": "acfa3608-e8cd-4ed2-94e1-ca7afa916c68",
+            "title": "机器翻译",
+            "node_path": "acfa3608-e8cd-4ed2-94e1-ca7afa916c68",
+            "child_nodes": []
+        },
+        {
+            "id": "f8a4afb1-b2e0-418d-8b78-b738efccc5f2",
+            "title": "自动摘要",
+            "node_path": "f8a4afb1-b2e0-418d-8b78-b738efccc5f2",
+            "child_nodes": []
+        },
+        {
+            "id": "9156b0b8-a01e-4fbd-b268-d37250ca4b7e",
+            "title": "自动写新闻",
+            "node_path": "9156b0b8-a01e-4fbd-b268-d37250ca4b7e",
+            "child_nodes": []
+        },
+        {
+            "id": "00fdf7b0-9069-40c8-aa73-88160022535e",
+            "title": "自动作文评分",
+            "node_path": "00fdf7b0-9069-40c8-aa73-88160022535e",
+            "child_nodes": []
+        }
+    ],
+    "7505e97f-2a73-6e19-18bc-86a1b24eaae7": [
+        {
+            "id": "5ac3c121-4148-4dcf-b6b5-bec59497b4e5",
+            "title": "中文分词",
+            "node_path": "5ac3c121-4148-4dcf-b6b5-bec59497b4e5",
+            "child_nodes": []
+        },
+        {
+            "id": "acfa3608-e8cd-4ed2-94e1-ca7afa916c68",
+            "title": "机器翻译",
+            "node_path": "acfa3608-e8cd-4ed2-94e1-ca7afa916c68",
+            "child_nodes": []
+        },
+        {
+            "id": "f8a4afb1-b2e0-418d-8b78-b738efccc5f2",
+            "title": "自动摘要",
+            "node_path": "f8a4afb1-b2e0-418d-8b78-b738efccc5f2",
+            "child_nodes": []
+        },
+        {
+            "id": "9156b0b8-a01e-4fbd-b268-d37250ca4b7e",
+            "title": "自动写新闻",
+            "node_path": "9156b0b8-a01e-4fbd-b268-d37250ca4b7e",
+            "child_nodes": []
+        },
+        {
+            "id": "00fdf7b0-9069-40c8-aa73-88160022535e",
+            "title": "自动作文评分",
+            "node_path": "00fdf7b0-9069-40c8-aa73-88160022535e",
+            "child_nodes": []
+        }
+    ],
+    "60b89e82-3e39-c64e-946f-2d56e8e68814": [
+        {
+            "id": "5ac3c121-4148-4dcf-b6b5-bec59497b4e5",
+            "title": "中文分词",
+            "node_path": "5ac3c121-4148-4dcf-b6b5-bec59497b4e5",
+            "child_nodes": []
+        },
+        {
+            "id": "acfa3608-e8cd-4ed2-94e1-ca7afa916c68",
+            "title": "机器翻译",
+            "node_path": "acfa3608-e8cd-4ed2-94e1-ca7afa916c68",
+            "child_nodes": []
+        },
+        {
+            "id": "f8a4afb1-b2e0-418d-8b78-b738efccc5f2",
+            "title": "自动摘要",
+            "node_path": "f8a4afb1-b2e0-418d-8b78-b738efccc5f2",
+            "child_nodes": []
+        },
+        {
+            "id": "9156b0b8-a01e-4fbd-b268-d37250ca4b7e",
+            "title": "自动写新闻",
+            "node_path": "9156b0b8-a01e-4fbd-b268-d37250ca4b7e",
+            "child_nodes": []
+        },
+        {
+            "id": "00fdf7b0-9069-40c8-aa73-88160022535e",
+            "title": "自动作文评分",
+            "node_path": "00fdf7b0-9069-40c8-aa73-88160022535e",
+            "child_nodes": []
+        }
+    ],
+    "2366371c-4139-448b-1f27-927a35d40603": [
+        {
+            "id": "5ac3c121-4148-4dcf-b6b5-bec59497b4e5",
+            "title": "中文分词",
+            "node_path": "5ac3c121-4148-4dcf-b6b5-bec59497b4e5",
+            "child_nodes": []
+        },
+        {
+            "id": "acfa3608-e8cd-4ed2-94e1-ca7afa916c68",
+            "title": "机器翻译",
+            "node_path": "acfa3608-e8cd-4ed2-94e1-ca7afa916c68",
+            "child_nodes": []
+        },
+        {
+            "id": "f8a4afb1-b2e0-418d-8b78-b738efccc5f2",
+            "title": "自动摘要",
+            "node_path": "f8a4afb1-b2e0-418d-8b78-b738efccc5f2",
+            "child_nodes": []
+        },
+        {
+            "id": "9156b0b8-a01e-4fbd-b268-d37250ca4b7e",
+            "title": "自动写新闻",
+            "node_path": "9156b0b8-a01e-4fbd-b268-d37250ca4b7e",
+            "child_nodes": []
+        },
+        {
+            "id": "00fdf7b0-9069-40c8-aa73-88160022535e",
+            "title": "自动作文评分",
+            "node_path": "00fdf7b0-9069-40c8-aa73-88160022535e",
+            "child_nodes": []
+        }
+    ],
+    "63a15d30-2612-fe92-8c8d-89663b1f73ca": [
+        {
+            "id": "5ac3c121-4148-4dcf-b6b5-bec59497b4e5",
+            "title": "中文分词",
+            "node_path": "5ac3c121-4148-4dcf-b6b5-bec59497b4e5",
+            "child_nodes": []
+        },
+        {
+            "id": "acfa3608-e8cd-4ed2-94e1-ca7afa916c68",
+            "title": "机器翻译",
+            "node_path": "acfa3608-e8cd-4ed2-94e1-ca7afa916c68",
+            "child_nodes": []
+        },
+        {
+            "id": "f8a4afb1-b2e0-418d-8b78-b738efccc5f2",
+            "title": "自动摘要",
+            "node_path": "f8a4afb1-b2e0-418d-8b78-b738efccc5f2",
+            "child_nodes": []
+        },
+        {
+            "id": "9156b0b8-a01e-4fbd-b268-d37250ca4b7e",
+            "title": "自动写新闻",
+            "node_path": "9156b0b8-a01e-4fbd-b268-d37250ca4b7e",
+            "child_nodes": []
+        },
+        {
+            "id": "00fdf7b0-9069-40c8-aa73-88160022535e",
+            "title": "自动作文评分",
+            "node_path": "00fdf7b0-9069-40c8-aa73-88160022535e",
+            "child_nodes": []
+        }
+    ],
+    "3d744b19-3081-5add-33e0-59e7c36d9e70": [
+        {
+            "id": "2e07dcf2-2dca-4002-9f52-59b1ce6fbf36",
+            "title": "文字识别",
+            "node_path": "2e07dcf2-2dca-4002-9f52-59b1ce6fbf36",
+            "child_nodes": []
+        },
+        {
+            "id": "2bb2f5cd-d692-4f38-a14e-73c32ec325c4",
+            "title": "人脸检测",
+            "node_path": "2bb2f5cd-d692-4f38-a14e-73c32ec325c4",
+            "child_nodes": []
+        }
+    ],
+    "41be7a37-252b-2108-fb33-7d98844919ce": [
+        {
+            "id": "05351006-774e-4b4e-a2ae-f71cc090bf57",
+            "title": "图像识别",
+            "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57",
+            "child_nodes": [
+                {
+                    "id": "b4bfe2b9-c540-41fc-adc0-c5796c87609f",
+                    "title": "第01集-会寻人的摄像头",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/b4bfe2b9-c540-41fc-adc0-c5796c87609f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9585b4e9-c152-4e1b-b0ec-764c2ae5377f",
+                    "title": "第02集-变装的代价",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/9585b4e9-c152-4e1b-b0ec-764c2ae5377f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f7a7a17c-d521-4789-82ae-150c333fb0d2",
+                    "title": "第03集-智能体检机",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/f7a7a17c-d521-4789-82ae-150c333fb0d2",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0655a2b8-5d7a-4759-aa19-b0df05c2f220",
+                    "title": "第04集-手势识别眼镜",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/0655a2b8-5d7a-4759-aa19-b0df05c2f220",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9a285462-339d-43ce-8d53-0ef089a7c149",
+            "title": "目标检测",
+            "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149",
+            "child_nodes": [
+                {
+                    "id": "cc3856d5-72cf-4b28-ae70-3c1757fb8fe0",
+                    "title": "第05集-智能数人眼镜",
+                    "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149/cc3856d5-72cf-4b28-ae70-3c1757fb8fe0",
+                    "child_nodes": []
+                },
+                {
+                    "id": "cfeb94ed-0e31-471e-9609-ca08144ff39b",
+                    "title": "第06集-寻找最大的椰子",
+                    "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149/cfeb94ed-0e31-471e-9609-ca08144ff39b",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "ce66df8c-138d-4d8a-8454-e5931e8b5d83",
+            "title": "目标跟踪",
+            "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83",
+            "child_nodes": [
+                {
+                    "id": "611808be-07ed-414e-97dd-17f873941c87",
+                    "title": "第07集-走不丢的小乌龟",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/611808be-07ed-414e-97dd-17f873941c87",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e34601d3-8530-4bb5-8d9f-25f66a3ca51c",
+                    "title": "第08集-智能\"C位\"摄像机",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/e34601d3-8530-4bb5-8d9f-25f66a3ca51c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e4e9e91f-64fe-4b49-9e47-6b313f5139e5",
+                    "title": "第09集-\"骗人\"的摄像头",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/e4e9e91f-64fe-4b49-9e47-6b313f5139e5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9bf72610-38ce-42cb-87e9-09e2535af192",
+            "title": "人脸关键点",
+            "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192",
+            "child_nodes": [
+                {
+                    "id": "6e7a42f1-9a65-44e3-8ed7-11f1d4ee1a0f",
+                    "title": "第10集-真假咚咚",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/6e7a42f1-9a65-44e3-8ed7-11f1d4ee1a0f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9d8657fd-d139-403b-9412-46ae2fe6ce25",
+                    "title": "第11集-\"不通人情\"的寄存柜",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/9d8657fd-d139-403b-9412-46ae2fe6ce25",
+                    "child_nodes": []
+                },
+                {
+                    "id": "8f0edaca-97b1-42ba-bb6b-f32dadb9b459",
+                    "title": "第12集-图书馆的安全卫士",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/8f0edaca-97b1-42ba-bb6b-f32dadb9b459",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "78964d00-f888-186f-cd98-268fb2d7b97d": [
+        {
+            "id": "05351006-774e-4b4e-a2ae-f71cc090bf57",
+            "title": "图像识别",
+            "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57",
+            "child_nodes": [
+                {
+                    "id": "b4bfe2b9-c540-41fc-adc0-c5796c87609f",
+                    "title": "第01集-会寻人的摄像头",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/b4bfe2b9-c540-41fc-adc0-c5796c87609f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9585b4e9-c152-4e1b-b0ec-764c2ae5377f",
+                    "title": "第02集-变装的代价",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/9585b4e9-c152-4e1b-b0ec-764c2ae5377f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f7a7a17c-d521-4789-82ae-150c333fb0d2",
+                    "title": "第03集-智能体检机",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/f7a7a17c-d521-4789-82ae-150c333fb0d2",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0655a2b8-5d7a-4759-aa19-b0df05c2f220",
+                    "title": "第04集-手势识别眼镜",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/0655a2b8-5d7a-4759-aa19-b0df05c2f220",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9a285462-339d-43ce-8d53-0ef089a7c149",
+            "title": "目标检测",
+            "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149",
+            "child_nodes": [
+                {
+                    "id": "cc3856d5-72cf-4b28-ae70-3c1757fb8fe0",
+                    "title": "第05集-智能数人眼镜",
+                    "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149/cc3856d5-72cf-4b28-ae70-3c1757fb8fe0",
+                    "child_nodes": []
+                },
+                {
+                    "id": "cfeb94ed-0e31-471e-9609-ca08144ff39b",
+                    "title": "第06集-寻找最大的椰子",
+                    "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149/cfeb94ed-0e31-471e-9609-ca08144ff39b",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "ce66df8c-138d-4d8a-8454-e5931e8b5d83",
+            "title": "目标跟踪",
+            "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83",
+            "child_nodes": [
+                {
+                    "id": "611808be-07ed-414e-97dd-17f873941c87",
+                    "title": "第07集-走不丢的小乌龟",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/611808be-07ed-414e-97dd-17f873941c87",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e34601d3-8530-4bb5-8d9f-25f66a3ca51c",
+                    "title": "第08集-智能\"C位\"摄像机",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/e34601d3-8530-4bb5-8d9f-25f66a3ca51c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e4e9e91f-64fe-4b49-9e47-6b313f5139e5",
+                    "title": "第09集-\"骗人\"的摄像头",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/e4e9e91f-64fe-4b49-9e47-6b313f5139e5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9bf72610-38ce-42cb-87e9-09e2535af192",
+            "title": "人脸关键点",
+            "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192",
+            "child_nodes": [
+                {
+                    "id": "6e7a42f1-9a65-44e3-8ed7-11f1d4ee1a0f",
+                    "title": "第10集-真假咚咚",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/6e7a42f1-9a65-44e3-8ed7-11f1d4ee1a0f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9d8657fd-d139-403b-9412-46ae2fe6ce25",
+                    "title": "第11集-\"不通人情\"的寄存柜",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/9d8657fd-d139-403b-9412-46ae2fe6ce25",
+                    "child_nodes": []
+                },
+                {
+                    "id": "8f0edaca-97b1-42ba-bb6b-f32dadb9b459",
+                    "title": "第12集-图书馆的安全卫士",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/8f0edaca-97b1-42ba-bb6b-f32dadb9b459",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "e96a082a-c2ee-4896-950a-cdf279798845": [
+        {
+            "id": "05351006-774e-4b4e-a2ae-f71cc090bf57",
+            "title": "图像识别",
+            "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57",
+            "child_nodes": [
+                {
+                    "id": "b4bfe2b9-c540-41fc-adc0-c5796c87609f",
+                    "title": "第01集-会寻人的摄像头",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/b4bfe2b9-c540-41fc-adc0-c5796c87609f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9585b4e9-c152-4e1b-b0ec-764c2ae5377f",
+                    "title": "第02集-变装的代价",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/9585b4e9-c152-4e1b-b0ec-764c2ae5377f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f7a7a17c-d521-4789-82ae-150c333fb0d2",
+                    "title": "第03集-智能体检机",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/f7a7a17c-d521-4789-82ae-150c333fb0d2",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0655a2b8-5d7a-4759-aa19-b0df05c2f220",
+                    "title": "第04集-手势识别眼镜",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/0655a2b8-5d7a-4759-aa19-b0df05c2f220",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9a285462-339d-43ce-8d53-0ef089a7c149",
+            "title": "目标检测",
+            "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149",
+            "child_nodes": [
+                {
+                    "id": "cc3856d5-72cf-4b28-ae70-3c1757fb8fe0",
+                    "title": "第05集-智能数人眼镜",
+                    "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149/cc3856d5-72cf-4b28-ae70-3c1757fb8fe0",
+                    "child_nodes": []
+                },
+                {
+                    "id": "cfeb94ed-0e31-471e-9609-ca08144ff39b",
+                    "title": "第06集-寻找最大的椰子",
+                    "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149/cfeb94ed-0e31-471e-9609-ca08144ff39b",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "ce66df8c-138d-4d8a-8454-e5931e8b5d83",
+            "title": "目标跟踪",
+            "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83",
+            "child_nodes": [
+                {
+                    "id": "611808be-07ed-414e-97dd-17f873941c87",
+                    "title": "第07集-走不丢的小乌龟",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/611808be-07ed-414e-97dd-17f873941c87",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e34601d3-8530-4bb5-8d9f-25f66a3ca51c",
+                    "title": "第08集-智能\"C位\"摄像机",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/e34601d3-8530-4bb5-8d9f-25f66a3ca51c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e4e9e91f-64fe-4b49-9e47-6b313f5139e5",
+                    "title": "第09集-\"骗人\"的摄像头",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/e4e9e91f-64fe-4b49-9e47-6b313f5139e5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9bf72610-38ce-42cb-87e9-09e2535af192",
+            "title": "人脸关键点",
+            "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192",
+            "child_nodes": [
+                {
+                    "id": "6e7a42f1-9a65-44e3-8ed7-11f1d4ee1a0f",
+                    "title": "第10集-真假咚咚",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/6e7a42f1-9a65-44e3-8ed7-11f1d4ee1a0f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9d8657fd-d139-403b-9412-46ae2fe6ce25",
+                    "title": "第11集-\"不通人情\"的寄存柜",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/9d8657fd-d139-403b-9412-46ae2fe6ce25",
+                    "child_nodes": []
+                },
+                {
+                    "id": "8f0edaca-97b1-42ba-bb6b-f32dadb9b459",
+                    "title": "第12集-图书馆的安全卫士",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/8f0edaca-97b1-42ba-bb6b-f32dadb9b459",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "0be8248e-bcdf-e5fd-476b-6db28130d421": [
+        {
+            "id": "2e07dcf2-2dca-4002-9f52-59b1ce6fbf36",
+            "title": "文字识别",
+            "node_path": "2e07dcf2-2dca-4002-9f52-59b1ce6fbf36",
+            "child_nodes": []
+        },
+        {
+            "id": "2bb2f5cd-d692-4f38-a14e-73c32ec325c4",
+            "title": "人脸检测",
+            "node_path": "2bb2f5cd-d692-4f38-a14e-73c32ec325c4",
+            "child_nodes": []
+        }
+    ],
+    "86d497ac-df09-6b8d-caee-2d6251df3b2e": [
+        {
+            "id": "05351006-774e-4b4e-a2ae-f71cc090bf57",
+            "title": "图像识别",
+            "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57",
+            "child_nodes": [
+                {
+                    "id": "b4bfe2b9-c540-41fc-adc0-c5796c87609f",
+                    "title": "第01集-会寻人的摄像头",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/b4bfe2b9-c540-41fc-adc0-c5796c87609f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9585b4e9-c152-4e1b-b0ec-764c2ae5377f",
+                    "title": "第02集-变装的代价",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/9585b4e9-c152-4e1b-b0ec-764c2ae5377f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f7a7a17c-d521-4789-82ae-150c333fb0d2",
+                    "title": "第03集-智能体检机",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/f7a7a17c-d521-4789-82ae-150c333fb0d2",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0655a2b8-5d7a-4759-aa19-b0df05c2f220",
+                    "title": "第04集-手势识别眼镜",
+                    "node_path": "05351006-774e-4b4e-a2ae-f71cc090bf57/0655a2b8-5d7a-4759-aa19-b0df05c2f220",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9a285462-339d-43ce-8d53-0ef089a7c149",
+            "title": "目标检测",
+            "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149",
+            "child_nodes": [
+                {
+                    "id": "cc3856d5-72cf-4b28-ae70-3c1757fb8fe0",
+                    "title": "第05集-智能数人眼镜",
+                    "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149/cc3856d5-72cf-4b28-ae70-3c1757fb8fe0",
+                    "child_nodes": []
+                },
+                {
+                    "id": "cfeb94ed-0e31-471e-9609-ca08144ff39b",
+                    "title": "第06集-寻找最大的椰子",
+                    "node_path": "9a285462-339d-43ce-8d53-0ef089a7c149/cfeb94ed-0e31-471e-9609-ca08144ff39b",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "ce66df8c-138d-4d8a-8454-e5931e8b5d83",
+            "title": "目标跟踪",
+            "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83",
+            "child_nodes": [
+                {
+                    "id": "611808be-07ed-414e-97dd-17f873941c87",
+                    "title": "第07集-走不丢的小乌龟",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/611808be-07ed-414e-97dd-17f873941c87",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e34601d3-8530-4bb5-8d9f-25f66a3ca51c",
+                    "title": "第08集-智能\"C位\"摄像机",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/e34601d3-8530-4bb5-8d9f-25f66a3ca51c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e4e9e91f-64fe-4b49-9e47-6b313f5139e5",
+                    "title": "第09集-\"骗人\"的摄像头",
+                    "node_path": "ce66df8c-138d-4d8a-8454-e5931e8b5d83/e4e9e91f-64fe-4b49-9e47-6b313f5139e5",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9bf72610-38ce-42cb-87e9-09e2535af192",
+            "title": "人脸关键点",
+            "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192",
+            "child_nodes": [
+                {
+                    "id": "6e7a42f1-9a65-44e3-8ed7-11f1d4ee1a0f",
+                    "title": "第10集-真假咚咚",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/6e7a42f1-9a65-44e3-8ed7-11f1d4ee1a0f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9d8657fd-d139-403b-9412-46ae2fe6ce25",
+                    "title": "第11集-\"不通人情\"的寄存柜",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/9d8657fd-d139-403b-9412-46ae2fe6ce25",
+                    "child_nodes": []
+                },
+                {
+                    "id": "8f0edaca-97b1-42ba-bb6b-f32dadb9b459",
+                    "title": "第12集-图书馆的安全卫士",
+                    "node_path": "9bf72610-38ce-42cb-87e9-09e2535af192/8f0edaca-97b1-42ba-bb6b-f32dadb9b459",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "b682fd11-f676-2f51-058a-8a553f83d0b5": [
+        {
+            "id": "b45df9d0-a383-4eab-a9ed-bff379c742bc",
+            "title": "人工智能发展历程",
+            "node_path": "b45df9d0-a383-4eab-a9ed-bff379c742bc",
+            "child_nodes": []
+        },
+        {
+            "id": "53ff1583-e219-402c-bf47-07178c42e833",
+            "title": "人工智能发展三阶段",
+            "node_path": "53ff1583-e219-402c-bf47-07178c42e833",
+            "child_nodes": []
+        }
+    ],
+    "a16b7990-5892-a0b2-4e9e-69287adcc2a6": [
+        {
+            "id": "6356cbd7-6552-47a0-8cf0-2cfce14cede4",
+            "title": "生活中的人工智能",
+            "node_path": "6356cbd7-6552-47a0-8cf0-2cfce14cede4",
+            "child_nodes": []
+        },
+        {
+            "id": "911ef067-1904-4ecf-9e9f-1250a8283641",
+            "title": "智能安防",
+            "node_path": "911ef067-1904-4ecf-9e9f-1250a8283641",
+            "child_nodes": []
+        },
+        {
+            "id": "fbf66aa3-2aca-4087-82f4-ccc1558c9a25",
+            "title": "智能家居",
+            "node_path": "fbf66aa3-2aca-4087-82f4-ccc1558c9a25",
+            "child_nodes": []
+        },
+        {
+            "id": "bed37ffe-da92-4637-b80d-912c610afa64",
+            "title": "智能交通",
+            "node_path": "bed37ffe-da92-4637-b80d-912c610afa64",
+            "child_nodes": []
+        },
+        {
+            "id": "f49b6c77-637c-4d52-bc9f-49568fc3ee85",
+            "title": "智能医疗",
+            "node_path": "f49b6c77-637c-4d52-bc9f-49568fc3ee85",
+            "child_nodes": []
+        }
+    ]
+}
