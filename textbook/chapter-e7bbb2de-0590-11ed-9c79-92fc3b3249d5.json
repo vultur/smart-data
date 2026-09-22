@@ -27512,146 +27512,6 @@
             ]
         }
     ],
-    "c96cdbdb-fefb-616b-796b-102a865f6fe7": [
-        {
-            "id": "cedcf25a-bc76-c917-5ee5-61d4bddd7f9f",
-            "title": "义务教育教科书•体育与健康 一年级（全一册）",
-            "node_path": "cedcf25a-bc76-c917-5ee5-61d4bddd7f9f",
-            "child_nodes": []
-        },
-        {
-            "id": "1b66859b-d7ef-365d-5431-8bf61074e9f2",
-            "title": "第一单元",
-            "node_path": "1b66859b-d7ef-365d-5431-8bf61074e9f2",
-            "child_nodes": [
-                {
-                    "id": "bb95db9b-84de-9d91-9d77-deb3a477d2b2",
-                    "title": "第1课",
-                    "node_path": "1b66859b-d7ef-365d-5431-8bf61074e9f2/bb95db9b-84de-9d91-9d77-deb3a477d2b2",
-                    "child_nodes": [
-                        {
-                            "id": "50c9fd87-73c1-f3fe-16f2-b9f911948eec",
-                            "title": "正确洗手的方法",
-                            "node_path": "1b66859b-d7ef-365d-5431-8bf61074e9f2/bb95db9b-84de-9d91-9d77-deb3a477d2b2/50c9fd87-73c1-f3fe-16f2-b9f911948eec",
-                            "child_nodes": []
-                        }
-                    ]
-                },
-                {
-                    "id": "e8bc6d6c-8215-2f91-a805-65e149ab2362",
-                    "title": "第2课",
-                    "node_path": "1b66859b-d7ef-365d-5431-8bf61074e9f2/e8bc6d6c-8215-2f91-a805-65e149ab2362",
-                    "child_nodes": [
-                        {
-                            "id": "b4bd7d7c-762b-71f1-18e5-b3a7f93c213c",
-                            "title": "正确佩戴口罩的方法",
-                            "node_path": "1b66859b-d7ef-365d-5431-8bf61074e9f2/e8bc6d6c-8215-2f91-a805-65e149ab2362/b4bd7d7c-762b-71f1-18e5-b3a7f93c213c",
-                            "child_nodes": []
-                        }
-                    ]
-                },
-                {
-                    "id": "3fff3971-376f-d23a-e003-bcb68b62b920",
-                    "title": "第3课",
-                    "node_path": "1b66859b-d7ef-365d-5431-8bf61074e9f2/3fff3971-376f-d23a-e003-bcb68b62b920",
-                    "child_nodes": [
-                        {
-                            "id": "780f6dd6-4030-2090-7641-0571f8fc0ae2",
-                            "title": "食品的生产日期和保质期",
-                            "node_path": "1b66859b-d7ef-365d-5431-8bf61074e9f2/3fff3971-376f-d23a-e003-bcb68b62b920/780f6dd6-4030-2090-7641-0571f8fc0ae2",
-                            "child_nodes": []
-                        }
-                    ]
-                },
-                {
-                    "id": "1363a841-2be5-3a14-69c3-44d4c7c32187",
-                    "title": "第4课",
-                    "node_path": "1b66859b-d7ef-365d-5431-8bf61074e9f2/1363a841-2be5-3a14-69c3-44d4c7c32187",
-                    "child_nodes": [
-                        {
-                            "id": "30b67c9d-7632-7b43-59d5-c22e3c4e1421",
-                            "title": "守护健康睡眠",
-                            "node_path": "1b66859b-d7ef-365d-5431-8bf61074e9f2/1363a841-2be5-3a14-69c3-44d4c7c32187/30b67c9d-7632-7b43-59d5-c22e3c4e1421",
-                            "child_nodes": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "436734fa-c55a-147f-c102-cf917d4b63a5",
-            "title": "第二单元",
-            "node_path": "436734fa-c55a-147f-c102-cf917d4b63a5",
-            "child_nodes": [
-                {
-                    "id": "d01887dc-035f-fea9-7fff-25749d63345f",
-                    "title": "第5课",
-                    "node_path": "436734fa-c55a-147f-c102-cf917d4b63a5/d01887dc-035f-fea9-7fff-25749d63345f",
-                    "child_nodes": [
-                        {
-                            "id": "430ada8c-97e7-539d-875a-425a12748972",
-                            "title": "探秘人体的内部器官",
-                            "node_path": "436734fa-c55a-147f-c102-cf917d4b63a5/d01887dc-035f-fea9-7fff-25749d63345f/430ada8c-97e7-539d-875a-425a12748972",
-                            "child_nodes": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "dfb5fa4b-2849-3d41-0606-b5643f64e890",
-            "title": "第三单元",
-            "node_path": "dfb5fa4b-2849-3d41-0606-b5643f64e890",
-            "child_nodes": [
-                {
-                    "id": "50ddde02-3d89-213c-8eac-de248f9d7bff",
-                    "title": "第6课",
-                    "node_path": "dfb5fa4b-2849-3d41-0606-b5643f64e890/50ddde02-3d89-213c-8eac-de248f9d7bff",
-                    "child_nodes": [
-                        {
-                            "id": "03fbcb89-ad66-2754-53ed-e27fbfcb8a5e",
-                            "title": "正确的刷牙方法",
-                            "node_path": "dfb5fa4b-2849-3d41-0606-b5643f64e890/50ddde02-3d89-213c-8eac-de248f9d7bff/03fbcb89-ad66-2754-53ed-e27fbfcb8a5e",
-                            "child_nodes": []
-                        }
-                    ]
-                },
-                {
-                    "id": "2197b9d9-1fe4-7142-08e0-f7529f0eecf2",
-                    "title": "第7课",
-                    "node_path": "dfb5fa4b-2849-3d41-0606-b5643f64e890/2197b9d9-1fe4-7142-08e0-f7529f0eecf2",
-                    "child_nodes": [
-                        {
-                            "id": "d4ac2114-428b-3e37-622c-8a6dbeea4bbd",
-                            "title": "保护视力的秘密",
-                            "node_path": "dfb5fa4b-2849-3d41-0606-b5643f64e890/2197b9d9-1fe4-7142-08e0-f7529f0eecf2/d4ac2114-428b-3e37-622c-8a6dbeea4bbd",
-                            "child_nodes": []
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "95f16ba3-af11-1fa2-a49d-b01cd63ea8c0",
-            "title": "第四单元",
-            "node_path": "95f16ba3-af11-1fa2-a49d-b01cd63ea8c0",
-            "child_nodes": [
-                {
-                    "id": "4fc95091-b8bf-490e-3ae8-9c3e8489bf4a",
-                    "title": "第8课",
-                    "node_path": "95f16ba3-af11-1fa2-a49d-b01cd63ea8c0/4fc95091-b8bf-490e-3ae8-9c3e8489bf4a",
-                    "child_nodes": [
-                        {
-                            "id": "00abb5b8-e824-6496-bfa7-13aa572e0c7c",
-                            "title": "丰富多彩的体育运动",
-                            "node_path": "95f16ba3-af11-1fa2-a49d-b01cd63ea8c0/4fc95091-b8bf-490e-3ae8-9c3e8489bf4a/00abb5b8-e824-6496-bfa7-13aa572e0c7c",
-                            "child_nodes": []
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
     "df48cf44-6cea-7ebd-632e-1dd2306f2c0f": [
         {
             "id": "d7136a6a-6155-27b4-4346-ef8c4d6119e8",
@@ -37624,174 +37484,6 @@
             "child_nodes": []
         }
     ],
-    "af3f00a8-58fb-a67d-f8af-11c5e3d556ab": [
-        {
-            "id": "6d03e3df-fd4a-c38e-69f2-c3d7bf441ad8",
-            "title": "义务教育教科书•体育与健康 学生用书 二年级（全一册）",
-            "node_path": "6d03e3df-fd4a-c38e-69f2-c3d7bf441ad8",
-            "child_nodes": []
-        },
-        {
-            "id": "d9d95473-f9a2-a8c0-6e42-a3cad317b5ee",
-            "title": "第一单元",
-            "node_path": "d9d95473-f9a2-a8c0-6e42-a3cad317b5ee",
-            "child_nodes": [
-                {
-                    "id": "32e0bc3b-7255-15e2-ebb9-7eb2383ab650",
-                    "title": "第1课 安全运动小贴士",
-                    "node_path": "d9d95473-f9a2-a8c0-6e42-a3cad317b5ee/32e0bc3b-7255-15e2-ebb9-7eb2383ab650",
-                    "child_nodes": []
-                },
-                {
-                    "id": "e5c3e30c-ecf7-8245-2fc1-84f4b72d062e",
-                    "title": "第2课 正确的坐立行姿势",
-                    "node_path": "d9d95473-f9a2-a8c0-6e42-a3cad317b5ee/e5c3e30c-ecf7-8245-2fc1-84f4b72d062e",
-                    "child_nodes": []
-                },
-                {
-                    "id": "5f4b12b8-1ce6-ec80-9acf-c39791335b24",
-                    "title": "第3课 接种疫苗小贴士",
-                    "node_path": "d9d95473-f9a2-a8c0-6e42-a3cad317b5ee/5f4b12b8-1ce6-ec80-9acf-c39791335b24",
-                    "child_nodes": []
-                },
-                {
-                    "id": "4413e60a-95b3-a63d-685c-05981f46a521",
-                    "title": "第4课 如何让自己冷静下来",
-                    "node_path": "d9d95473-f9a2-a8c0-6e42-a3cad317b5ee/4413e60a-95b3-a63d-685c-05981f46a521",
-                    "child_nodes": []
-                }
-            ]
-        },
-        {
-            "id": "03a9d70e-a063-2116-8756-00935270e2f1",
-            "title": "第二单元",
-            "node_path": "03a9d70e-a063-2116-8756-00935270e2f1",
-            "child_nodes": [
-                {
-                    "id": "33504bbd-2eff-5368-4af2-74584c55d8a2",
-                    "title": "第5课 人体的运动系统",
-                    "node_path": "03a9d70e-a063-2116-8756-00935270e2f1/33504bbd-2eff-5368-4af2-74584c55d8a2",
-                    "child_nodes": []
-                }
-            ]
-        },
-        {
-            "id": "826873a1-dd36-6366-cb35-a296ea44d879",
-            "title": "第三单元",
-            "node_path": "826873a1-dd36-6366-cb35-a296ea44d879",
-            "child_nodes": [
-                {
-                    "id": "14cb74ba-f781-1d02-54b8-7a93c7d7c897",
-                    "title": "第6课 掌握正确的止血方法",
-                    "node_path": "826873a1-dd36-6366-cb35-a296ea44d879/14cb74ba-f781-1d02-54b8-7a93c7d7c897",
-                    "child_nodes": []
-                },
-                {
-                    "id": "81864398-2ac9-64a5-fe86-05f2c7590f2e",
-                    "title": "第7课 远离危险水域",
-                    "node_path": "826873a1-dd36-6366-cb35-a296ea44d879/81864398-2ac9-64a5-fe86-05f2c7590f2e",
-                    "child_nodes": []
-                }
-            ]
-        },
-        {
-            "id": "537f3195-4261-75ae-8fd6-386c3c2b9428",
-            "title": "第四单元",
-            "node_path": "537f3195-4261-75ae-8fd6-386c3c2b9428",
-            "child_nodes": [
-                {
-                    "id": "c5a9bff1-804b-7535-c607-d248f563dfc2",
-                    "title": "第8课 东方体育文化",
-                    "node_path": "537f3195-4261-75ae-8fd6-386c3c2b9428/c5a9bff1-804b-7535-c607-d248f563dfc2",
-                    "child_nodes": []
-                }
-            ]
-        }
-    ],
-    "d1aab735-7ee8-9fc0-a8f4-feccf476f915": [
-        {
-            "id": "f8c0ff1b-2e92-a152-4cfb-6e5761685e42",
-            "title": "义务教育教科书•体育与健康 学生用书 三年级（全一册）",
-            "node_path": "f8c0ff1b-2e92-a152-4cfb-6e5761685e42",
-            "child_nodes": []
-        },
-        {
-            "id": "11fff1c9-a7e6-47a9-a921-71a4a56ca6bf",
-            "title": "第一单元",
-            "node_path": "11fff1c9-a7e6-47a9-a921-71a4a56ca6bf",
-            "child_nodes": [
-                {
-                    "id": "63ecc43f-3dad-568e-3b72-26492f3d84fa",
-                    "title": "第1课 什么是健康",
-                    "node_path": "11fff1c9-a7e6-47a9-a921-71a4a56ca6bf/63ecc43f-3dad-568e-3b72-26492f3d84fa",
-                    "child_nodes": []
-                },
-                {
-                    "id": "178c1f43-3164-a0ff-a944-8b0f070a8d26",
-                    "title": "第2课 了解碳酸饮料",
-                    "node_path": "11fff1c9-a7e6-47a9-a921-71a4a56ca6bf/178c1f43-3164-a0ff-a944-8b0f070a8d26",
-                    "child_nodes": []
-                },
-                {
-                    "id": "d60d1126-dcad-fba4-b867-7b76fd76efde",
-                    "title": "第3课 认识中国儿童平衡膳食算盘",
-                    "node_path": "11fff1c9-a7e6-47a9-a921-71a4a56ca6bf/d60d1126-dcad-fba4-b867-7b76fd76efde",
-                    "child_nodes": []
-                },
-                {
-                    "id": "6f1953ac-ad43-1d99-49ca-77972785c007",
-                    "title": "第4课 拒绝被动吸烟",
-                    "node_path": "11fff1c9-a7e6-47a9-a921-71a4a56ca6bf/6f1953ac-ad43-1d99-49ca-77972785c007",
-                    "child_nodes": []
-                }
-            ]
-        },
-        {
-            "id": "3e91a17b-58d3-155c-3fcb-933321e1ed1a",
-            "title": "第二单元",
-            "node_path": "3e91a17b-58d3-155c-3fcb-933321e1ed1a",
-            "child_nodes": [
-                {
-                    "id": "32da5bfa-db41-581c-fb90-13ecabf8109a",
-                    "title": "第5课 呼吸的过程",
-                    "node_path": "3e91a17b-58d3-155c-3fcb-933321e1ed1a/32da5bfa-db41-581c-fb90-13ecabf8109a",
-                    "child_nodes": []
-                }
-            ]
-        },
-        {
-            "id": "8e3115d6-a05e-273e-6f05-dab14076726e",
-            "title": "第三单元",
-            "node_path": "8e3115d6-a05e-273e-6f05-dab14076726e",
-            "child_nodes": [
-                {
-                    "id": "67d11f2a-8a3c-7d78-f31f-d58d8c4d63d5",
-                    "title": "第6课 保护眼睛小贴士",
-                    "node_path": "8e3115d6-a05e-273e-6f05-dab14076726e/67d11f2a-8a3c-7d78-f31f-d58d8c4d63d5",
-                    "child_nodes": []
-                },
-                {
-                    "id": "0d53541b-75f9-02c5-c5f6-a4611ee1ab0d",
-                    "title": "第7课 如何评估身体活动强度",
-                    "node_path": "8e3115d6-a05e-273e-6f05-dab14076726e/0d53541b-75f9-02c5-c5f6-a4611ee1ab0d",
-                    "child_nodes": []
-                }
-            ]
-        },
-        {
-            "id": "bd6bcc7a-10d0-6576-ada0-0d30510d560a",
-            "title": "第四单元",
-            "node_path": "bd6bcc7a-10d0-6576-ada0-0d30510d560a",
-            "child_nodes": [
-                {
-                    "id": "21a55bca-1a25-7fea-a22a-d3354c68ca0e",
-                    "title": "第8课 传统体育运动项目的魅力",
-                    "node_path": "bd6bcc7a-10d0-6576-ada0-0d30510d560a/21a55bca-1a25-7fea-a22a-d3354c68ca0e",
-                    "child_nodes": []
-                }
-            ]
-        }
-    ],
     "fa358872-c8e1-01b9-a394-74c8a8d89a7d": [
         {
             "id": "285b5241-489a-227e-01a3-f9f83622772a",
@@ -38166,6 +37858,994 @@
                     "child_nodes": []
                 }
             ]
+        }
+    ],
+    "c8fdcfcf-4b17-b496-c1b8-8d4ed915b788": [
+        {
+            "id": "08943ef1-4637-13b1-5077-d34ea785f340",
+            "title": "义务教育教科书•体育与健康 四年级 全一册",
+            "node_path": "08943ef1-4637-13b1-5077-d34ea785f340",
+            "child_nodes": []
+        },
+        {
+            "id": "9fd24ce4-8cf1-6374-ac59-372d432824c5",
+            "title": "第一课 了解你的运动强度",
+            "node_path": "9fd24ce4-8cf1-6374-ac59-372d432824c5",
+            "child_nodes": []
+        },
+        {
+            "id": "db64e341-34b9-a8f4-cc91-3f0ff3f1b53a",
+            "title": "第二课 儿童青少年身体边界意识与保护",
+            "node_path": "db64e341-34b9-a8f4-cc91-3f0ff3f1b53a",
+            "child_nodes": []
+        },
+        {
+            "id": "4a4ad2ba-4c66-0f70-3433-5f56f9b7741e",
+            "title": "第三课 团队建立的五个阶段",
+            "node_path": "4a4ad2ba-4c66-0f70-3433-5f56f9b7741e",
+            "child_nodes": []
+        },
+        {
+            "id": "60a07882-cdeb-f54f-0012-04555a55c96a",
+            "title": "第四课 体检护航，健康成长",
+            "node_path": "60a07882-cdeb-f54f-0012-04555a55c96a",
+            "child_nodes": []
+        },
+        {
+            "id": "ae616fc7-1099-68e3-e3ae-b9aa901b4bdc",
+            "title": "第五课 中暑的急救与预防",
+            "node_path": "ae616fc7-1099-68e3-e3ae-b9aa901b4bdc",
+            "child_nodes": []
+        },
+        {
+            "id": "490bb738-cbe9-fdc8-3c2a-f2a1ed793b33",
+            "title": "第六课 魅力无穷的中华传统体育项目",
+            "node_path": "490bb738-cbe9-fdc8-3c2a-f2a1ed793b33",
+            "child_nodes": []
+        },
+        {
+            "id": "90afccc8-1f32-2487-afe4-cf6c9c60381e",
+            "title": "第七课 奥林匹克格言的诞生与发展过程",
+            "node_path": "90afccc8-1f32-2487-afe4-cf6c9c60381e",
+            "child_nodes": []
+        },
+        {
+            "id": "0a86b3e4-7a9f-8065-771d-b5520413ed8a",
+            "title": "第八课 体操类运动的健身功效",
+            "node_path": "0a86b3e4-7a9f-8065-771d-b5520413ed8a",
+            "child_nodes": []
+        },
+        {
+            "id": "d294033c-b033-c6ae-9261-8a0a5b0ea701",
+            "title": "第九课 如何面对体育活动中遇到的困难",
+            "node_path": "d294033c-b033-c6ae-9261-8a0a5b0ea701",
+            "child_nodes": []
+        }
+    ],
+    "6c8096a1-6583-3d49-b984-0ea7deef00c3": [
+        {
+            "id": "6f3e74be-89ba-3f70-85fd-fea8ab797c0d",
+            "title": "义务教育教科书•体育与健康 五年级 全一册",
+            "node_path": "6f3e74be-89ba-3f70-85fd-fea8ab797c0d",
+            "child_nodes": []
+        },
+        {
+            "id": "027ef721-c5ab-af5a-76a5-9f7b847c2bfe",
+            "title": "第一课 一日三餐如何吃才健康",
+            "node_path": "027ef721-c5ab-af5a-76a5-9f7b847c2bfe",
+            "child_nodes": []
+        },
+        {
+            "id": "64157e3c-d45e-e1c7-b869-b847d63e6665",
+            "title": "第二课 如何应对青春期的身心变化",
+            "node_path": "64157e3c-d45e-e1c7-b869-b847d63e6665",
+            "child_nodes": []
+        },
+        {
+            "id": "c5db245e-fcc1-58ad-c27c-a5f0168e2dad",
+            "title": "第三课 情绪的意义与功能",
+            "node_path": "c5db245e-fcc1-58ad-c27c-a5f0168e2dad",
+            "child_nodes": []
+        },
+        {
+            "id": "4f7c11d3-e9e9-8aee-dcc6-30d744731527",
+            "title": "第四课 预防常见疾病，关爱身心健康",
+            "node_path": "4f7c11d3-e9e9-8aee-dcc6-30d744731527",
+            "child_nodes": []
+        },
+        {
+            "id": "7b3e6d5a-c62f-a0d7-360b-f74c81192cec",
+            "title": "第五课 骨折的急救与预防",
+            "node_path": "7b3e6d5a-c62f-a0d7-360b-f74c81192cec",
+            "child_nodes": []
+        },
+        {
+            "id": "f65f0fdb-f3e7-c30d-7aa5-232ecf12f9cf",
+            "title": "第六课 中华传统体育的独特魅力",
+            "node_path": "f65f0fdb-f3e7-c30d-7aa5-232ecf12f9cf",
+            "child_nodes": []
+        },
+        {
+            "id": "87af5749-8be4-b205-bd9f-2c078b08163f",
+            "title": "第七课 中国国家奥委会的申奥贡献",
+            "node_path": "87af5749-8be4-b205-bd9f-2c078b08163f",
+            "child_nodes": []
+        },
+        {
+            "id": "8c466f15-d72b-5b96-b4f5-9195c26fe75d",
+            "title": "第八课 田径类运动的规则",
+            "node_path": "8c466f15-d72b-5b96-b4f5-9195c26fe75d",
+            "child_nodes": []
+        },
+        {
+            "id": "0678b5f1-93a3-bd7f-db4a-4d06b238568e",
+            "title": "第九课 在体育比赛中如何做到相互尊重",
+            "node_path": "0678b5f1-93a3-bd7f-db4a-4d06b238568e",
+            "child_nodes": []
+        }
+    ],
+    "f2df9256-e3c4-5ac8-44c0-74be95b43d93": [
+        {
+            "id": "6eed90c3-cf67-8201-0208-35acde49e918",
+            "title": "义务教育教科书•体育与健康 六年级 全一册",
+            "node_path": "6eed90c3-cf67-8201-0208-35acde49e918",
+            "child_nodes": []
+        },
+        {
+            "id": "7c9a7d62-5a3d-be8c-7141-5202def60c6d",
+            "title": "第一课  什么时候运动好",
+            "node_path": "7c9a7d62-5a3d-be8c-7141-5202def60c6d",
+            "child_nodes": []
+        },
+        {
+            "id": "94dcefc7-6f08-4cba-9dd1-72660ee34c6a",
+            "title": "第二课  青少年运动中言语性骚扰",
+            "node_path": "94dcefc7-6f08-4cba-9dd1-72660ee34c6a",
+            "child_nodes": []
+        },
+        {
+            "id": "aa6b664b-c54c-b515-6643-a795d1572d1a",
+            "title": "第三课  好好说话，学会正面沟通",
+            "node_path": "aa6b664b-c54c-b515-6643-a795d1572d1a",
+            "child_nodes": []
+        },
+        {
+            "id": "2a48f628-d0c6-9c2e-8e7b-455ef3cd11cc",
+            "title": "第四课  定期体检，保护身心健康",
+            "node_path": "2a48f628-d0c6-9c2e-8e7b-455ef3cd11cc",
+            "child_nodes": []
+        },
+        {
+            "id": "9efd2d00-f9f6-9e5a-39b9-1bba607eb53f",
+            "title": "第五课  心肺复苏",
+            "node_path": "9efd2d00-f9f6-9e5a-39b9-1bba607eb53f",
+            "child_nodes": []
+        },
+        {
+            "id": "b7311980-2bb3-5bd1-d8ea-52406a4269a1",
+            "title": "第六课  形式多样的中华传统体育",
+            "node_path": "b7311980-2bb3-5bd1-d8ea-52406a4269a1",
+            "child_nodes": []
+        },
+        {
+            "id": "f8c90b80-e6d9-0ee0-a4d2-80dfb6e6dab6",
+            "title": "第七课  2008年北京夏季奥运会吉祥物——福娃",
+            "node_path": "f8c90b80-e6d9-0ee0-a4d2-80dfb6e6dab6",
+            "child_nodes": []
+        },
+        {
+            "id": "9d5c3e6d-2a53-4ba0-5fba-1dce70334026",
+            "title": "第八课  球类运动的礼仪",
+            "node_path": "9d5c3e6d-2a53-4ba0-5fba-1dce70334026",
+            "child_nodes": []
+        },
+        {
+            "id": "d412d565-4775-eae8-781b-96242fca1923",
+            "title": "第九课  体育精神表现在哪些方面？",
+            "node_path": "d412d565-4775-eae8-781b-96242fca1923",
+            "child_nodes": []
+        }
+    ],
+    "aae6c826-ccf8-fb1a-7ef5-9b0e0ad33956": [
+        {
+            "id": "c382415c-0720-44f7-b852-e300d9fa3070",
+            "title": "义务教育教科书•体育与健康 学生用书 四年级（全一册）",
+            "node_path": "c382415c-0720-44f7-b852-e300d9fa3070",
+            "child_nodes": []
+        },
+        {
+            "id": "d584b434-c8d9-1ffa-15b9-27fff290e107",
+            "title": "第四课 损伤处理 安全得当",
+            "node_path": "d584b434-c8d9-1ffa-15b9-27fff290e107",
+            "child_nodes": []
+        }
+    ],
+    "3e0691c0-e61b-244b-567b-5811384f6199": [
+        {
+            "id": "10c4d1c0-727d-440e-ac64-5787803bcd4e",
+            "title": "义务教育教科书•体育与健康 学生用书 五年级（全一册）",
+            "node_path": "10c4d1c0-727d-440e-ac64-5787803bcd4e",
+            "child_nodes": []
+        },
+        {
+            "id": "40e9c118-817f-a070-67f5-716989528348",
+            "title": "第二课 保护视力 定期检查",
+            "node_path": "40e9c118-817f-a070-67f5-716989528348",
+            "child_nodes": []
+        },
+        {
+            "id": "d0e23a6e-9ac3-14a8-8167-2ef27bbea8b5",
+            "title": "第三课 青春期发育身心变化",
+            "node_path": "d0e23a6e-9ac3-14a8-8167-2ef27bbea8b5",
+            "child_nodes": []
+        },
+        {
+            "id": "b27e0eed-e1f2-4b37-9c22-35f2cf4a0f8a",
+            "title": "第五课 拒绝酒精饮料和毒品（第二课时）",
+            "node_path": "b27e0eed-e1f2-4b37-9c22-35f2cf4a0f8a",
+            "child_nodes": []
+        }
+    ],
+    "79952a4f-b4c6-3796-e7dd-c88aabddd0ae": [
+        {
+            "id": "af0eef7c-17cc-4edb-ab65-e07b4942167d",
+            "title": "义务教育教科书•体育与健康 学生用书 六年级（全一册）",
+            "node_path": "af0eef7c-17cc-4edb-ab65-e07b4942167d",
+            "child_nodes": []
+        },
+        {
+            "id": "f7717fe7-8aa0-2782-74a8-0c68fecf35f3",
+            "title": "第一课 保持健康生活方式",
+            "node_path": "f7717fe7-8aa0-2782-74a8-0c68fecf35f3",
+            "child_nodes": []
+        },
+        {
+            "id": "2dec3d54-bcd7-642e-c526-afffca15431f",
+            "title": "第五课 学习掌握急救常识",
+            "node_path": "2dec3d54-bcd7-642e-c526-afffca15431f",
+            "child_nodes": []
+        }
+    ],
+    "160e96b5-85d3-7b5e-cc1b-e77122f9daf1": [
+        {
+            "id": "ce49986a-73cb-ed2c-efd0-ad17bb5a21d8",
+            "title": "义务教育教科书•体育与健康 一年级 （全一册）",
+            "node_path": "ce49986a-73cb-ed2c-efd0-ad17bb5a21d8",
+            "child_nodes": []
+        },
+        {
+            "id": "cd042a98-88c5-43b7-759a-d38950b03ce4",
+            "title": "第一单元 健康生活理念",
+            "node_path": "cd042a98-88c5-43b7-759a-d38950b03ce4",
+            "child_nodes": [
+                {
+                    "id": "6609fafe-8e05-f88d-f6be-13312d9dddb2",
+                    "title": "第1课 正确的洗手方法",
+                    "node_path": "cd042a98-88c5-43b7-759a-d38950b03ce4/6609fafe-8e05-f88d-f6be-13312d9dddb2",
+                    "child_nodes": []
+                },
+                {
+                    "id": "4a157e6a-b54a-214e-3e23-b324cfa92082",
+                    "title": "第2课 正确佩戴口罩的方法",
+                    "node_path": "cd042a98-88c5-43b7-759a-d38950b03ce4/4a157e6a-b54a-214e-3e23-b324cfa92082",
+                    "child_nodes": []
+                },
+                {
+                    "id": "dddbc074-5749-9379-3446-95347fa0d916",
+                    "title": "第3课 食品的生产日期和保质期",
+                    "node_path": "cd042a98-88c5-43b7-759a-d38950b03ce4/dddbc074-5749-9379-3446-95347fa0d916",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e33304a1-e3df-98e7-2f6d-bb117a8a8806",
+                    "title": "第4课 守护健康睡眠",
+                    "node_path": "cd042a98-88c5-43b7-759a-d38950b03ce4/e33304a1-e3df-98e7-2f6d-bb117a8a8806",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "03eef44d-aedf-767f-a5f2-c5044840a532",
+            "title": "第二单元 人体知识导航",
+            "node_path": "03eef44d-aedf-767f-a5f2-c5044840a532",
+            "child_nodes": [
+                {
+                    "id": "1b3f096e-e130-b30b-8e3b-3282f9720922",
+                    "title": "第5课 探秘人体的内部器官",
+                    "node_path": "03eef44d-aedf-767f-a5f2-c5044840a532/1b3f096e-e130-b30b-8e3b-3282f9720922",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "a9b1da44-7629-4a14-812b-4eaa136b4ff5",
+            "title": "第三单元 技能行为养成",
+            "node_path": "a9b1da44-7629-4a14-812b-4eaa136b4ff5",
+            "child_nodes": [
+                {
+                    "id": "91e8b8df-1831-8e20-487c-bd6ac3d9b7c4",
+                    "title": "第6课 正确的刷牙方法",
+                    "node_path": "a9b1da44-7629-4a14-812b-4eaa136b4ff5/91e8b8df-1831-8e20-487c-bd6ac3d9b7c4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "28c67ab0-2ebe-d8c7-4313-6e4c818f53b3",
+                    "title": "第7课 保护视力的秘密",
+                    "node_path": "a9b1da44-7629-4a14-812b-4eaa136b4ff5/28c67ab0-2ebe-d8c7-4313-6e4c818f53b3",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "57376b33-530e-fd38-30d2-b19116f9f8a9",
+            "title": "第四单元 感悟体育文化和精神",
+            "node_path": "57376b33-530e-fd38-30d2-b19116f9f8a9",
+            "child_nodes": [
+                {
+                    "id": "2ceee143-61e6-f0f8-c9d6-c05551df8fc8",
+                    "title": "第8课 丰富多彩的体育运动",
+                    "node_path": "57376b33-530e-fd38-30d2-b19116f9f8a9/2ceee143-61e6-f0f8-c9d6-c05551df8fc8",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "89b3b152-7c15-0516-93c6-0ecbcd18ac41": [
+        {
+            "id": "75bc26d3-2d6d-d453-c5c0-683adac8f870",
+            "title": "义务教育教科书•体育与健康 二年级 （全一册）",
+            "node_path": "75bc26d3-2d6d-d453-c5c0-683adac8f870",
+            "child_nodes": []
+        },
+        {
+            "id": "9d1f9fa1-b860-d411-3872-1050f99cc00c",
+            "title": "第一单元 健康生活理念",
+            "node_path": "9d1f9fa1-b860-d411-3872-1050f99cc00c",
+            "child_nodes": [
+                {
+                    "id": "ac48e4e4-af29-0965-8a8d-295021c8458a",
+                    "title": "第1课 安全运动小贴士",
+                    "node_path": "9d1f9fa1-b860-d411-3872-1050f99cc00c/ac48e4e4-af29-0965-8a8d-295021c8458a",
+                    "child_nodes": []
+                },
+                {
+                    "id": "7b95b38d-98a1-8c16-94d8-5e935b673515",
+                    "title": "第2课 正确的坐立行姿势",
+                    "node_path": "9d1f9fa1-b860-d411-3872-1050f99cc00c/7b95b38d-98a1-8c16-94d8-5e935b673515",
+                    "child_nodes": []
+                },
+                {
+                    "id": "0f300cd0-5838-908d-4506-4901c1d04b14",
+                    "title": "第3课 接种疫苗小贴士",
+                    "node_path": "9d1f9fa1-b860-d411-3872-1050f99cc00c/0f300cd0-5838-908d-4506-4901c1d04b14",
+                    "child_nodes": []
+                },
+                {
+                    "id": "d1ae8bfe-9bff-b5f5-683a-7e7bb6ff69d3",
+                    "title": "第4课 如何让自己冷静下来",
+                    "node_path": "9d1f9fa1-b860-d411-3872-1050f99cc00c/d1ae8bfe-9bff-b5f5-683a-7e7bb6ff69d3",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "059dc2a1-14e9-55be-7696-0fc30d61bd08",
+            "title": "第二单元 人体知识导航",
+            "node_path": "059dc2a1-14e9-55be-7696-0fc30d61bd08",
+            "child_nodes": [
+                {
+                    "id": "10558877-a57a-a63c-c186-1caebd8ec534",
+                    "title": "第5课 人体的运动系统",
+                    "node_path": "059dc2a1-14e9-55be-7696-0fc30d61bd08/10558877-a57a-a63c-c186-1caebd8ec534",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7f258e5e-9d00-b1c6-f4d5-f1a820c5bfef",
+            "title": "第三单元 技能行为养成",
+            "node_path": "7f258e5e-9d00-b1c6-f4d5-f1a820c5bfef",
+            "child_nodes": [
+                {
+                    "id": "94821cca-0732-c43b-f978-a938862d7321",
+                    "title": "第6课 掌握正确的止血方法",
+                    "node_path": "7f258e5e-9d00-b1c6-f4d5-f1a820c5bfef/94821cca-0732-c43b-f978-a938862d7321",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e7d545c4-a6a6-e3d8-93ca-1748453e8a81",
+                    "title": "第7课 远离危险水域",
+                    "node_path": "7f258e5e-9d00-b1c6-f4d5-f1a820c5bfef/e7d545c4-a6a6-e3d8-93ca-1748453e8a81",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "3bfa0f77-eb94-82c9-fd6e-5c586445822b",
+            "title": "第四单元 感悟体育文化和精神",
+            "node_path": "3bfa0f77-eb94-82c9-fd6e-5c586445822b",
+            "child_nodes": [
+                {
+                    "id": "e810ae77-2c80-c35e-36a9-b110bcdf918a",
+                    "title": "第8课 东方体育文化",
+                    "node_path": "3bfa0f77-eb94-82c9-fd6e-5c586445822b/e810ae77-2c80-c35e-36a9-b110bcdf918a",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "e35dfb5a-6e0d-73e1-3d8a-5d9a0e638dae": [
+        {
+            "id": "c6dd8dbc-b1fa-133a-e2af-054636cc5c8e",
+            "title": "义务教育教科书•体育与健康 三年级 （全一册）",
+            "node_path": "c6dd8dbc-b1fa-133a-e2af-054636cc5c8e",
+            "child_nodes": []
+        },
+        {
+            "id": "9e65be32-a5d4-2c39-7fae-2ea3ed8fe11a",
+            "title": "第一单元 健康生活理念",
+            "node_path": "9e65be32-a5d4-2c39-7fae-2ea3ed8fe11a",
+            "child_nodes": [
+                {
+                    "id": "6e49760e-8f1e-f8dd-eea5-e2474bbed8d3",
+                    "title": "第1课 什么是健康",
+                    "node_path": "9e65be32-a5d4-2c39-7fae-2ea3ed8fe11a/6e49760e-8f1e-f8dd-eea5-e2474bbed8d3",
+                    "child_nodes": []
+                },
+                {
+                    "id": "94a7b194-f113-2ad1-415a-4108db1bbdc4",
+                    "title": "第2课 了解碳酸饮料",
+                    "node_path": "9e65be32-a5d4-2c39-7fae-2ea3ed8fe11a/94a7b194-f113-2ad1-415a-4108db1bbdc4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "c17ec38e-a658-1d76-ccac-3998a646368e",
+                    "title": "第3课 认识中国儿童平衡膳食算盘",
+                    "node_path": "9e65be32-a5d4-2c39-7fae-2ea3ed8fe11a/c17ec38e-a658-1d76-ccac-3998a646368e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "3bb0a037-ec63-decf-3c4a-0e664c7f5381",
+                    "title": "第4课 拒绝被动吸烟",
+                    "node_path": "9e65be32-a5d4-2c39-7fae-2ea3ed8fe11a/3bb0a037-ec63-decf-3c4a-0e664c7f5381",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "d9ab480a-1cba-cd4f-9fc6-306cadb4a26d",
+            "title": "第二单元 人体知识导航",
+            "node_path": "d9ab480a-1cba-cd4f-9fc6-306cadb4a26d",
+            "child_nodes": [
+                {
+                    "id": "bafe97f2-34e5-d305-fbff-f1134cc39f91",
+                    "title": "第5课 呼吸的过程",
+                    "node_path": "d9ab480a-1cba-cd4f-9fc6-306cadb4a26d/bafe97f2-34e5-d305-fbff-f1134cc39f91",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "3161e19d-b922-a202-b05d-fc312c6df0b1",
+            "title": "第三单元 技能行为养成",
+            "node_path": "3161e19d-b922-a202-b05d-fc312c6df0b1",
+            "child_nodes": [
+                {
+                    "id": "c15fc1cf-7507-84dd-7b9e-5e20975afa5d",
+                    "title": "第6课 保护眼睛小贴士",
+                    "node_path": "3161e19d-b922-a202-b05d-fc312c6df0b1/c15fc1cf-7507-84dd-7b9e-5e20975afa5d",
+                    "child_nodes": []
+                },
+                {
+                    "id": "ecaf8532-6ff9-94ce-2f29-47a0ddfedfef",
+                    "title": "第7课 如何评估身体活动强度",
+                    "node_path": "3161e19d-b922-a202-b05d-fc312c6df0b1/ecaf8532-6ff9-94ce-2f29-47a0ddfedfef",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "7a31696b-c84f-1f84-0f33-e336d0affe10",
+            "title": "第四单元 感悟体育文化和精神",
+            "node_path": "7a31696b-c84f-1f84-0f33-e336d0affe10",
+            "child_nodes": [
+                {
+                    "id": "946de234-01a4-f4ae-9ba0-e17351b54804",
+                    "title": "第8课 传统体育运动项目的魅力",
+                    "node_path": "7a31696b-c84f-1f84-0f33-e336d0affe10/946de234-01a4-f4ae-9ba0-e17351b54804",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "e37b3219-865d-3e76-3883-840057032f8a": [
+        {
+            "id": "47837dee-f831-d316-ed6d-4fb261921bfd",
+            "title": "义务教育教科书•体育与健康 四年级 （全一册）",
+            "node_path": "47837dee-f831-d316-ed6d-4fb261921bfd",
+            "child_nodes": []
+        },
+        {
+            "id": "7151ff0c-46f7-5e47-f922-ebd49c8d8cc4",
+            "title": "第一单元 健康生活理念",
+            "node_path": "7151ff0c-46f7-5e47-f922-ebd49c8d8cc4",
+            "child_nodes": [
+                {
+                    "id": "98ca16b7-ea8a-24aa-596a-a90de378082b",
+                    "title": "第1课 家庭消毒方法",
+                    "node_path": "7151ff0c-46f7-5e47-f922-ebd49c8d8cc4/98ca16b7-ea8a-24aa-596a-a90de378082b",
+                    "child_nodes": []
+                },
+                {
+                    "id": "836dd089-d648-cf90-3d13-2bb793ccb470",
+                    "title": "第2课 烟草的危害",
+                    "node_path": "7151ff0c-46f7-5e47-f922-ebd49c8d8cc4/836dd089-d648-cf90-3d13-2bb793ccb470",
+                    "child_nodes": []
+                },
+                {
+                    "id": "c4bbb10d-45c5-b632-8d18-084025ebdfe7",
+                    "title": "第3课 日常生活中的交往边界",
+                    "node_path": "7151ff0c-46f7-5e47-f922-ebd49c8d8cc4/c4bbb10d-45c5-b632-8d18-084025ebdfe7",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "cf9470c7-0a4d-41fc-b2f4-d198e1c2a39d",
+            "title": "第二单元 人体知识导航",
+            "node_path": "cf9470c7-0a4d-41fc-b2f4-d198e1c2a39d",
+            "child_nodes": [
+                {
+                    "id": "24201350-b121-6d5b-931d-33cf28e427ab",
+                    "title": "第4课 食物消化的过程",
+                    "node_path": "cf9470c7-0a4d-41fc-b2f4-d198e1c2a39d/24201350-b121-6d5b-931d-33cf28e427ab",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "165eefce-db5c-25e8-eab8-64130c8cbd60",
+            "title": "第三单元 技能行为养成",
+            "node_path": "165eefce-db5c-25e8-eab8-64130c8cbd60",
+            "child_nodes": [
+                {
+                    "id": "6851f50f-358d-573e-9319-c4f3648c66fc",
+                    "title": "第5课 运动中需要注意的安全事项",
+                    "node_path": "165eefce-db5c-25e8-eab8-64130c8cbd60/6851f50f-358d-573e-9319-c4f3648c66fc",
+                    "child_nodes": []
+                },
+                {
+                    "id": "7fb5d235-947a-5f75-07b3-b288266ac143",
+                    "title": "第6课 扭伤的处理过程",
+                    "node_path": "165eefce-db5c-25e8-eab8-64130c8cbd60/7fb5d235-947a-5f75-07b3-b288266ac143",
+                    "child_nodes": []
+                },
+                {
+                    "id": "5184b68e-d3fd-f650-1d31-b7c330da22fb",
+                    "title": "第7课 情绪调节的方法",
+                    "node_path": "165eefce-db5c-25e8-eab8-64130c8cbd60/5184b68e-d3fd-f650-1d31-b7c330da22fb",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9c771442-39a3-3415-bf99-a2513ae31155",
+            "title": "第四单元 感悟体育文化和精神",
+            "node_path": "9c771442-39a3-3415-bf99-a2513ae31155",
+            "child_nodes": [
+                {
+                    "id": "a8d25f41-74f0-7a29-d6fb-84039bd03c2b",
+                    "title": "第8课 中国乒乓",
+                    "node_path": "9c771442-39a3-3415-bf99-a2513ae31155/a8d25f41-74f0-7a29-d6fb-84039bd03c2b",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "b41a45a2-bf8b-4ca5-a171-b40de4180734": [
+        {
+            "id": "95383f66-9a56-6f41-e92e-5317bd760a09",
+            "title": "义务教育教科书•体育与健康 五年级 （全一册）",
+            "node_path": "95383f66-9a56-6f41-e92e-5317bd760a09",
+            "child_nodes": []
+        },
+        {
+            "id": "b34a925b-ecbe-4d34-84a3-61f295e75325",
+            "title": "第一单元 健康生活理念",
+            "node_path": "b34a925b-ecbe-4d34-84a3-61f295e75325",
+            "child_nodes": [
+                {
+                    "id": "69c54be6-db3b-fd18-9422-ac68130632a2",
+                    "title": "第1课 平衡膳食建议",
+                    "node_path": "b34a925b-ecbe-4d34-84a3-61f295e75325/69c54be6-db3b-fd18-9422-ac68130632a2",
+                    "child_nodes": []
+                },
+                {
+                    "id": "11688563-ec7d-1157-cf03-2966d3d1437d",
+                    "title": "第2课 主动拒绝饮酒",
+                    "node_path": "b34a925b-ecbe-4d34-84a3-61f295e75325/11688563-ec7d-1157-cf03-2966d3d1437d",
+                    "child_nodes": []
+                },
+                {
+                    "id": "61855a5f-d837-6812-4ac4-f05f20efda77",
+                    "title": "第3课 预防哮喘的发生",
+                    "node_path": "b34a925b-ecbe-4d34-84a3-61f295e75325/61855a5f-d837-6812-4ac4-f05f20efda77",
+                    "child_nodes": []
+                },
+                {
+                    "id": "8a533a7a-26ce-99dd-35a1-58177fe3aa57",
+                    "title": "第4课 青春期的身心变化",
+                    "node_path": "b34a925b-ecbe-4d34-84a3-61f295e75325/8a533a7a-26ce-99dd-35a1-58177fe3aa57",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "2979c303-d8fe-6877-8a78-bd188c1f734d",
+            "title": "第二单元 人体知识导航",
+            "node_path": "2979c303-d8fe-6877-8a78-bd188c1f734d",
+            "child_nodes": [
+                {
+                    "id": "584ffbc0-b098-ec59-618c-3b9875a7cc01",
+                    "title": "第5课 心脏是如何跳动的",
+                    "node_path": "2979c303-d8fe-6877-8a78-bd188c1f734d/584ffbc0-b098-ec59-618c-3b9875a7cc01",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "dde5b54b-b098-f906-23e0-f9e5aec0f466",
+            "title": "第三单元 技能行为养成",
+            "node_path": "dde5b54b-b098-f906-23e0-f9e5aec0f466",
+            "child_nodes": [
+                {
+                    "id": "071ec343-8417-9eb0-c26f-caddede01f6b",
+                    "title": "第6课 科学锻炼，缓解眼疲劳",
+                    "node_path": "dde5b54b-b098-f906-23e0-f9e5aec0f466/071ec343-8417-9eb0-c26f-caddede01f6b",
+                    "child_nodes": []
+                },
+                {
+                    "id": "53f5c29a-6174-f947-f2f4-f510fc9cf236",
+                    "title": "第7课 同学之间有矛盾时该怎么办",
+                    "node_path": "dde5b54b-b098-f906-23e0-f9e5aec0f466/53f5c29a-6174-f947-f2f4-f510fc9cf236",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "4245e294-228d-7d34-f586-2160b325a458",
+            "title": "第四单元 感悟体育文化和精神",
+            "node_path": "4245e294-228d-7d34-f586-2160b325a458",
+            "child_nodes": [
+                {
+                    "id": "37a717c6-5eae-48e8-faf2-faf4a1289042",
+                    "title": "第8课 运动之美",
+                    "node_path": "4245e294-228d-7d34-f586-2160b325a458/37a717c6-5eae-48e8-faf2-faf4a1289042",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "ecc2a1d8-4850-f4fd-0367-9c674d360868": [
+        {
+            "id": "3b6ccb43-96ec-429a-4235-ef8d8ca5fb73",
+            "title": "义务教育教科书•体育与健康 六年级 （全一册）",
+            "node_path": "3b6ccb43-96ec-429a-4235-ef8d8ca5fb73",
+            "child_nodes": []
+        },
+        {
+            "id": "34473b66-af83-3ee6-b5cc-0576b2e477f5",
+            "title": "第一单元 健康生活理念",
+            "node_path": "34473b66-af83-3ee6-b5cc-0576b2e477f5",
+            "child_nodes": [
+                {
+                    "id": "32724b6f-f31a-2079-b41b-b75f34b7b524",
+                    "title": "第1课 体检前的注意事项有哪些",
+                    "node_path": "34473b66-af83-3ee6-b5cc-0576b2e477f5/32724b6f-f31a-2079-b41b-b75f34b7b524",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2fbb1e61-5dc8-97f7-d216-fe85cc0af51c",
+                    "title": "第2课 如何保持健康体重",
+                    "node_path": "34473b66-af83-3ee6-b5cc-0576b2e477f5/2fbb1e61-5dc8-97f7-d216-fe85cc0af51c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "48c439e9-5a21-dcf2-f14e-d1b56975b210",
+                    "title": "第3课 远离毒品",
+                    "node_path": "34473b66-af83-3ee6-b5cc-0576b2e477f5/48c439e9-5a21-dcf2-f14e-d1b56975b210",
+                    "child_nodes": []
+                },
+                {
+                    "id": "695846d6-9c9d-c354-68e2-0549a2e55cb3",
+                    "title": "第4课 世界卫生组织针对健康提出的十条标准",
+                    "node_path": "34473b66-af83-3ee6-b5cc-0576b2e477f5/695846d6-9c9d-c354-68e2-0549a2e55cb3",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "30d0892c-e258-cee2-c727-7ccfd2602b50",
+            "title": "第二单元 人体知识导航",
+            "node_path": "30d0892c-e258-cee2-c727-7ccfd2602b50",
+            "child_nodes": [
+                {
+                    "id": "f7d4f188-4f1b-38aa-bc5b-c29c0b30019d",
+                    "title": "第5课 尿液的形成过程",
+                    "node_path": "30d0892c-e258-cee2-c727-7ccfd2602b50/f7d4f188-4f1b-38aa-bc5b-c29c0b30019d",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "761259bf-ed33-ade2-803d-65ab6544e799",
+            "title": "第三单元 技能行为养成",
+            "node_path": "761259bf-ed33-ade2-803d-65ab6544e799",
+            "child_nodes": [
+                {
+                    "id": "5ec158b2-4ab5-413c-7546-31ade25dba75",
+                    "title": "第6课 心肺复苏的具体操作方法",
+                    "node_path": "761259bf-ed33-ade2-803d-65ab6544e799/5ec158b2-4ab5-413c-7546-31ade25dba75",
+                    "child_nodes": []
+                },
+                {
+                    "id": "bca21be7-20c5-f8d2-ba29-98d028b48965",
+                    "title": "第7课 当产生过激情绪的时候如何保护自己",
+                    "node_path": "761259bf-ed33-ade2-803d-65ab6544e799/bca21be7-20c5-f8d2-ba29-98d028b48965",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "1387d02e-cbff-4ac3-8ff0-d08519c89bde",
+            "title": "第四单元 感悟体育文化和精神",
+            "node_path": "1387d02e-cbff-4ac3-8ff0-d08519c89bde",
+            "child_nodes": [
+                {
+                    "id": "f042e370-1872-a630-19e1-c696cd58c3f6",
+                    "title": "第8课 奥运匹克标志与奥林匹克格言",
+                    "node_path": "1387d02e-cbff-4ac3-8ff0-d08519c89bde/f042e370-1872-a630-19e1-c696cd58c3f6",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "a45e840b-a012-3a01-713a-c89fa34ec041": [
+        {
+            "id": "faf3abb9-6e75-8716-78e6-6587951a1185",
+            "title": "义务教育教科书•体育与健康 二年级 全一册",
+            "node_path": "faf3abb9-6e75-8716-78e6-6587951a1185",
+            "child_nodes": []
+        },
+        {
+            "id": "8a441124-a8f1-f9d8-fa70-ded50d2276bc",
+            "title": "第二单元 健康行为与生活方式",
+            "node_path": "8a441124-a8f1-f9d8-fa70-ded50d2276bc",
+            "child_nodes": [
+                {
+                    "id": "5ffd282d-60fe-bdd9-6827-1f95d0ecb674",
+                    "title": "足量喝水",
+                    "node_path": "8a441124-a8f1-f9d8-fa70-ded50d2276bc/5ffd282d-60fe-bdd9-6827-1f95d0ecb674",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "aa7c34c2-6244-91b4-208d-8fb98a95e15b",
+            "title": "第三单元 生长发育与心理健康",
+            "node_path": "aa7c34c2-6244-91b4-208d-8fb98a95e15b",
+            "child_nodes": [
+                {
+                    "id": "80ef356b-be7e-4585-3750-ea64904ed96e",
+                    "title": "会沟通 能交流",
+                    "node_path": "aa7c34c2-6244-91b4-208d-8fb98a95e15b/80ef356b-be7e-4585-3750-ea64904ed96e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "0cf37dbc-9542-fac9-ffb4-897f612021c0",
+            "title": "第四单元 疾病预防与安全应急",
+            "node_path": "0cf37dbc-9542-fac9-ffb4-897f612021c0",
+            "child_nodes": [
+                {
+                    "id": "25da0986-5129-7060-fa15-19c5894c4730",
+                    "title": "正确使用创可贴",
+                    "node_path": "0cf37dbc-9542-fac9-ffb4-897f612021c0/25da0986-5129-7060-fa15-19c5894c4730",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "88300dd7-a514-692b-0b4f-6c95c4949eb0": [
+        {
+            "id": "a0c58ff2-975c-4854-ede2-b21c599e7a95",
+            "title": "义务教育教科书•体育与健康 三年级 全一册",
+            "node_path": "a0c58ff2-975c-4854-ede2-b21c599e7a95",
+            "child_nodes": []
+        },
+        {
+            "id": "d2c782e4-540e-8b6c-8a79-5185413a5d35",
+            "title": "第二单元 健康行为与生活方式",
+            "node_path": "d2c782e4-540e-8b6c-8a79-5185413a5d35",
+            "child_nodes": [
+                {
+                    "id": "1d2dd6c7-38fe-afba-cf4b-01322c47382e",
+                    "title": "如何预防近视",
+                    "node_path": "d2c782e4-540e-8b6c-8a79-5185413a5d35/1d2dd6c7-38fe-afba-cf4b-01322c47382e",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9a4f0e68-52f0-9181-ad56-9236e62fec88",
+            "title": "第四单元 疾病预防与安全应急",
+            "node_path": "9a4f0e68-52f0-9181-ad56-9236e62fec88",
+            "child_nodes": [
+                {
+                    "id": "8fe81ba6-eb3c-10fe-4874-ce95b56a83ab",
+                    "title": "烧烫伤了怎么办",
+                    "node_path": "9a4f0e68-52f0-9181-ad56-9236e62fec88/8fe81ba6-eb3c-10fe-4874-ce95b56a83ab",
+                    "child_nodes": []
+                },
+                {
+                    "id": "12093c52-bfae-d84e-6675-be5795d8b665",
+                    "title": "中暑了怎么办",
+                    "node_path": "9a4f0e68-52f0-9181-ad56-9236e62fec88/12093c52-bfae-d84e-6675-be5795d8b665",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "e2fb1cf3-80e1-b1fc-e433-5ac5786acf5b": [
+        {
+            "id": "95513f84-386f-3e54-4165-58af1eb491c9",
+            "title": "义务教育教科书•体育与健康 四年级 全一册",
+            "node_path": "95513f84-386f-3e54-4165-58af1eb491c9",
+            "child_nodes": []
+        },
+        {
+            "id": "fae6d377-351b-b790-2e60-b67fd6787da0",
+            "title": "第二单元 健康行为与生活方式",
+            "node_path": "fae6d377-351b-b790-2e60-b67fd6787da0",
+            "child_nodes": [
+                {
+                    "id": "a11ae28f-827c-75e6-e048-754f5c966375",
+                    "title": "什么是近视",
+                    "node_path": "fae6d377-351b-b790-2e60-b67fd6787da0/a11ae28f-827c-75e6-e048-754f5c966375",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "82488a14-accf-9d65-612e-caa4079689cc",
+            "title": "第四单元 疾病预防与安全应急",
+            "node_path": "82488a14-accf-9d65-612e-caa4079689cc",
+            "child_nodes": [
+                {
+                    "id": "cff6c1c5-da7a-3a30-4853-d38f549f386c",
+                    "title": "扭伤和挫伤的处理",
+                    "node_path": "82488a14-accf-9d65-612e-caa4079689cc/cff6c1c5-da7a-3a30-4853-d38f549f386c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "5f6d1828-c151-7cdd-7a93-b59168db19ca",
+                    "title": "冻伤了怎么办",
+                    "node_path": "82488a14-accf-9d65-612e-caa4079689cc/5f6d1828-c151-7cdd-7a93-b59168db19ca",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "db454455-5304-f652-2b3e-ab859c1b425a": [
+        {
+            "id": "1bf465de-cf3a-f8b6-581b-46013497877d",
+            "title": "义务教育教科书•体育与健康 五年级 全一册",
+            "node_path": "1bf465de-cf3a-f8b6-581b-46013497877d",
+            "child_nodes": []
+        },
+        {
+            "id": "2ab5b4ea-b0df-95fe-7f76-af4dbd446b43",
+            "title": "第一单元 体育文化与体育精神",
+            "node_path": "2ab5b4ea-b0df-95fe-7f76-af4dbd446b43",
+            "child_nodes": [
+                {
+                    "id": "44bc7037-c5a3-3a5a-00be-9ffc05e5a6c3",
+                    "title": "五禽戏的健身作用",
+                    "node_path": "2ab5b4ea-b0df-95fe-7f76-af4dbd446b43/44bc7037-c5a3-3a5a-00be-9ffc05e5a6c3",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "5a59923c-21ca-dcbb-70b3-a39e6a4bb421",
+            "title": "第二单元 健康行为与生活方式",
+            "node_path": "5a59923c-21ca-dcbb-70b3-a39e6a4bb421",
+            "child_nodes": [
+                {
+                    "id": "5781cc24-8872-5118-21b3-885cd32a9ba2",
+                    "title": "营养均衡 饮食多样",
+                    "node_path": "5a59923c-21ca-dcbb-70b3-a39e6a4bb421/5781cc24-8872-5118-21b3-885cd32a9ba2",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "d4f3408f-72ef-0bdb-ef25-69fb448f870a",
+            "title": "第四单元 疾病预防与安全应急",
+            "node_path": "d4f3408f-72ef-0bdb-ef25-69fb448f870a",
+            "child_nodes": [
+                {
+                    "id": "a35e0fe3-c47f-28df-9c93-de14fb991fd0",
+                    "title": "骨折的应急处理",
+                    "node_path": "d4f3408f-72ef-0bdb-ef25-69fb448f870a/a35e0fe3-c47f-28df-9c93-de14fb991fd0",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "2de21a35-02c2-58ae-8f4c-7f2d2c0898d8": [
+        {
+            "id": "578e17e4-056b-3c67-249a-c3b30b5fe003",
+            "title": "义务教育教科书•体育与健康 六年级 全一册",
+            "node_path": "578e17e4-056b-3c67-249a-c3b30b5fe003",
+            "child_nodes": []
+        },
+        {
+            "id": "99323525-b707-e5d5-0fb7-ba34108c67ca",
+            "title": "第二单元 健康行为与生活方式",
+            "node_path": "99323525-b707-e5d5-0fb7-ba34108c67ca",
+            "child_nodes": [
+                {
+                    "id": "13ee2487-52ce-9f0f-0649-e9958faa5c8f",
+                    "title": "脊柱弯曲异常及简单的预防方法",
+                    "node_path": "99323525-b707-e5d5-0fb7-ba34108c67ca/13ee2487-52ce-9f0f-0649-e9958faa5c8f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "9b5bca4e-110a-189d-3cac-ab102f928713",
+            "title": "第四单元 疾病预防与安全应急",
+            "node_path": "9b5bca4e-110a-189d-3cac-ab102f928713",
+            "child_nodes": [
+                {
+                    "id": "d416ca94-7562-aebc-b074-ad3dbf41f7d7",
+                    "title": "预防传染病",
+                    "node_path": "9b5bca4e-110a-189d-3cac-ab102f928713/d416ca94-7562-aebc-b074-ad3dbf41f7d7",
+                    "child_nodes": []
+                },
+                {
+                    "id": "12a66328-9acf-3a76-cc82-88198aa04646",
+                    "title": "心肺复苏的方法",
+                    "node_path": "9b5bca4e-110a-189d-3cac-ab102f928713/12a66328-9acf-3a76-cc82-88198aa04646",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "b65e51bb-2142-d8d4-2745-431bd7858f09": [
+        {
+            "id": "3db08cff-e574-5f8d-ea8a-cb04a1b4f45c",
+            "title": "义务教育教科书•体育与健康 四年级（全一册）",
+            "node_path": "3db08cff-e574-5f8d-ea8a-cb04a1b4f45c",
+            "child_nodes": []
+        }
+    ],
+    "4fab8ab2-b46c-77e0-80ef-8b233bfcc449": [
+        {
+            "id": "338d7024-e486-5b4f-f2f0-6f120e181bbe",
+            "title": "义务教育教科书•体育与健康 五年级（全一册）",
+            "node_path": "338d7024-e486-5b4f-f2f0-6f120e181bbe",
+            "child_nodes": []
+        }
+    ],
+    "402811b4-7206-feb9-4fa4-d2eb5d418d19": [
+        {
+            "id": "1bed6c9e-74c8-8fdf-4ac9-7c3bfcb4cc9a",
+            "title": "义务教育教科书•体育与健康 六年级（全一册）",
+            "node_path": "1bed6c9e-74c8-8fdf-4ac9-7c3bfcb4cc9a",
+            "child_nodes": []
         }
     ]
 }

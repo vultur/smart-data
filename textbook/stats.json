@@ -5,7 +5,7 @@
         "name": "教材",
         "unit": "册",
         "format": "pdf",
-        "count": 2539
+        "count": 2441
     },
     {
         "key": "course",
@@ -13,7 +13,7 @@
         "name": "视频",
         "unit": "节",
         "format": "mp4",
-        "count": 10221
+        "count": 10312
     },
     {
         "key": "listening",
@@ -21,7 +21,7 @@
         "name": "音频",
         "unit": "段",
         "format": "mp3",
-        "count": 9640
+        "count": 12898
     },
     {
         "key": "courseware",

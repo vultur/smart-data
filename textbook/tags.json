@@ -637,64 +637,6 @@
                         ]
                     },
                     {
-                        "tag_id": "44bee7f4-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "粤教粤人版",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "44bed688-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "冀教版（一年级起点）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "362880034941a3a1014955bdd8d22d4a",
                         "tag_name": "冀教版",
                         "tag_dimension_id": "zxxbb",
@@ -767,30 +709,8 @@
                         ]
                     },
                     {
-                        "tag_id": "44bedeb2-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "教科版（EEC学院）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "44bedeee-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "教科版（主编：龚亚夫&鲁宗干）",
+                        "tag_name": "教科版（主编：龚亚夫）",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -933,44 +853,8 @@
                         ]
                     },
                     {
-                        "tag_id": "44bece04-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "人教版（一年级起点）（主编：吴欣）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "44becd82-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "人教版（PEP）（主编：吴欣）",
+                        "tag_name": "人教版（主编：吴欣）",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -1149,123 +1033,8 @@
                         ]
                     },
                     {
-                        "tag_id": "44bedc1e-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "外研社版（一年级起点）（主编：陈琳）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "二年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "44bedcfa-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "外研社版（主编：陈琳）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "44bedc64-54e6-11ed-9c34-850ba61fa9f4",
                         "tag_name": "外研社版（主编：刘兆义）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "44bedcaa-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "外研社版（主编：桂诗春）",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -1354,50 +1123,6 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "17ec21d7-ddf6-43bf-bf07-5ccfc305c398",
-                        "tag_name": "粤教沪外教版",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "8423c2ea-d9eb-4b8e-ad39-1bf23b3c2cf7",
-                        "tag_name": "外研社版（主编：孙有中）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
                             },
                             {
                                 "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
@@ -1405,25 +1130,10 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "f628a877-c3f0-480d-a422-8b15ac4ad660",
-                        "tag_name": "外研社版(主编：张祖春）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
                             },
                             {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -1431,30 +1141,8 @@
                         ]
                     },
                     {
-                        "tag_id": "12dc75c0-2724-47a9-b556-209d442aafe1",
-                        "tag_name": "人教版（精通）（主编：苗兴伟）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "44bede30-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "接力社版",
+                        "tag_id": "17ec21d7-ddf6-43bf-bf07-5ccfc305c398",
+                        "tag_name": "粤教沪外教版",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -1489,11 +1177,127 @@
                         ]
                     },
                     {
-                        "tag_id": "502036371562",
-                        "tag_name": "人教版（精通）（主编：郝建平）",
+                        "tag_id": "8423c2ea-d9eb-4b8e-ad39-1bf23b3c2cf7",
+                        "tag_name": "外研社版（主编：孙有中）",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "f628a877-c3f0-480d-a422-8b15ac4ad660",
+                        "tag_name": "外研社版(主编：张祖春）",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "12dc75c0-2724-47a9-b556-209d442aafe1",
+                        "tag_name": "人教版（主编：苗兴伟）",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "44bede30-54e6-11ed-9c34-850ba61fa9f4",
+                        "tag_name": "接力社版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
                             {
                                 "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "四年级",
@@ -1751,6 +1555,27 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
@@ -2005,156 +1830,6 @@
                         ]
                     },
                     {
-                        "tag_id": "51a0c4f8-a2b6-4c07-bd78-552e04f9e3e3",
-                        "tag_name": "人音版（五线谱）（主编：曹理）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "一年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "二年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "881804b3-20fc-4245-8409-2ca2c4945ade",
-                        "tag_name": "人音版（简谱）（主编：曹理）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "一年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "二年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "44bed3a4-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "人音版（主编：敬谱）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "一年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "二年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "362880194a9ec684014a9f0dfa190056",
                         "tag_name": "沪教版",
                         "tag_dimension_id": "zxxbb",
@@ -2280,6 +1955,27 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
@@ -2309,6 +2005,27 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
@@ -2335,6 +2052,27 @@
                             {
                                 "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -2750,49 +2488,6 @@
                         ]
                     },
                     {
-                        "tag_id": "44bed228-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "人美版（主编：常锐伦&欧京海）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "二年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "44bed2aa-54e6-11ed-9c34-850ba61fa9f4",
                         "tag_name": "人美版（主编：杨力）",
                         "tag_dimension_id": "zxxbb",
@@ -2955,79 +2650,6 @@
                                 "tag_dimension_name": "年级",
                                 "children": []
                             },
-                            {
-                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "二年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "tag_id": "5ff65281-b104-4c92-981b-9a228160bfa6",
-                "tag_name": "艺术",
-                "tag_dimension_id": "zxxxk",
-                "tag_dimension_name": "学科",
-                "children": [
-                    {
-                        "tag_id": "3628801849614b94014963fbed910bf7",
-                        "tag_name": "鄂教版",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "二年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "三年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "四年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "五年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "36288019491df525014935b7c67e15e2",
-                        "tag_name": "教科版",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
                             {
                                 "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "二年级",
@@ -3913,6 +3535,27 @@
                                 "children": []
                             },
                             {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
                                 "tag_id": "e91f68fd-99e6-4cee-9866-7174bc952e7b",
                                 "tag_name": "教师用书",
                                 "tag_dimension_id": "zxxnj",
@@ -3944,6 +3587,27 @@
                             {
                                 "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -3985,6 +3649,27 @@
                                 "children": []
                             },
                             {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
                                 "tag_id": "e91f68fd-99e6-4cee-9866-7174bc952e7b",
                                 "tag_name": "教师用书",
                                 "tag_dimension_id": "zxxnj",
@@ -4016,6 +3701,27 @@
                             {
                                 "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -4057,18 +3763,33 @@
                                 "children": []
                             },
                             {
-                                "tag_id": "44bec026-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "三至四年级",
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
                             },
                             {
-                                "tag_id": "44bec602-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "五至六年级",
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "tag_id": "e91f68fd-99e6-4cee-9866-7174bc952e7b",
@@ -4102,6 +3823,27 @@
                             {
                                 "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -4143,6 +3885,27 @@
                                 "children": []
                             },
                             {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
                                 "tag_id": "e91f68fd-99e6-4cee-9866-7174bc952e7b",
                                 "tag_name": "教师用书",
                                 "tag_dimension_id": "zxxnj",
@@ -4179,6 +3942,27 @@
                                 "children": []
                             },
                             {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
                                 "tag_id": "e91f68fd-99e6-4cee-9866-7174bc952e7b",
                                 "tag_name": "教师用书",
                                 "tag_dimension_id": "zxxnj",
@@ -4210,6 +3994,27 @@
                             {
                                 "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -4843,28 +4648,6 @@
                         ]
                     },
                     {
-                        "tag_id": "44bedcfa-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "外研社版（主编：陈琳）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "八年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "九年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "44beead8-54e6-11ed-9c34-850ba61fa9f4",
                         "tag_name": "译林版",
                         "tag_dimension_id": "zxxbb",
@@ -4909,6 +4692,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -5234,6 +5024,13 @@
                                 "children": []
                             },
                             {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
                                 "tag_id": "e91f68fd-99e6-4cee-9866-7174bc952e7b",
                                 "tag_name": "教师用书",
                                 "tag_dimension_id": "zxxnj",
@@ -5263,6 +5060,13 @@
                                 "children": []
                             },
                             {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
                                 "tag_id": "e91f68fd-99e6-4cee-9866-7174bc952e7b",
                                 "tag_name": "教师用书",
                                 "tag_dimension_id": "zxxnj",
@@ -5287,6 +5091,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -5570,93 +5381,6 @@
                         ]
                     },
                     {
-                        "tag_id": "51a0c4f8-a2b6-4c07-bd78-552e04f9e3e3",
-                        "tag_name": "人音版（五线谱）（主编：曹理）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "七年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "八年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "九年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "881804b3-20fc-4245-8409-2ca2c4945ade",
-                        "tag_name": "人音版（简谱）（主编：曹理）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "七年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "八年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "九年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "44bed3a4-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "人音版（主编：敬谱）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "七年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "八年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "九年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "362880194a9ec684014a9f0dfa190056",
                         "tag_name": "沪教版",
                         "tag_dimension_id": "zxxbb",
@@ -5733,6 +5457,13 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
@@ -5752,6 +5483,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -5777,6 +5515,13 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
@@ -5796,6 +5541,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -6043,50 +5795,6 @@
                         ]
                     },
                     {
-                        "tag_id": "44bed228-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "人美版（主编：常锐伦&欧京海）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "八年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "九年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "44bed2aa-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "人美版（主编：杨力）",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "八年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "九年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "362880194a9ec684014a9f0dfa190056",
                         "tag_name": "沪教版",
                         "tag_dimension_id": "zxxbb",
@@ -6163,42 +5871,19 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
                     {
                         "tag_id": "2d6b2dc1-ded9-4299-a863-3e927bdc9a25",
                         "tag_name": "人美版(主编：陶涛)",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "七年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "八年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "tag_id": "6a74947e-0772-11ed-ac74-092ab92074e6",
-                "tag_name": "艺术·舞蹈/影视/戏剧",
-                "tag_dimension_id": "zxxxk",
-                "tag_dimension_name": "学科",
-                "children": [
-                    {
-                        "tag_id": "3628801849614b94014963fbed910bf7",
-                        "tag_name": "鄂教版",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -6224,20 +5909,21 @@
                                 "children": []
                             }
                         ]
-                    },
+                    }
+                ]
+            },
+            {
+                "tag_id": "6a74947e-0772-11ed-ac74-092ab92074e6",
+                "tag_name": "艺术·舞蹈/影视/戏剧",
+                "tag_dimension_id": "zxxxk",
+                "tag_dimension_name": "学科",
+                "children": [
                     {
                         "tag_id": "36288019491df525014935b7c67e15e2",
                         "tag_name": "教科版",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
-                            {
-                                "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "七年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
@@ -6406,6 +6092,13 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
@@ -6418,6 +6111,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -6436,18 +6136,10 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "44beeb14-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "赣美版",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
+                            },
                             {
-                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "八年级",
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -6463,6 +6155,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -6503,6 +6202,13 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
@@ -6517,15 +6223,7 @@
                                 "tag_name": "八年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
-                                "children": [
-                                    {
-                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
-                                        "tag_name": "戏剧下册",
-                                        "tag_dimension_id": "zxxcc",
-                                        "tag_dimension_name": "册次",
-                                        "children": []
-                                    }
-                                ]
+                                "children": []
                             }
                         ]
                     }
@@ -6540,35 +6238,6 @@
                     {
                         "tag_id": "362880194a9ec684014a9f1d2af50073",
                         "tag_name": "华东师大版",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "七年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "八年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "九年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
-                        "tag_id": "362880194a9ec684014a9f0dfa190056",
-                        "tag_name": "沪教版",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -7438,7 +7107,7 @@
                     },
                     {
                         "tag_id": "baa48c98-1b20-4967-ad7b-f909953e9e64",
-                        "tag_name": "配套中图版（主编：王民&田忠）",
+                        "tag_name": "配套中图版（主编：王民）",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -7536,6 +7205,13 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     }
@@ -7563,6 +7239,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -7596,6 +7279,13 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
@@ -7615,6 +7305,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -7838,6 +7535,27 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     }
@@ -7911,6 +7629,27 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     }
@@ -7925,6 +7664,35 @@
                     {
                         "tag_id": "362880194964b314014964bf4ae60085",
                         "tag_name": "鲁科版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "362880194a9ec684014a9f0dfa190056",
+                        "tag_name": "沪教版",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -8021,6 +7789,27 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     }
@@ -8048,6 +7837,27 @@
                             {
                                 "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -8128,6 +7938,28 @@
                             {
                                 "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -8276,42 +8108,6 @@
                 "tag_dimension_name": "学科",
                 "children": [
                     {
-                        "tag_id": "ff8080814371757b01437c363a187b0a",
-                        "tag_name": "人教版",
-                        "tag_dimension_id": "zxxbb",
-                        "tag_dimension_name": "版本",
-                        "children": [
-                            {
-                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
-                                "tag_name": "六年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "七年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "八年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "九年级",
-                                "tag_dimension_id": "zxxnj",
-                                "tag_dimension_name": "年级",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "362880184964ce7d0149735861bb1738",
                         "tag_name": "鲁教版",
                         "tag_dimension_id": "zxxbb",
@@ -8370,6 +8166,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -8443,6 +8246,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -8555,6 +8365,13 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
@@ -8574,6 +8391,20 @@
                             {
                                 "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "七年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -8837,6 +8668,13 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
                             }
                         ]
                     },
@@ -8849,6 +8687,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
@@ -8909,6 +8754,13 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": []
