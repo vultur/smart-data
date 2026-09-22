@@ -48,70 +48,6 @@
                 "tag_dimension_name": "学段",
                 "children": [
                     {
-                        "tag_id": "e9f4396e-c923-4c30-961c-7575cdbcc71f",
-                        "tag_name": "走进人工智能时代",
-                        "tag_dimension_id": "a760445e-0342-4111-b641-fa63a703e8dc",
-                        "tag_dimension_name": "分类",
-                        "children": []
-                    },
-                    {
-                        "tag_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
-                        "tag_name": "人工智能主题课程(进阶)",
-                        "tag_dimension_id": "a760445e-0342-4111-b641-fa63a703e8dc",
-                        "tag_dimension_name": "分类",
-                        "children": [
-                            {
-                                "tag_id": "5b8bb166-2ad8-44f5-8a67-6bb4b9d0ef44",
-                                "tag_name": "走进人工智能",
-                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "6ed2a85b-363e-4d94-90bf-8fd56a0bced6",
-                                "tag_name": "大数据技术",
-                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "7b6a9318-8c2f-4b84-a10c-697fdb4a37ee",
-                                "tag_name": "机器学习技术",
-                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "25d29f79-a72c-47aa-9ff1-6760dfb02aea",
-                                "tag_name": "智能语音",
-                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "830bd66d-566d-4ba4-84ac-de3a72811bca",
-                                "tag_name": "计算机视觉技术",
-                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "1ce71677-e4d0-4620-a968-553224254a25",
-                                "tag_name": "自然语言处理技术",
-                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "473970ec-1b22-4e77-9884-448fc921cbcb",
-                                "tag_name": "迈入智能时代",
-                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            }
-                        ]
-                    },
-                    {
                         "tag_id": "f1ee7307-51cc-4525-8781-0e488122e9ae",
                         "tag_name": "人工智能基础",
                         "tag_dimension_id": "a760445e-0342-4111-b641-fa63a703e8dc",
@@ -212,6 +148,70 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "tag_id": "e9f4396e-c923-4c30-961c-7575cdbcc71f",
+                        "tag_name": "走进人工智能时代",
+                        "tag_dimension_id": "a760445e-0342-4111-b641-fa63a703e8dc",
+                        "tag_dimension_name": "分类",
+                        "children": []
+                    },
+                    {
+                        "tag_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
+                        "tag_name": "人工智能主题课程(进阶)",
+                        "tag_dimension_id": "a760445e-0342-4111-b641-fa63a703e8dc",
+                        "tag_dimension_name": "分类",
+                        "children": [
+                            {
+                                "tag_id": "5b8bb166-2ad8-44f5-8a67-6bb4b9d0ef44",
+                                "tag_name": "走进人工智能",
+                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "6ed2a85b-363e-4d94-90bf-8fd56a0bced6",
+                                "tag_name": "大数据技术",
+                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "7b6a9318-8c2f-4b84-a10c-697fdb4a37ee",
+                                "tag_name": "机器学习技术",
+                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "25d29f79-a72c-47aa-9ff1-6760dfb02aea",
+                                "tag_name": "智能语音",
+                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "830bd66d-566d-4ba4-84ac-de3a72811bca",
+                                "tag_name": "计算机视觉技术",
+                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "1ce71677-e4d0-4620-a968-553224254a25",
+                                "tag_name": "自然语言处理技术",
+                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "473970ec-1b22-4e77-9884-448fc921cbcb",
+                                "tag_name": "迈入智能时代",
+                                "tag_dimension_id": "5cc7e138-d1ef-4c4d-accd-f2ce317988d9",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             },
@@ -221,49 +221,6 @@
                 "tag_dimension_id": "7675555f-0234-4d6f-b97b-ff8d97700a53",
                 "tag_dimension_name": "学段",
                 "children": [
-                    {
-                        "tag_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
-                        "tag_name": "人工智能主题课程(初阶)",
-                        "tag_dimension_id": "a4603ca1-92b3-43e5-b805-dc81e312cd3a",
-                        "tag_dimension_name": "分类",
-                        "children": [
-                            {
-                                "tag_id": "f2c9d353-1ec8-46f3-9953-2b02768e97b2",
-                                "tag_name": "你好，人工智能",
-                                "tag_dimension_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "9930f168-d073-4024-a53f-7c8af1d54285",
-                                "tag_name": "智能小助理",
-                                "tag_dimension_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "21645d82-c7d0-4d65-a697-57ecdec808ad",
-                                "tag_name": "生活好帮手",
-                                "tag_dimension_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "7a9460d4-4cca-4242-beaa-210492a349dc",
-                                "tag_name": "学习好伙伴",
-                                "tag_dimension_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            },
-                            {
-                                "tag_id": "836bed66-bec7-44d5-9fe0-a71b27a171ad",
-                                "tag_name": "遇见AI·预见未来",
-                                "tag_dimension_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
-                                "tag_dimension_name": "主题",
-                                "children": []
-                            }
-                        ]
-                    },
                     {
                         "tag_id": "1cfe2060-3bfd-401e-8ed2-9a8e7d4cb3cd",
                         "tag_name": "人工智能基础",
@@ -365,6 +322,49 @@
                                 "children": []
                             }
                         ]
+                    },
+                    {
+                        "tag_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
+                        "tag_name": "人工智能主题课程(初阶)",
+                        "tag_dimension_id": "a4603ca1-92b3-43e5-b805-dc81e312cd3a",
+                        "tag_dimension_name": "分类",
+                        "children": [
+                            {
+                                "tag_id": "f2c9d353-1ec8-46f3-9953-2b02768e97b2",
+                                "tag_name": "你好，人工智能",
+                                "tag_dimension_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "9930f168-d073-4024-a53f-7c8af1d54285",
+                                "tag_name": "智能小助理",
+                                "tag_dimension_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "21645d82-c7d0-4d65-a697-57ecdec808ad",
+                                "tag_name": "生活好帮手",
+                                "tag_dimension_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "7a9460d4-4cca-4242-beaa-210492a349dc",
+                                "tag_name": "学习好伙伴",
+                                "tag_dimension_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "836bed66-bec7-44d5-9fe0-a71b27a171ad",
+                                "tag_name": "遇见AI·预见未来",
+                                "tag_dimension_id": "d47e3dfd-a484-4cfc-a73d-d9e2daff4da8",
+                                "tag_dimension_name": "主题",
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             }
@@ -401,6 +401,13 @@
                                 "tag_dimension_id": "9750e040-00bb-4611-a1cc-bd2f34dcf49b",
                                 "tag_dimension_name": "学段",
                                 "children": []
+                            },
+                            {
+                                "tag_id": "562856c5-3384-4749-b17c-6d6ef9db5603",
+                                "tag_name": "小学中英版",
+                                "tag_dimension_id": "9750e040-00bb-4611-a1cc-bd2f34dcf49b",
+                                "tag_dimension_name": "学段",
+                                "children": []
                             }
                         ]
                     },
@@ -409,7 +416,22 @@
                         "tag_name": "人工智能百问",
                         "tag_dimension_id": "ee364c85-c7af-4e11-9ad9-384719be30fe",
                         "tag_dimension_name": "标签",
-                        "children": []
+                        "children": [
+                            {
+                                "tag_id": "a00d08b2-b90d-4632-a24a-2589ddf00c55",
+                                "tag_name": "中文版",
+                                "tag_dimension_id": "81062129-5734-49a8-989d-de85f24fd48a",
+                                "tag_dimension_name": "版本",
+                                "children": []
+                            },
+                            {
+                                "tag_id": "cdb578a0-64d8-4ba6-9e87-f455ae49b4c4",
+                                "tag_name": "中英版",
+                                "tag_dimension_id": "81062129-5734-49a8-989d-de85f24fd48a",
+                                "tag_dimension_name": "版本",
+                                "children": []
+                            }
+                        ]
                     }
                 ]
             },
