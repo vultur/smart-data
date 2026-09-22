@@ -1002,7 +1002,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -1267,14 +1275,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -1386,7 +1410,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -1645,7 +1677,15 @@
                                         "tag_name": "全一册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342961",
+                                                "tag_name": "新教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2570,7 +2610,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2600,14 +2648,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2622,14 +2686,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2644,7 +2724,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2659,7 +2747,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2795,14 +2891,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2817,14 +2929,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2861,7 +2989,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2876,14 +3012,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2898,14 +3050,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2920,7 +3088,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -3024,7 +3200,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -3610,7 +3794,7 @@
                         "children": [
                             {
                                 "tag_id": "44becd82-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "人教版（PEP）（主编：吴欣）",
+                                "tag_name": "人教版（主编：吴欣）",
                                 "tag_dimension_id": "zxxbb",
                                 "tag_dimension_name": "版本",
                                 "children": [
@@ -3896,6 +4080,21 @@
                                                 "children": []
                                             }
                                         ]
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -4050,7 +4249,7 @@
                             },
                             {
                                 "tag_id": "12dc75c0-2724-47a9-b556-209d442aafe1",
-                                "tag_name": "人教版（精通）（主编：苗兴伟）",
+                                "tag_name": "人教版（主编：苗兴伟）",
                                 "tag_dimension_id": "zxxbb",
                                 "tag_dimension_name": "版本",
                                 "children": [
@@ -4193,7 +4392,7 @@
                             },
                             {
                                 "tag_id": "44bedeee-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "教科版（主编：龚亚夫&鲁宗干）",
+                                "tag_name": "教科版（主编：龚亚夫）",
                                 "tag_dimension_id": "zxxbb",
                                 "tag_dimension_name": "版本",
                                 "children": [
@@ -4945,7 +5144,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -4975,14 +5182,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -4997,14 +5220,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -5019,7 +5258,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -5034,7 +5281,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -5125,14 +5380,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -5147,7 +5418,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -5184,7 +5463,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -5199,14 +5486,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -5221,14 +5524,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -5259,6 +5578,13 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": [
+                                            {
+                                                "tag_id": "5136342961",
+                                                "tag_name": "新教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            },
                                             {
                                                 "tag_id": "5136342960",
                                                 "tag_name": "旧教材",
@@ -5304,14 +5630,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -5363,7 +5705,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -5599,7 +5949,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -5629,7 +5987,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -5673,7 +6039,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -5695,7 +6069,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -5717,7 +6099,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -5782,7 +6172,7 @@
                         "children": [
                             {
                                 "tag_id": "44becd82-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "人教版（PEP）（主编：吴欣）",
+                                "tag_name": "人教版（主编：吴欣）",
                                 "tag_dimension_id": "zxxbb",
                                 "tag_dimension_name": "版本",
                                 "children": [
@@ -6268,7 +6658,7 @@
                             },
                             {
                                 "tag_id": "44bedeee-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "教科版（主编：龚亚夫&鲁宗干）",
+                                "tag_name": "教科版（主编：龚亚夫）",
                                 "tag_dimension_id": "zxxbb",
                                 "tag_dimension_name": "版本",
                                 "children": [
@@ -6485,7 +6875,7 @@
                             },
                             {
                                 "tag_id": "12dc75c0-2724-47a9-b556-209d442aafe1",
-                                "tag_name": "人教版（精通）（主编：苗兴伟）",
+                                "tag_name": "人教版（主编：苗兴伟）",
                                 "tag_dimension_id": "zxxbb",
                                 "tag_dimension_name": "版本",
                                 "children": [
@@ -6530,6 +6920,21 @@
                                     {
                                         "tag_id": "ff8080814371757b014390f883db0453",
                                         "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342961",
+                                                "tag_name": "新教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": [
@@ -6624,7 +7029,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -6654,7 +7067,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -6764,7 +7185,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -6978,7 +7407,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -7000,7 +7437,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -7177,7 +7622,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -7432,7 +7885,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -7462,7 +7923,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -7506,7 +7975,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -7528,7 +8005,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -7550,7 +8035,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -7615,7 +8108,7 @@
                         "children": [
                             {
                                 "tag_id": "44becd82-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "人教版（PEP）（主编：吴欣）",
+                                "tag_name": "人教版（主编：吴欣）",
                                 "tag_dimension_id": "zxxbb",
                                 "tag_dimension_name": "版本",
                                 "children": [
@@ -7699,7 +8192,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -7839,7 +8340,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -7956,7 +8465,7 @@
                             },
                             {
                                 "tag_id": "44bedeee-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "教科版（主编：龚亚夫&鲁宗干）",
+                                "tag_name": "教科版（主编：龚亚夫）",
                                 "tag_dimension_id": "zxxbb",
                                 "tag_dimension_name": "版本",
                                 "children": [
@@ -8031,7 +8540,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -8128,7 +8645,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -8158,7 +8683,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -8246,7 +8779,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -8445,7 +8986,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -8482,7 +9031,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -8674,7 +9231,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -8907,7 +9472,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -8937,7 +9510,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -8981,7 +9562,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9003,7 +9592,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9025,7 +9622,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9090,7 +9695,7 @@
                         "children": [
                             {
                                 "tag_id": "44becd82-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "人教版（PEP）（主编：吴欣）",
+                                "tag_name": "人教版（主编：吴欣）",
                                 "tag_dimension_id": "zxxbb",
                                 "tag_dimension_name": "版本",
                                 "children": [
@@ -9099,7 +9704,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9121,7 +9734,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9143,7 +9764,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9283,7 +9912,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9371,7 +10008,7 @@
                             },
                             {
                                 "tag_id": "44bedeee-54e6-11ed-9c34-850ba61fa9f4",
-                                "tag_name": "教科版（主编：龚亚夫&鲁宗干）",
+                                "tag_name": "教科版（主编：龚亚夫）",
                                 "tag_dimension_id": "zxxbb",
                                 "tag_dimension_name": "版本",
                                 "children": [
@@ -9446,7 +10083,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9520,7 +10165,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9550,7 +10203,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -9631,7 +10292,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9720,7 +10389,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -9875,7 +10552,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -10038,7 +10723,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -11144,6 +11837,21 @@
                                                 "children": []
                                             }
                                         ]
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342961",
+                                                "tag_name": "新教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -12037,7 +12745,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -13325,14 +14041,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -13658,6 +14390,29 @@
                                             {
                                                 "tag_id": "5136342960",
                                                 "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "44bee0ec-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "沪外教版",
+                                "tag_dimension_id": "zxxbb",
+                                "tag_dimension_name": "版本",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342961",
+                                                "tag_name": "新教材",
                                                 "tag_dimension_id": "zxxxjjc",
                                                 "tag_dimension_name": "新旧教材",
                                                 "children": []
@@ -14743,7 +15498,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -14781,14 +15544,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -14803,7 +15582,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -14841,7 +15628,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -14930,7 +15725,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -15809,7 +16612,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -15839,7 +16650,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -15883,7 +16702,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -15905,14 +16732,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -15927,7 +16770,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -15986,14 +16837,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -16098,7 +16965,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -16142,14 +17017,30 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }
@@ -16172,7 +17063,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -16686,7 +17585,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -16804,7 +17711,15 @@
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -16849,7 +17764,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -17034,7 +17957,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -17079,7 +18010,15 @@
                                         "tag_name": "全一册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -17311,6 +18250,36 @@
                                     {
                                         "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
                                         "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342961",
+                                                "tag_name": "新教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342961",
+                                                "tag_name": "新教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": [
@@ -18550,7 +19519,15 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -19959,7 +20936,15 @@
                                         "tag_name": "全一册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             }

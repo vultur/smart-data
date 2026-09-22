@@ -8733,7 +8733,7 @@
     "1dfa8dd7-b0e3-4bf5-81f6-c53793d718f5": [
         {
             "id": "097ee551-e773-4d17-ba7e-687697abcca6",
-            "title": "第一单元  生活中的艺术·音乐",
+            "title": "第一单元  生活中的音乐",
             "node_path": "097ee551-e773-4d17-ba7e-687697abcca6",
             "child_nodes": [
                 {
@@ -8758,7 +8758,7 @@
         },
         {
             "id": "833755a1-69eb-43ce-9b69-5e0f9386348c",
-            "title": "第二单元  多彩的艺术·音乐风格",
+            "title": "第二单元  多彩的音乐风格",
             "node_path": "833755a1-69eb-43ce-9b69-5e0f9386348c",
             "child_nodes": [
                 {
@@ -8777,7 +8777,7 @@
         },
         {
             "id": "d7d0db90-cc4d-4502-bd12-1be22688b281",
-            "title": "第三单元  中国艺术·音乐的历史进程",
+            "title": "第三单元  中国音乐的历史进程",
             "node_path": "d7d0db90-cc4d-4502-bd12-1be22688b281",
             "child_nodes": [
                 {
@@ -8802,7 +8802,7 @@
         },
         {
             "id": "06009627-3559-4029-a15d-0118bf0c1450",
-            "title": "第四单元  西方艺术·音乐发展史掠影",
+            "title": "第四单元  西方音乐发展史掠影",
             "node_path": "06009627-3559-4029-a15d-0118bf0c1450",
             "child_nodes": [
                 {
@@ -22140,13 +22140,13 @@
             "child_nodes": [
                 {
                     "id": "58595180-7813-433c-980c-81a41d422bbc",
-                    "title": "1.“北京双奥”荣耀中华",
+                    "title": "1 “北京双奥”荣耀中华",
                     "node_path": "62dd58e9-a22a-4b25-a917-da17f6d8bab6/58595180-7813-433c-980c-81a41d422bbc",
                     "child_nodes": []
                 },
                 {
                     "id": "2cada44e-42c2-430a-8870-8507ef1cf58b",
-                    "title": "2.体育比赛中的智慧",
+                    "title": "2 体育比赛中的智慧",
                     "node_path": "62dd58e9-a22a-4b25-a917-da17f6d8bab6/2cada44e-42c2-430a-8870-8507ef1cf58b",
                     "child_nodes": []
                 }
@@ -22159,13 +22159,13 @@
             "child_nodes": [
                 {
                     "id": "a7fef6b3-605e-4a76-ae8c-01ad5e5be556",
-                    "title": "3.影响健康因素多",
+                    "title": "3 影响健康因素多",
                     "node_path": "e2c7c1a2-b7f7-402b-9323-23fff3f7da2a/a7fef6b3-605e-4a76-ae8c-01ad5e5be556",
                     "child_nodes": []
                 },
                 {
                     "id": "a5f04608-487b-4063-a968-eaf9ac3a06b3",
-                    "title": "4.吃动平衡 健康体重",
+                    "title": "4 吃动平衡 健康体重",
                     "node_path": "e2c7c1a2-b7f7-402b-9323-23fff3f7da2a/a5f04608-487b-4063-a968-eaf9ac3a06b3",
                     "child_nodes": []
                 }
@@ -22178,13 +22178,13 @@
             "child_nodes": [
                 {
                     "id": "ff80870a-56f3-4b04-8e4c-da95c3ff506d",
-                    "title": "5.体育运动中的交流与合作",
+                    "title": "5 体育运动中的交流与合作",
                     "node_path": "d8d18629-7717-4d9b-8525-db8a4f264616/ff80870a-56f3-4b04-8e4c-da95c3ff506d",
                     "child_nodes": []
                 },
                 {
                     "id": "35be3487-8427-4220-b71a-87972ac2bd46",
-                    "title": "6.识别界限 拒绝性骚扰",
+                    "title": "6 识别界限 拒绝性骚扰",
                     "node_path": "d8d18629-7717-4d9b-8525-db8a4f264616/35be3487-8427-4220-b71a-87972ac2bd46",
                     "child_nodes": []
                 }
@@ -22197,13 +22197,13 @@
             "child_nodes": [
                 {
                     "id": "a0fb7bf0-b8e4-44d7-b388-f94f2a8eeade",
-                    "title": "7.定期体检 预防常见病",
+                    "title": "7 定期体检 预防常见病",
                     "node_path": "498ae600-a8b5-418d-a6ab-d59a1a8e083e/a0fb7bf0-b8e4-44d7-b388-f94f2a8eeade",
                     "child_nodes": []
                 },
                 {
                     "id": "ee7006e6-1589-4155-b60d-d40389607c5b",
-                    "title": "8.溺水的预防与急救",
+                    "title": "8 溺水的预防与急救",
                     "node_path": "498ae600-a8b5-418d-a6ab-d59a1a8e083e/ee7006e6-1589-4155-b60d-d40389607c5b",
                     "child_nodes": []
                 }
@@ -29172,7 +29172,7 @@
             "child_nodes": [
                 {
                     "id": "d3c58df8-5468-43ac-aea9-af2ac290e892",
-                    "title": "第1课 运动镜头 ",
+                    "title": "第1课 运动镜头",
                     "node_path": "7f218344-14b5-487d-ab05-a555e6f0397e/d3c58df8-5468-43ac-aea9-af2ac290e892",
                     "child_nodes": []
                 },
@@ -30651,7 +30651,7 @@
         },
         {
             "id": "8174f430-6e1e-4b9a-9d99-5252552f1cc9",
-            "title": "第三单元 溜抱熏风",
+            "title": "第三单元 榴抱熏风",
             "node_path": "8174f430-6e1e-4b9a-9d99-5252552f1cc9",
             "child_nodes": [
                 {
@@ -30955,13 +30955,13 @@
             "child_nodes": [
                 {
                     "id": "4f3bf943-ae9e-4f89-9491-227de5d90272",
-                    "title": "1.体育礼仪与修养",
+                    "title": "1 体育礼仪与修养",
                     "node_path": "f826d1d4-f1d0-4650-8e53-f887f7552b11/4f3bf943-ae9e-4f89-9491-227de5d90272",
                     "child_nodes": []
                 },
                 {
                     "id": "67234c2a-7018-401c-aa79-9e7c09bf6aed",
-                    "title": "2.丰富多彩的中华传统体育",
+                    "title": "2 丰富多彩的中华传统体育",
                     "node_path": "f826d1d4-f1d0-4650-8e53-f887f7552b11/67234c2a-7018-401c-aa79-9e7c09bf6aed",
                     "child_nodes": []
                 }
@@ -30974,13 +30974,13 @@
             "child_nodes": [
                 {
                     "id": "075ff30b-8384-4bdc-beb7-0b871cce8d17",
-                    "title": "3.保持良好的身体姿态",
+                    "title": "3 保持良好的身体姿态",
                     "node_path": "c5a886d1-0737-47b1-b9c5-28f1f0a18b1b/075ff30b-8384-4bdc-beb7-0b871cce8d17",
                     "child_nodes": []
                 },
                 {
                     "id": "694d5e8a-b3f2-4b67-ab4f-45e34a0a1551",
-                    "title": "4.运动负荷的监控",
+                    "title": "4 运动负荷的监控",
                     "node_path": "c5a886d1-0737-47b1-b9c5-28f1f0a18b1b/694d5e8a-b3f2-4b67-ab4f-45e34a0a1551",
                     "child_nodes": []
                 }
@@ -30993,13 +30993,13 @@
             "child_nodes": [
                 {
                     "id": "e23b2dab-30c6-44c8-807c-4a96d4a041ca",
-                    "title": "5.运动塑造更强大脑",
+                    "title": "5 运动塑造更强大脑",
                     "node_path": "3eb1e7d6-4687-4166-9319-9fe380d51195/e23b2dab-30c6-44c8-807c-4a96d4a041ca",
                     "child_nodes": []
                 },
                 {
                     "id": "2c2672d4-6a61-42e6-bdea-41a15e3f98a3",
-                    "title": "6.兴趣伴成长",
+                    "title": "6 兴趣伴成长",
                     "node_path": "3eb1e7d6-4687-4166-9319-9fe380d51195/2c2672d4-6a61-42e6-bdea-41a15e3f98a3",
                     "child_nodes": []
                 }
@@ -31012,13 +31012,13 @@
             "child_nodes": [
                 {
                     "id": "4689afa4-7962-4a54-8368-e3109b5a92db",
-                    "title": "7.运动伤病的预防与紧急处理",
+                    "title": "7 运动伤病的预防与紧急处理",
                     "node_path": "f3aede92-f61b-4ad3-a9bf-8fd563a6ccc3/4689afa4-7962-4a54-8368-e3109b5a92db",
                     "child_nodes": []
                 },
                 {
                     "id": "364d6212-31ff-40cd-8f89-70bf0513b932",
-                    "title": "8.避险逃生的方法",
+                    "title": "8 避险逃生的方法",
                     "node_path": "f3aede92-f61b-4ad3-a9bf-8fd563a6ccc3/364d6212-31ff-40cd-8f89-70bf0513b932",
                     "child_nodes": []
                 }
@@ -56672,7 +56672,7 @@
                         },
                         {
                             "id": "891cfe79-9f2c-3764-8bc4-0e41b9f87134",
-                            "title": "Grammar \"Gerunds\" & \"Gerunds as subjects\" & \"Gerunds as objects\"",
+                            "title": "Grammar \"Gerunds\" & \"Gerunds as subjects\"",
                             "node_path": "553cad1c-b366-3fde-a34d-ddbc24911b96/b641e4ab-28f0-3a5e-8640-4d87eca08e9a/891cfe79-9f2c-3764-8bc4-0e41b9f87134",
                             "child_nodes": []
                         },
@@ -78132,6 +78132,997 @@
                     "id": "022e10b4-32b0-35e5-a592-c710f0c7bb15",
                     "title": "小结与复习",
                     "node_path": "fc1fb112-7d76-32d2-93f7-2bf0fcd0a106/022e10b4-32b0-35e5-a592-c710f0c7bb15",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "84535f5c-782c-4890-8564-7b12eb64882e": [
+        {
+            "id": "42069e84-633d-484b-bc06-b31f8211cb61",
+            "title": "U1 Learning to be",
+            "node_path": "42069e84-633d-484b-bc06-b31f8211cb61",
+            "child_nodes": [
+                {
+                    "id": "41c1df37-6930-42bc-b45f-3272601e94c1",
+                    "title": "Period 1",
+                    "node_path": "42069e84-633d-484b-bc06-b31f8211cb61/41c1df37-6930-42bc-b45f-3272601e94c1",
+                    "child_nodes": []
+                },
+                {
+                    "id": "915f9e94-ad63-4be9-bad6-d38bc10f2e9c",
+                    "title": "Period 2",
+                    "node_path": "42069e84-633d-484b-bc06-b31f8211cb61/915f9e94-ad63-4be9-bad6-d38bc10f2e9c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "be481679-6d63-4c2a-b353-dfdcea9ee7e9",
+                    "title": "Period 3",
+                    "node_path": "42069e84-633d-484b-bc06-b31f8211cb61/be481679-6d63-4c2a-b353-dfdcea9ee7e9",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "faca6443-8a37-4d78-b967-7fce595823ec",
+            "title": "U2 Wonders of nature",
+            "node_path": "faca6443-8a37-4d78-b967-7fce595823ec",
+            "child_nodes": [
+                {
+                    "id": "ae06ffa9-1c9a-44ae-993f-b07cae7d8619",
+                    "title": "Period 1",
+                    "node_path": "faca6443-8a37-4d78-b967-7fce595823ec/ae06ffa9-1c9a-44ae-993f-b07cae7d8619",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e94aec48-dd3c-4e46-8230-4593ee3ea461",
+                    "title": "Period 2",
+                    "node_path": "faca6443-8a37-4d78-b967-7fce595823ec/e94aec48-dd3c-4e46-8230-4593ee3ea461",
+                    "child_nodes": []
+                },
+                {
+                    "id": "acaeeca2-ca8d-419f-ad37-11f8c8eade89",
+                    "title": "Period 3",
+                    "node_path": "faca6443-8a37-4d78-b967-7fce595823ec/acaeeca2-ca8d-419f-ad37-11f8c8eade89",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "d523bd47-790c-4d22-9d20-40f4caf08fee",
+            "title": "U3 Social networking",
+            "node_path": "d523bd47-790c-4d22-9d20-40f4caf08fee",
+            "child_nodes": [
+                {
+                    "id": "13cda13e-72d5-4fcd-b66d-05266f50f314",
+                    "title": "Period 1",
+                    "node_path": "d523bd47-790c-4d22-9d20-40f4caf08fee/13cda13e-72d5-4fcd-b66d-05266f50f314",
+                    "child_nodes": []
+                },
+                {
+                    "id": "33354a0d-7b19-47ea-91c1-6918b6ff4257",
+                    "title": "Period 2",
+                    "node_path": "d523bd47-790c-4d22-9d20-40f4caf08fee/33354a0d-7b19-47ea-91c1-6918b6ff4257",
+                    "child_nodes": []
+                },
+                {
+                    "id": "b8984ef8-a308-4097-9bb5-f5fb8bf2860f",
+                    "title": "Period 3",
+                    "node_path": "d523bd47-790c-4d22-9d20-40f4caf08fee/b8984ef8-a308-4097-9bb5-f5fb8bf2860f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "ac58772e-c4ee-4d26-8357-6f0302ea705a",
+            "title": "U4 Epic engineering",
+            "node_path": "ac58772e-c4ee-4d26-8357-6f0302ea705a",
+            "child_nodes": [
+                {
+                    "id": "9cce1e07-620e-41ef-866a-ed0bdb3422e4",
+                    "title": "Period 1",
+                    "node_path": "ac58772e-c4ee-4d26-8357-6f0302ea705a/9cce1e07-620e-41ef-866a-ed0bdb3422e4",
+                    "child_nodes": []
+                },
+                {
+                    "id": "99399086-50f8-4c50-b458-2f9a62d49911",
+                    "title": "Period 2",
+                    "node_path": "ac58772e-c4ee-4d26-8357-6f0302ea705a/99399086-50f8-4c50-b458-2f9a62d49911",
+                    "child_nodes": []
+                },
+                {
+                    "id": "388a1a4d-fa96-4212-98f2-a6ce6edffed4",
+                    "title": "Period 3",
+                    "node_path": "ac58772e-c4ee-4d26-8357-6f0302ea705a/388a1a4d-fa96-4212-98f2-a6ce6edffed4",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "ac9b7b31-05c7-4f06-9f1f-c9e04fc577ea",
+            "title": "U5 Sports and sportsmanship",
+            "node_path": "ac9b7b31-05c7-4f06-9f1f-c9e04fc577ea",
+            "child_nodes": [
+                {
+                    "id": "6038c278-5853-4269-b09a-cf2475316e13",
+                    "title": "Period 1",
+                    "node_path": "ac9b7b31-05c7-4f06-9f1f-c9e04fc577ea/6038c278-5853-4269-b09a-cf2475316e13",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f380a8e6-e7fb-4352-9473-c7e6d42ff947",
+                    "title": "Period 2",
+                    "node_path": "ac9b7b31-05c7-4f06-9f1f-c9e04fc577ea/f380a8e6-e7fb-4352-9473-c7e6d42ff947",
+                    "child_nodes": []
+                },
+                {
+                    "id": "76938ea0-2334-49f8-8346-1a3b314f2e00",
+                    "title": "Period 3",
+                    "node_path": "ac9b7b31-05c7-4f06-9f1f-c9e04fc577ea/76938ea0-2334-49f8-8346-1a3b314f2e00",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "4efc12ef-958a-42b6-9b9c-fefe61b487d6",
+            "title": "U6 Writers and their masterpieces",
+            "node_path": "4efc12ef-958a-42b6-9b9c-fefe61b487d6",
+            "child_nodes": [
+                {
+                    "id": "cf1c4c1e-dbd0-447e-b8dd-f4b0fba65d31",
+                    "title": "Period 1",
+                    "node_path": "4efc12ef-958a-42b6-9b9c-fefe61b487d6/cf1c4c1e-dbd0-447e-b8dd-f4b0fba65d31",
+                    "child_nodes": []
+                },
+                {
+                    "id": "be135421-bf79-49ec-a02a-7a7564473e59",
+                    "title": "Period 2",
+                    "node_path": "4efc12ef-958a-42b6-9b9c-fefe61b487d6/be135421-bf79-49ec-a02a-7a7564473e59",
+                    "child_nodes": []
+                },
+                {
+                    "id": "2c5e0ef7-1977-4744-b6ef-7ac8891c0cab",
+                    "title": "Period 3",
+                    "node_path": "4efc12ef-958a-42b6-9b9c-fefe61b487d6/2c5e0ef7-1977-4744-b6ef-7ac8891c0cab",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "c373f47e-5bf0-462f-85b9-be34952e705e",
+            "title": "U7 Who we are",
+            "node_path": "c373f47e-5bf0-462f-85b9-be34952e705e",
+            "child_nodes": [
+                {
+                    "id": "8b23cad1-67aa-4f70-82a3-f63f236c778e",
+                    "title": "Period 1",
+                    "node_path": "c373f47e-5bf0-462f-85b9-be34952e705e/8b23cad1-67aa-4f70-82a3-f63f236c778e",
+                    "child_nodes": []
+                },
+                {
+                    "id": "d7cb9ef2-53d5-4ec0-aea5-fe79e2d18b94",
+                    "title": "Period 2",
+                    "node_path": "c373f47e-5bf0-462f-85b9-be34952e705e/d7cb9ef2-53d5-4ec0-aea5-fe79e2d18b94",
+                    "child_nodes": []
+                },
+                {
+                    "id": "80d155e2-8a61-47ad-8363-e2f5931b9e85",
+                    "title": "Period 3",
+                    "node_path": "c373f47e-5bf0-462f-85b9-be34952e705e/80d155e2-8a61-47ad-8363-e2f5931b9e85",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "efbd30a9-7977-4d9b-93c3-8575be7f8a59",
+            "title": "U8 Road to success",
+            "node_path": "efbd30a9-7977-4d9b-93c3-8575be7f8a59",
+            "child_nodes": [
+                {
+                    "id": "d8a902c5-561a-46d2-aa1d-f6ed115c3590",
+                    "title": "Period 1",
+                    "node_path": "efbd30a9-7977-4d9b-93c3-8575be7f8a59/d8a902c5-561a-46d2-aa1d-f6ed115c3590",
+                    "child_nodes": []
+                },
+                {
+                    "id": "74a40bbf-7bf1-4f55-87a3-2cae230cf635",
+                    "title": "Period 2",
+                    "node_path": "efbd30a9-7977-4d9b-93c3-8575be7f8a59/74a40bbf-7bf1-4f55-87a3-2cae230cf635",
+                    "child_nodes": []
+                },
+                {
+                    "id": "00c3dcfa-6178-42db-8f03-616456d08ddd",
+                    "title": "Period 3",
+                    "node_path": "efbd30a9-7977-4d9b-93c3-8575be7f8a59/00c3dcfa-6178-42db-8f03-616456d08ddd",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "9b48ceb2-a4b3-4a13-8225-1a0202dc52e4": [
+        {
+            "id": "3a6e512f-8de6-42a5-8142-cb0b06bafd23",
+            "title": "第一单元 妆扮多样角色",
+            "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23",
+            "child_nodes": [
+                {
+                    "id": "f49fe408-df8c-4212-b729-4a120a801298",
+                    "title": "故事剧场",
+                    "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/f49fe408-df8c-4212-b729-4a120a801298",
+                    "child_nodes": [
+                        {
+                            "id": "e391680b-c63a-4dcb-aa94-5f4b353c5bd5",
+                            "title": "川剧《金山寺》",
+                            "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/f49fe408-df8c-4212-b729-4a120a801298/e391680b-c63a-4dcb-aa94-5f4b353c5bd5",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "1cdc396d-7623-4ad0-ac97-9a3d79b73efc",
+                            "title": "音乐剧《猫》",
+                            "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/f49fe408-df8c-4212-b729-4a120a801298/1cdc396d-7623-4ad0-ac97-9a3d79b73efc",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "75a2323d-c982-40d4-9250-5962586f363b",
+                            "title": "短剧《十八洞村》",
+                            "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/f49fe408-df8c-4212-b729-4a120a801298/75a2323d-c982-40d4-9250-5962586f363b",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "fec11ce8-d953-4fc3-a86c-8e4cddc63635",
+                    "title": "表演体验",
+                    "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/fec11ce8-d953-4fc3-a86c-8e4cddc63635",
+                    "child_nodes": [
+                        {
+                            "id": "ec4c37fb-b064-4457-92b3-9771ce246e6d",
+                            "title": "戴着面具来表演",
+                            "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/fec11ce8-d953-4fc3-a86c-8e4cddc63635/ec4c37fb-b064-4457-92b3-9771ce246e6d",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "99dd131a-ff68-4f42-9d40-20e687e09ace",
+                            "title": "戏曲人物巧妆扮",
+                            "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/fec11ce8-d953-4fc3-a86c-8e4cddc63635/99dd131a-ff68-4f42-9d40-20e687e09ace",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "e81fad18-7451-4d7f-abd1-dee001bbabfb",
+                    "title": "创意表达",
+                    "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/e81fad18-7451-4d7f-abd1-dee001bbabfb",
+                    "child_nodes": [
+                        {
+                            "id": "b7b68608-db1e-4fbc-b634-92603323016c",
+                            "title": "我的定妆照",
+                            "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/e81fad18-7451-4d7f-abd1-dee001bbabfb/b7b68608-db1e-4fbc-b634-92603323016c",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "81ccbcea-9d7c-4037-a314-56964fbc1833",
+                            "title": "看我七十二变",
+                            "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/e81fad18-7451-4d7f-abd1-dee001bbabfb/81ccbcea-9d7c-4037-a314-56964fbc1833",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "d26158aa-291d-4ef8-b584-abed1f6e20e8",
+                            "title": "我为“国潮”代言",
+                            "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/e81fad18-7451-4d7f-abd1-dee001bbabfb/d26158aa-291d-4ef8-b584-abed1f6e20e8",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "dff9bb07-fe83-4c1f-841c-061d42bc409d",
+                    "title": "戏剧论坛",
+                    "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/dff9bb07-fe83-4c1f-841c-061d42bc409d",
+                    "child_nodes": [
+                        {
+                            "id": "16ee777a-9ede-422f-8196-d54eb8689aba",
+                            "title": "扮演心得",
+                            "node_path": "3a6e512f-8de6-42a5-8142-cb0b06bafd23/dff9bb07-fe83-4c1f-841c-061d42bc409d/16ee777a-9ede-422f-8196-d54eb8689aba",
+                            "child_nodes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "324a7484-14d5-4f1f-a522-5ec38a0e920c",
+            "title": "第二单元 创作精彩剧本",
+            "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c",
+            "child_nodes": [
+                {
+                    "id": "643feaa3-ed78-47c0-972d-7c1ede4feef7",
+                    "title": "故事剧场",
+                    "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/643feaa3-ed78-47c0-972d-7c1ede4feef7",
+                    "child_nodes": [
+                        {
+                            "id": "e1f95190-ec45-46f1-a6de-aff61dc127e3",
+                            "title": "话剧《玩偶之家》",
+                            "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/643feaa3-ed78-47c0-972d-7c1ede4feef7/e1f95190-ec45-46f1-a6de-aff61dc127e3",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "9be78925-d0fa-4db0-9ec5-326fedd9928c",
+                            "title": "豫剧《花木兰》",
+                            "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/643feaa3-ed78-47c0-972d-7c1ede4feef7/9be78925-d0fa-4db0-9ec5-326fedd9928c",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "d569d597-4906-4a97-866b-bedf31615970",
+                    "title": "编剧体验",
+                    "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/d569d597-4906-4a97-866b-bedf31615970",
+                    "child_nodes": [
+                        {
+                            "id": "d28a884a-2097-42c7-a810-f2ceaa5c5c2d",
+                            "title": "认识剧本格式",
+                            "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/d569d597-4906-4a97-866b-bedf31615970/d28a884a-2097-42c7-a810-f2ceaa5c5c2d",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "79576013-62e4-4533-a05d-702f86014661",
+                            "title": "从小说到话剧",
+                            "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/d569d597-4906-4a97-866b-bedf31615970/79576013-62e4-4533-a05d-702f86014661",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "dda9ac2b-6ca1-41ea-9681-18bc5ad00631",
+                            "title": "课本的“变身”",
+                            "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/d569d597-4906-4a97-866b-bedf31615970/dda9ac2b-6ca1-41ea-9681-18bc5ad00631",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "9fdd0b51-15c1-436d-9024-a06fa04c2d38",
+                            "title": "人在画中游",
+                            "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/d569d597-4906-4a97-866b-bedf31615970/9fdd0b51-15c1-436d-9024-a06fa04c2d38",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "a2ae36f7-1574-4504-8575-6c3680fac099",
+                    "title": "创意表达",
+                    "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/a2ae36f7-1574-4504-8575-6c3680fac099",
+                    "child_nodes": [
+                        {
+                            "id": "c5c917c7-961f-4b55-b0fc-c31fff513b78",
+                            "title": "编剧“蒙太奇”",
+                            "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/a2ae36f7-1574-4504-8575-6c3680fac099/c5c917c7-961f-4b55-b0fc-c31fff513b78",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "7a7fe15e-47b7-401d-8f77-d003f8f9d334",
+                    "title": "戏剧论坛",
+                    "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/7a7fe15e-47b7-401d-8f77-d003f8f9d334",
+                    "child_nodes": [
+                        {
+                            "id": "af3a23e1-760a-4b2f-905d-f39b4ed9ba99",
+                            "title": "多样的花木兰",
+                            "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/7a7fe15e-47b7-401d-8f77-d003f8f9d334/af3a23e1-760a-4b2f-905d-f39b4ed9ba99",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "d8371df4-ede1-468d-a01c-7953b8a3e335",
+                            "title": "剧本医生",
+                            "node_path": "324a7484-14d5-4f1f-a522-5ec38a0e920c/7a7fe15e-47b7-401d-8f77-d003f8f9d334/d8371df4-ede1-468d-a01c-7953b8a3e335",
+                            "child_nodes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "82678347-77cd-43d7-8186-a49074a217f6",
+            "title": "第三单元 呈现璀璨舞台",
+            "node_path": "82678347-77cd-43d7-8186-a49074a217f6",
+            "child_nodes": [
+                {
+                    "id": "4c44d8d3-c566-4b6f-8bf9-7572d2a90041",
+                    "title": "故事剧场",
+                    "node_path": "82678347-77cd-43d7-8186-a49074a217f6/4c44d8d3-c566-4b6f-8bf9-7572d2a90041",
+                    "child_nodes": [
+                        {
+                            "id": "c1d002c1-4343-4102-81bf-fc2bded4fa63",
+                            "title": "锡剧《珍珠塔》",
+                            "node_path": "82678347-77cd-43d7-8186-a49074a217f6/4c44d8d3-c566-4b6f-8bf9-7572d2a90041/c1d002c1-4343-4102-81bf-fc2bded4fa63",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "38f4aa0c-1a61-48eb-b516-e05a9c4bd3ac",
+                            "title": "话剧《窝头会馆》",
+                            "node_path": "82678347-77cd-43d7-8186-a49074a217f6/4c44d8d3-c566-4b6f-8bf9-7572d2a90041/38f4aa0c-1a61-48eb-b516-e05a9c4bd3ac",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "fa7d3b23-1225-4551-98dd-6be8b283c1ff",
+                            "title": "晋剧《范进中举》",
+                            "node_path": "82678347-77cd-43d7-8186-a49074a217f6/4c44d8d3-c566-4b6f-8bf9-7572d2a90041/fa7d3b23-1225-4551-98dd-6be8b283c1ff",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "a3e5daf8-b86c-4c50-8bed-b7efe36797fb",
+                    "title": "导演体验",
+                    "node_path": "82678347-77cd-43d7-8186-a49074a217f6/a3e5daf8-b86c-4c50-8bed-b7efe36797fb",
+                    "child_nodes": [
+                        {
+                            "id": "fff75aa3-7ce5-4243-8f84-65db5ed3b5d8",
+                            "title": "场景巧设计",
+                            "node_path": "82678347-77cd-43d7-8186-a49074a217f6/a3e5daf8-b86c-4c50-8bed-b7efe36797fb/fff75aa3-7ce5-4243-8f84-65db5ed3b5d8",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "b9446eed-a4c0-49a5-b8d2-eb17feaf571a",
+                            "title": "演员请就位",
+                            "node_path": "82678347-77cd-43d7-8186-a49074a217f6/a3e5daf8-b86c-4c50-8bed-b7efe36797fb/b9446eed-a4c0-49a5-b8d2-eb17feaf571a",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "b0cb75b1-d240-47bf-9f21-487457bf3ce5",
+                            "title": "奇妙的音响",
+                            "node_path": "82678347-77cd-43d7-8186-a49074a217f6/a3e5daf8-b86c-4c50-8bed-b7efe36797fb/b0cb75b1-d240-47bf-9f21-487457bf3ce5",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "02ff1764-35a8-4660-a520-c56646a314b7",
+                    "title": "创意表达",
+                    "node_path": "82678347-77cd-43d7-8186-a49074a217f6/02ff1764-35a8-4660-a520-c56646a314b7",
+                    "child_nodes": [
+                        {
+                            "id": "f0918bec-6137-41fa-89a6-304096a4e808",
+                            "title": "热闹的集市",
+                            "node_path": "82678347-77cd-43d7-8186-a49074a217f6/02ff1764-35a8-4660-a520-c56646a314b7/f0918bec-6137-41fa-89a6-304096a4e808",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "d82513c5-ad62-4c1d-b56e-faec5229c853",
+                            "title": "我来当导演",
+                            "node_path": "82678347-77cd-43d7-8186-a49074a217f6/02ff1764-35a8-4660-a520-c56646a314b7/d82513c5-ad62-4c1d-b56e-faec5229c853",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "19bea738-0e0c-41e2-b165-40893413d8a8",
+                            "title": "影偶剧场",
+                            "node_path": "82678347-77cd-43d7-8186-a49074a217f6/02ff1764-35a8-4660-a520-c56646a314b7/19bea738-0e0c-41e2-b165-40893413d8a8",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "00e9a630-f801-4ef5-9d56-ea2224c0e4d1",
+                    "title": "戏剧论坛",
+                    "node_path": "82678347-77cd-43d7-8186-a49074a217f6/00e9a630-f801-4ef5-9d56-ea2224c0e4d1",
+                    "child_nodes": [
+                        {
+                            "id": "4dee05c5-0698-4129-9370-eaf953fc75d4",
+                            "title": "导演素养",
+                            "node_path": "82678347-77cd-43d7-8186-a49074a217f6/00e9a630-f801-4ef5-9d56-ea2224c0e4d1/4dee05c5-0698-4129-9370-eaf953fc75d4",
+                            "child_nodes": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "adf9c3a5-6dc6-4d07-aec9-3e836a32158e",
+            "title": "第四单元 我们的戏剧节",
+            "node_path": "adf9c3a5-6dc6-4d07-aec9-3e836a32158e",
+            "child_nodes": []
+        }
+    ],
+    "b49a7844-4532-40ff-80c8-0af73dc64d69": [
+        {
+            "id": "76ec7487-5714-46e1-be1d-821333e4aa2d",
+            "title": "第一单元 挚情翩跹",
+            "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d",
+            "child_nodes": [
+                {
+                    "id": "b06b02ff-7a28-4465-ab10-7826f95eac10",
+                    "title": "欣赏与评述",
+                    "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/b06b02ff-7a28-4465-ab10-7826f95eac10",
+                    "child_nodes": [
+                        {
+                            "id": "4351edd9-a99c-4086-af12-316430713858",
+                            "title": "《不想说再见》",
+                            "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/b06b02ff-7a28-4465-ab10-7826f95eac10/4351edd9-a99c-4086-af12-316430713858",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "e961bf9b-834e-46d6-8fc8-e9d993ab7973",
+                            "title": "《父亲》",
+                            "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/b06b02ff-7a28-4465-ab10-7826f95eac10/e961bf9b-834e-46d6-8fc8-e9d993ab7973",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "96767404-e243-490a-9ac2-56d17b7721a6",
+                            "title": "《远山不远》",
+                            "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/b06b02ff-7a28-4465-ab10-7826f95eac10/96767404-e243-490a-9ac2-56d17b7721a6",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "9dce73fd-79bc-45ab-8ad4-7d24f8d7f49f",
+                    "title": "体验与表现",
+                    "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/9dce73fd-79bc-45ab-8ad4-7d24f8d7f49f",
+                    "child_nodes": [
+                        {
+                            "id": "2045a328-5141-4a6a-9825-85624bcd9cd8",
+                            "title": "情感造型",
+                            "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/9dce73fd-79bc-45ab-8ad4-7d24f8d7f49f/2045a328-5141-4a6a-9825-85624bcd9cd8",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "e9065cd6-3f4f-48c2-a281-5eb9594b6600",
+                            "title": "不想说再见",
+                            "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/9dce73fd-79bc-45ab-8ad4-7d24f8d7f49f/e9065cd6-3f4f-48c2-a281-5eb9594b6600",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "0714c587-3293-4164-8134-75d258c0d205",
+                    "title": "编创与联想",
+                    "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/0714c587-3293-4164-8134-75d258c0d205",
+                    "child_nodes": [
+                        {
+                            "id": "c8b9d833-5f4e-4d07-880b-5eb004c35ee2",
+                            "title": "百感交集",
+                            "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/0714c587-3293-4164-8134-75d258c0d205/c8b9d833-5f4e-4d07-880b-5eb004c35ee2",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "cfca4251-6d95-4b15-a98c-bf34d6fbd9d2",
+                            "title": "真情岁月",
+                            "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/0714c587-3293-4164-8134-75d258c0d205/cfca4251-6d95-4b15-a98c-bf34d6fbd9d2",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "3be58e7c-d132-45c5-9fd8-204b72205a72",
+                    "title": "积累与感悟",
+                    "node_path": "76ec7487-5714-46e1-be1d-821333e4aa2d/3be58e7c-d132-45c5-9fd8-204b72205a72",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "0004edc0-7650-439d-b223-16d3c375e1e4",
+            "title": "第二单元 激情跳动",
+            "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4",
+            "child_nodes": [
+                {
+                    "id": "313267a6-962b-4bf7-b976-08656d8f5540",
+                    "title": "欣赏与评述",
+                    "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/313267a6-962b-4bf7-b976-08656d8f5540",
+                    "child_nodes": [
+                        {
+                            "id": "71d6b79c-062c-4058-aade-292ddb8895e5",
+                            "title": "俄罗斯民间舞",
+                            "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/313267a6-962b-4bf7-b976-08656d8f5540/71d6b79c-062c-4058-aade-292ddb8895e5",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "28577fae-dd23-4182-ad4d-c904900200b6",
+                            "title": "非洲民间舞",
+                            "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/313267a6-962b-4bf7-b976-08656d8f5540/28577fae-dd23-4182-ad4d-c904900200b6",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "6dd055f4-30df-45dd-88a6-b57901f7f559",
+                            "title": "西班牙民间舞",
+                            "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/313267a6-962b-4bf7-b976-08656d8f5540/6dd055f4-30df-45dd-88a6-b57901f7f559",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "dc6e5376-e634-4785-a2f2-f9e9a15bff87",
+                            "title": "墨西哥民间舞",
+                            "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/313267a6-962b-4bf7-b976-08656d8f5540/dc6e5376-e634-4785-a2f2-f9e9a15bff87",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "869d85cf-4b52-4f1c-b7e6-8c5e6c1b63ee",
+                    "title": "体验与表现",
+                    "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/869d85cf-4b52-4f1c-b7e6-8c5e6c1b63ee",
+                    "child_nodes": [
+                        {
+                            "id": "69aba603-c45c-43a3-adbd-5c92375e941c",
+                            "title": "飘然炫舞",
+                            "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/869d85cf-4b52-4f1c-b7e6-8c5e6c1b63ee/69aba603-c45c-43a3-adbd-5c92375e941c",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "64cc0435-fd33-456e-a382-3942b662e499",
+                            "title": "足之律动",
+                            "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/869d85cf-4b52-4f1c-b7e6-8c5e6c1b63ee/64cc0435-fd33-456e-a382-3942b662e499",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "1aa45663-8796-4657-a835-bcbe393b190b",
+                    "title": "编创与联想",
+                    "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/1aa45663-8796-4657-a835-bcbe393b190b",
+                    "child_nodes": [
+                        {
+                            "id": "79fb61a2-8479-4f85-9acc-9022aa6fbcc5",
+                            "title": "手舞足蹈",
+                            "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/1aa45663-8796-4657-a835-bcbe393b190b/79fb61a2-8479-4f85-9acc-9022aa6fbcc5",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "a7388a37-d0a9-42d9-aab7-be20f9427f8f",
+                            "title": "队形设计",
+                            "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/1aa45663-8796-4657-a835-bcbe393b190b/a7388a37-d0a9-42d9-aab7-be20f9427f8f",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "59a13f7e-eee3-4121-bdb4-53dd5cf70f4d",
+                    "title": "积累与感悟",
+                    "node_path": "0004edc0-7650-439d-b223-16d3c375e1e4/59a13f7e-eee3-4121-bdb4-53dd5cf70f4d",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8",
+            "title": "第三单元 民族之魂",
+            "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8",
+            "child_nodes": [
+                {
+                    "id": "f57e397b-5f9a-4b03-a569-194cc790d773",
+                    "title": "欣赏与评述",
+                    "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/f57e397b-5f9a-4b03-a569-194cc790d773",
+                    "child_nodes": [
+                        {
+                            "id": "73f7ec1d-2b54-4be3-b689-73db4c534982",
+                            "title": "古典舞《黄河》",
+                            "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/f57e397b-5f9a-4b03-a569-194cc790d773/73f7ec1d-2b54-4be3-b689-73db4c534982",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "93587591-3ba9-415b-afd4-cdf404f018a4",
+                            "title": "民间舞《东方红》",
+                            "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/f57e397b-5f9a-4b03-a569-194cc790d773/93587591-3ba9-415b-afd4-cdf404f018a4",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "3f6d7e41-3105-49dd-984d-0319554823fb",
+                            "title": "芭蕾《黄河》",
+                            "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/f57e397b-5f9a-4b03-a569-194cc790d773/3f6d7e41-3105-49dd-984d-0319554823fb",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "b06aa0ab-02b5-4c2c-96dd-e0c1a64959fd",
+                    "title": "体验与表现",
+                    "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/b06aa0ab-02b5-4c2c-96dd-e0c1a64959fd",
+                    "child_nodes": [
+                        {
+                            "id": "df1a1cbf-a0ac-4369-a169-7c8c24c1bd14",
+                            "title": "动律体验",
+                            "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/b06aa0ab-02b5-4c2c-96dd-e0c1a64959fd/df1a1cbf-a0ac-4369-a169-7c8c24c1bd14",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "239c15ce-a1e3-4807-bbe1-d582b7a353f6",
+                            "title": "黄水谣",
+                            "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/b06aa0ab-02b5-4c2c-96dd-e0c1a64959fd/239c15ce-a1e3-4807-bbe1-d582b7a353f6",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "665869d3-2d9b-4377-91b3-40b88d0cfd85",
+                    "title": "编创与联想",
+                    "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/665869d3-2d9b-4377-91b3-40b88d0cfd85",
+                    "child_nodes": [
+                        {
+                            "id": "e3e4009b-3aa1-453d-b8d4-f93cee1259d6",
+                            "title": "保卫黄河",
+                            "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/665869d3-2d9b-4377-91b3-40b88d0cfd85/e3e4009b-3aa1-453d-b8d4-f93cee1259d6",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "44f18560-d51b-4906-a17f-ff5ed747a11b",
+                            "title": "黄河随想",
+                            "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/665869d3-2d9b-4377-91b3-40b88d0cfd85/44f18560-d51b-4906-a17f-ff5ed747a11b",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "2178d934-0ac7-42b9-a9e2-edc8d897af9f",
+                    "title": "积累与感悟",
+                    "node_path": "3bf33f8e-f2cc-4fc3-8deb-ba14955185b8/2178d934-0ac7-42b9-a9e2-edc8d897af9f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "8eb222b3-7d09-45bd-ac73-525850dd5b29",
+            "title": "第四单元 舞动无界",
+            "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29",
+            "child_nodes": [
+                {
+                    "id": "6adbca4b-abfe-458f-b256-6c09620b7e7a",
+                    "title": "欣赏与评述",
+                    "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29/6adbca4b-abfe-458f-b256-6c09620b7e7a",
+                    "child_nodes": [
+                        {
+                            "id": "6937efc8-5494-4445-965a-c1d9ff5821e7",
+                            "title": "《陇上踏歌行》",
+                            "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29/6adbca4b-abfe-458f-b256-6c09620b7e7a/6937efc8-5494-4445-965a-c1d9ff5821e7",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "3afe7b81-6850-4b66-b9f5-d351f34de8c3",
+                            "title": "《立春》",
+                            "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29/6adbca4b-abfe-458f-b256-6c09620b7e7a/3afe7b81-6850-4b66-b9f5-d351f34de8c3",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "ff30a172-706b-476f-9838-b01610299ec6",
+                            "title": "《青春风暴》",
+                            "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29/6adbca4b-abfe-458f-b256-6c09620b7e7a/ff30a172-706b-476f-9838-b01610299ec6",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "79831708-d9d0-467d-b390-8d826b281489",
+                    "title": "体验与表现",
+                    "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29/79831708-d9d0-467d-b390-8d826b281489",
+                    "child_nodes": [
+                        {
+                            "id": "445f5cbf-4d9b-462e-b57a-8dd30f9fa7e6",
+                            "title": "青春飞扬",
+                            "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29/79831708-d9d0-467d-b390-8d826b281489/445f5cbf-4d9b-462e-b57a-8dd30f9fa7e6",
+                            "child_nodes": []
+                        },
+                        {
+                            "id": "d6078f87-a4d5-4878-a75f-d7459fcbe8fb",
+                            "title": "奔跑的青春",
+                            "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29/79831708-d9d0-467d-b390-8d826b281489/d6078f87-a4d5-4878-a75f-d7459fcbe8fb",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "31b88eb4-de59-46b9-ba41-8a9ccaf55f1d",
+                    "title": "编创与联想",
+                    "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29/31b88eb4-de59-46b9-ba41-8a9ccaf55f1d",
+                    "child_nodes": [
+                        {
+                            "id": "e9608e4b-4100-4fc2-ae73-65653e39b21f",
+                            "title": "青春不散场  毕业纪念册",
+                            "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29/31b88eb4-de59-46b9-ba41-8a9ccaf55f1d/e9608e4b-4100-4fc2-ae73-65653e39b21f",
+                            "child_nodes": []
+                        }
+                    ]
+                },
+                {
+                    "id": "8d62b24d-19da-4f24-a691-3179d2a14fd3",
+                    "title": "积累与感悟",
+                    "node_path": "8eb222b3-7d09-45bd-ac73-525850dd5b29/8d62b24d-19da-4f24-a691-3179d2a14fd3",
+                    "child_nodes": []
+                }
+            ]
+        }
+    ],
+    "ecdb70a8-c941-483a-bc64-bfffc75171ac": [
+        {
+            "id": "ab7cd282-a716-48ba-9ede-81bf1d7b2943",
+            "title": "Unit 1 Animal protection",
+            "node_path": "ab7cd282-a716-48ba-9ede-81bf1d7b2943",
+            "child_nodes": [
+                {
+                    "id": "82870867-daa1-4948-a265-9462e44e33ba",
+                    "title": "Period 1",
+                    "node_path": "ab7cd282-a716-48ba-9ede-81bf1d7b2943/82870867-daa1-4948-a265-9462e44e33ba",
+                    "child_nodes": []
+                },
+                {
+                    "id": "15944180-7ce6-4653-bb42-952d62591188",
+                    "title": "Period 2",
+                    "node_path": "ab7cd282-a716-48ba-9ede-81bf1d7b2943/15944180-7ce6-4653-bb42-952d62591188",
+                    "child_nodes": []
+                },
+                {
+                    "id": "26f773e6-4a7e-49dc-891e-d87a88b7415f",
+                    "title": "Period 3",
+                    "node_path": "ab7cd282-a716-48ba-9ede-81bf1d7b2943/26f773e6-4a7e-49dc-891e-d87a88b7415f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "f4efb7d3-628a-4fef-804b-049af1ad4ec1",
+            "title": "Unit 2 Dream jobs",
+            "node_path": "f4efb7d3-628a-4fef-804b-049af1ad4ec1",
+            "child_nodes": [
+                {
+                    "id": "8dddf70a-3992-4c22-af0a-6f4df38845a6",
+                    "title": "Period 1",
+                    "node_path": "f4efb7d3-628a-4fef-804b-049af1ad4ec1/8dddf70a-3992-4c22-af0a-6f4df38845a6",
+                    "child_nodes": []
+                },
+                {
+                    "id": "c9efa6be-67a1-429d-9ad8-a1ff8c26a316",
+                    "title": "Period 2",
+                    "node_path": "f4efb7d3-628a-4fef-804b-049af1ad4ec1/c9efa6be-67a1-429d-9ad8-a1ff8c26a316",
+                    "child_nodes": []
+                },
+                {
+                    "id": "1889cfb8-bfef-491d-880d-2059a76b230a",
+                    "title": "Period 3",
+                    "node_path": "f4efb7d3-628a-4fef-804b-049af1ad4ec1/1889cfb8-bfef-491d-880d-2059a76b230a",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "a6e07786-dc4d-4932-8bc6-47fc582af299",
+            "title": "Unit 3 Be strong, be brave",
+            "node_path": "a6e07786-dc4d-4932-8bc6-47fc582af299",
+            "child_nodes": [
+                {
+                    "id": "d30742fa-0678-4721-83bc-263ed3c84239",
+                    "title": "Period 1",
+                    "node_path": "a6e07786-dc4d-4932-8bc6-47fc582af299/d30742fa-0678-4721-83bc-263ed3c84239",
+                    "child_nodes": []
+                },
+                {
+                    "id": "4395ca9b-f91c-4336-895e-5bc6041cc92a",
+                    "title": "Period 2",
+                    "node_path": "a6e07786-dc4d-4932-8bc6-47fc582af299/4395ca9b-f91c-4336-895e-5bc6041cc92a",
+                    "child_nodes": []
+                },
+                {
+                    "id": "fb438340-31c2-4b5e-bd9a-bb61266f0e19",
+                    "title": "Period 3",
+                    "node_path": "a6e07786-dc4d-4932-8bc6-47fc582af299/fb438340-31c2-4b5e-bd9a-bb61266f0e19",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "63294483-c0cd-4847-b562-7ead4504c6ef",
+            "title": "Unit 4 In the neighbourhood",
+            "node_path": "63294483-c0cd-4847-b562-7ead4504c6ef",
+            "child_nodes": [
+                {
+                    "id": "6f253bcf-410f-4014-b045-b0e5c783579c",
+                    "title": "Period 1",
+                    "node_path": "63294483-c0cd-4847-b562-7ead4504c6ef/6f253bcf-410f-4014-b045-b0e5c783579c",
+                    "child_nodes": []
+                },
+                {
+                    "id": "f5c7c2ca-1129-4c6c-9d8a-0f196b9a14d3",
+                    "title": "Period 2",
+                    "node_path": "63294483-c0cd-4847-b562-7ead4504c6ef/f5c7c2ca-1129-4c6c-9d8a-0f196b9a14d3",
+                    "child_nodes": []
+                },
+                {
+                    "id": "d50f38d1-f3f9-42ab-abdc-acaf176732dc",
+                    "title": "Period 3",
+                    "node_path": "63294483-c0cd-4847-b562-7ead4504c6ef/d50f38d1-f3f9-42ab-abdc-acaf176732dc",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "f1e4f3ae-c2e3-43d1-a7ac-b59e63288d70",
+            "title": "Unit 5 Culture and customs",
+            "node_path": "f1e4f3ae-c2e3-43d1-a7ac-b59e63288d70",
+            "child_nodes": [
+                {
+                    "id": "5d833bff-289f-420a-9d17-d6cbe8a1dd14",
+                    "title": "Period 1",
+                    "node_path": "f1e4f3ae-c2e3-43d1-a7ac-b59e63288d70/5d833bff-289f-420a-9d17-d6cbe8a1dd14",
+                    "child_nodes": []
+                },
+                {
+                    "id": "aaeb7838-1852-44ba-b019-a8ff1f1796e0",
+                    "title": "Period 2",
+                    "node_path": "f1e4f3ae-c2e3-43d1-a7ac-b59e63288d70/aaeb7838-1852-44ba-b019-a8ff1f1796e0",
+                    "child_nodes": []
+                },
+                {
+                    "id": "07f69218-bfe0-43e8-83f1-d9537aea4fc8",
+                    "title": "Period 3",
+                    "node_path": "f1e4f3ae-c2e3-43d1-a7ac-b59e63288d70/07f69218-bfe0-43e8-83f1-d9537aea4fc8",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "a6a92710-dea0-4285-b08b-823773157192",
+            "title": "Unit 6 Great minds",
+            "node_path": "a6a92710-dea0-4285-b08b-823773157192",
+            "child_nodes": [
+                {
+                    "id": "ded864f3-d1f2-4c82-9076-1b45c0a97853",
+                    "title": "Period 1",
+                    "node_path": "a6a92710-dea0-4285-b08b-823773157192/ded864f3-d1f2-4c82-9076-1b45c0a97853",
+                    "child_nodes": []
+                },
+                {
+                    "id": "16bd457b-21bb-4dad-8653-6bc7fccbc85f",
+                    "title": "Period 2",
+                    "node_path": "a6a92710-dea0-4285-b08b-823773157192/16bd457b-21bb-4dad-8653-6bc7fccbc85f",
+                    "child_nodes": []
+                },
+                {
+                    "id": "e67b5030-e585-40b6-b6fe-e3d3fa00b03f",
+                    "title": "Period 3",
+                    "node_path": "a6a92710-dea0-4285-b08b-823773157192/e67b5030-e585-40b6-b6fe-e3d3fa00b03f",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "d84e8937-e579-46a8-a7bd-ffc8cb676409",
+            "title": "Unit 7 Means of communication",
+            "node_path": "d84e8937-e579-46a8-a7bd-ffc8cb676409",
+            "child_nodes": [
+                {
+                    "id": "a7bab716-5c48-4bb0-a536-e89b8f370ddb",
+                    "title": "Period 1",
+                    "node_path": "d84e8937-e579-46a8-a7bd-ffc8cb676409/a7bab716-5c48-4bb0-a536-e89b8f370ddb",
+                    "child_nodes": []
+                },
+                {
+                    "id": "9cd29949-8bab-4263-bb2d-730307035e40",
+                    "title": "Period 2",
+                    "node_path": "d84e8937-e579-46a8-a7bd-ffc8cb676409/9cd29949-8bab-4263-bb2d-730307035e40",
+                    "child_nodes": []
+                },
+                {
+                    "id": "052257ab-1ad7-4e9c-8427-1b62ee56129d",
+                    "title": "Period 3",
+                    "node_path": "d84e8937-e579-46a8-a7bd-ffc8cb676409/052257ab-1ad7-4e9c-8427-1b62ee56129d",
+                    "child_nodes": []
+                }
+            ]
+        },
+        {
+            "id": "e2367cf3-fed4-4898-9b75-e3a31839fffb",
+            "title": "Unit 8 Fighting pandemics",
+            "node_path": "e2367cf3-fed4-4898-9b75-e3a31839fffb",
+            "child_nodes": [
+                {
+                    "id": "108906df-eb31-4f5e-8cf2-acaea493dda7",
+                    "title": "Period 1",
+                    "node_path": "e2367cf3-fed4-4898-9b75-e3a31839fffb/108906df-eb31-4f5e-8cf2-acaea493dda7",
+                    "child_nodes": []
+                },
+                {
+                    "id": "05835203-047a-41ea-9d9e-a7bdb22224ba",
+                    "title": "Period 2",
+                    "node_path": "e2367cf3-fed4-4898-9b75-e3a31839fffb/05835203-047a-41ea-9d9e-a7bdb22224ba",
+                    "child_nodes": []
+                },
+                {
+                    "id": "b7d98f91-f302-40b1-ba06-625f8b96bef5",
+                    "title": "Period 3",
+                    "node_path": "e2367cf3-fed4-4898-9b75-e3a31839fffb/b7d98f91-f302-40b1-ba06-625f8b96bef5",
                     "child_nodes": []
                 }
             ]
