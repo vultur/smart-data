@@ -1149,7 +1149,7 @@
                 "children": [
                     {
                         "tag_id": "44becd82-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "人教版（PEP）（主编：吴欣）",
+                        "tag_name": "人教版（主编：吴欣）",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -2433,7 +2433,7 @@
                     },
                     {
                         "tag_id": "44bedeee-54e6-11ed-9c34-850ba61fa9f4",
-                        "tag_name": "教科版（主编：龚亚夫&鲁宗干）",
+                        "tag_name": "教科版（主编：龚亚夫）",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -3777,7 +3777,7 @@
                     },
                     {
                         "tag_id": "12dc75c0-2724-47a9-b556-209d442aafe1",
-                        "tag_name": "人教版（精通）（主编：苗兴伟）",
+                        "tag_name": "人教版（主编：苗兴伟）",
                         "tag_dimension_id": "zxxbb",
                         "tag_dimension_name": "版本",
                         "children": [
@@ -3806,6 +3806,43 @@
                             {
                                 "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": [
@@ -3860,6 +3897,13 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             }
@@ -3884,6 +3928,21 @@
                                         "tag_dimension_name": "册次",
                                         "children": []
                                     },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
@@ -4002,6 +4061,43 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             }
@@ -4037,6 +4133,28 @@
                         "tag_dimension_name": "版本",
                         "children": [
                             {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
                                 "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "四年级",
                                 "tag_dimension_id": "zxxnj",
@@ -4045,6 +4163,13 @@
                                     {
                                         "tag_id": "ff8080814371757b014390f883db0453",
                                         "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -4090,6 +4215,13 @@
                                     {
                                         "tag_id": "ff8080814371757b014390f883db0453",
                                         "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -6984,6 +7116,13 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             },
@@ -6996,6 +7135,13 @@
                                     {
                                         "tag_id": "ff8080814371757b014390f883db0453",
                                         "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -7019,6 +7165,205 @@
                                     {
                                         "tag_id": "ff8080814371757b014390f883db0453",
                                         "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "627db364-34fe-461e-8f51-04125537d20e",
+                        "tag_name": "人音版（主编：李心草）",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "一年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "3628801849614b94014963fbed910bf7",
+                        "tag_name": "鄂教版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "一年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -8742,6 +9087,50 @@
                                         "children": []
                                     }
                                 ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -8877,6 +9266,13 @@
                                 "tag_dimension_name": "年级",
                                 "children": [
                                     {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
                                         "tag_id": "ff8080814371757b014390f883db0453",
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
@@ -8899,6 +9295,13 @@
                                 "tag_dimension_name": "年级",
                                 "children": [
                                     {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
@@ -8913,6 +9316,13 @@
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
@@ -8969,6 +9379,51 @@
                                     {
                                         "tag_id": "502036372040",
                                         "tag_name": "水平三",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "一年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -9125,6 +9580,96 @@
                                         "children": []
                                     }
                                 ]
+                            },
+                            {
+                                "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "一年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "四年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbecae-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "六年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -9276,6 +9821,51 @@
                                         "children": []
                                     }
                                 ]
+                            },
+                            {
+                                "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "一年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -9288,6 +9878,36 @@
                             {
                                 "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "一年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": [
@@ -9364,6 +9984,36 @@
                             {
                                 "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "一年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd372-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "三年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": [
@@ -10459,14 +11109,44 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342961",
+                                                "tag_name": "新教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            },
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342961",
+                                                "tag_name": "新教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            },
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -10481,7 +11161,22 @@
                                         "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
-                                        "children": []
+                                        "children": [
+                                            {
+                                                "tag_id": "5136342961",
+                                                "tag_name": "新教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            },
+                                            {
+                                                "tag_id": "5136342960",
+                                                "tag_name": "旧教材",
+                                                "tag_dimension_id": "zxxxjjc",
+                                                "tag_dimension_name": "新旧教材",
+                                                "children": []
+                                            }
+                                        ]
                                     },
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
@@ -11735,6 +12430,13 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             }
@@ -11866,6 +12568,13 @@
                                     {
                                         "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
                                         "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -15846,6 +16555,28 @@
                                         "children": []
                                     }
                                 ]
+                            },
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -15858,6 +16589,28 @@
                             {
                                 "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "七年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": [
@@ -16206,6 +16959,82 @@
                         ]
                     },
                     {
+                        "tag_id": "ff808081439f924c0143a40bfce722d4",
+                        "tag_name": "北京版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "七年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "502036372047",
+                        "tag_name": "未来出版社",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "七年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
                         "tag_id": "44bee5e2-54e6-11ed-9c34-850ba61fa9f4",
                         "tag_name": "科学社版",
                         "tag_dimension_id": "zxxbb",
@@ -16351,6 +17180,48 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             },
@@ -16370,6 +17241,48 @@
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -16479,20 +17392,6 @@
                                         "children": []
                                     },
                                     {
-                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
-                                        "tag_name": "戏剧上册",
-                                        "tag_dimension_id": "zxxcc",
-                                        "tag_dimension_name": "册次",
-                                        "children": []
-                                    },
-                                    {
-                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
-                                        "tag_name": "戏剧下册",
-                                        "tag_dimension_id": "zxxcc",
-                                        "tag_dimension_name": "册次",
-                                        "children": []
-                                    },
-                                    {
                                         "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
                                         "tag_name": "影视上册",
                                         "tag_dimension_id": "zxxcc",
@@ -16502,6 +17401,20 @@
                                     {
                                         "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
                                         "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -16522,6 +17435,13 @@
                                         "children": []
                                     },
                                     {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
                                         "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
                                         "tag_name": "影视上册",
                                         "tag_dimension_id": "zxxcc",
@@ -16529,8 +17449,22 @@
                                         "children": []
                                     },
                                     {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
                                         "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
                                         "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -16602,8 +17536,15 @@
                                 "tag_dimension_name": "年级",
                                 "children": [
                                     {
-                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
-                                        "tag_name": "影视上册",
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -16616,8 +17557,22 @@
                                         "children": []
                                     },
                                     {
-                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
-                                        "tag_name": "舞蹈上册",
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -16696,6 +17651,13 @@
                                         "children": []
                                     },
                                     {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
                                         "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
                                         "tag_name": "戏剧上册",
                                         "tag_dimension_id": "zxxcc",
@@ -16703,8 +17665,22 @@
                                         "children": []
                                     },
                                     {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
                                         "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
                                         "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -16809,6 +17785,788 @@
                                     {
                                         "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
                                         "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "f6b7b127-ae19-4472-bf3f-a1352c08e2cd",
+                        "tag_name": "人美版（主编：崔伟）",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "009ebcf0-56d2-4a0e-95b5-5fe5d99e6cbb",
+                        "tag_name": "人美版（主编：扈强）",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "f9134d2e-7e59-477c-a667-2b2ca64e84f6",
+                        "tag_name": "人美版（主编：许平）",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "83e6a7e9-6f6a-48fa-86a3-ae0c6d479bab",
+                        "tag_name": "人美版（主编：郑兰）",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "5036342964",
+                        "tag_name": "人音版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "44bed598-54e6-11ed-9c34-850ba61fa9f4",
+                        "tag_name": "冀少版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "44bedd90-54e6-11ed-9c34-850ba61fa9f4",
+                        "tag_name": "岭南美版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "36288018493765ca01494137025316c0",
+                        "tag_name": "桂教版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "44bee038-54e6-11ed-9c34-850ba61fa9f4",
+                        "tag_name": "桂美版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "362880194a9ec684014a9f0dfa190056",
+                        "tag_name": "沪教版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "44bee4f2-54e6-11ed-9c34-850ba61fa9f4",
+                        "tag_name": "湘文艺版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "362880194cf07665014cfed020e403d9",
+                        "tag_name": "粤教版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "502036371480",
+                        "tag_name": "西南大学版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "44beeb14-54e6-11ed-9c34-850ba61fa9f4",
+                        "tag_name": "赣美版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "36288019491df52501492b9704f5044a",
+                        "tag_name": "辽海版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "36ecb8e3-2bb7-4440-94fd-37ae775beb86",
+                                        "tag_name": "影视下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "12117850-a655-4e4c-b03f-65bbd5e1d39a",
+                                        "tag_name": "戏剧下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff296b85-fa99-45aa-9f93-992d46e87675",
+                                        "tag_name": "舞蹈下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -17051,6 +18809,28 @@
                             {
                                 "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "一年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": [
@@ -17955,6 +19735,28 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             }
@@ -18643,6 +20445,44 @@
                             {
                                 "tag_id": "e7bbebc8-0590-11ed-9c79-92fc3b3249d5",
                                 "tag_name": "五年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "362880194a9ec684014a9f0dfa190056",
+                        "tag_name": "沪教版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "e7bbd296-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "一年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
+                                        "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "e7bbd304-0590-11ed-9c79-92fc3b3249d5",
+                                "tag_name": "二年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": [
@@ -19573,6 +21413,13 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             },
@@ -19588,6 +21435,13 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             },
@@ -19600,6 +21454,13 @@
                                     {
                                         "tag_id": "ff8080814371757b014390f883db0453",
                                         "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -19669,6 +21530,13 @@
                                     {
                                         "tag_id": "8ae7e58b77b3bac901783dd80dee0c44",
                                         "tag_name": "全一册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -19857,6 +21725,28 @@
                             {
                                 "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "44bec0c6-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "九年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": [
@@ -20280,6 +22170,13 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             }
@@ -20489,6 +22386,13 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             },
@@ -20501,6 +22405,13 @@
                                     {
                                         "tag_id": "ff8080814371757b014390f883db0453",
                                         "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -20735,12 +22646,41 @@
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
                                     }
                                 ]
                             },
                             {
                                 "tag_id": "44bebf7c-54e6-11ed-9c34-850ba61fa9f4",
                                 "tag_name": "七年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "ff8080814371757b014390fcdce504bd",
+                                        "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
                                 "tag_dimension_id": "zxxnj",
                                 "tag_dimension_name": "年级",
                                 "children": [
@@ -20807,6 +22747,21 @@
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ff8080814371757b014390f883db0453",
+                                        "tag_name": "上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []
@@ -21167,6 +23122,43 @@
                                     {
                                         "tag_id": "ff8080814371757b014390fcdce504bd",
                                         "tag_name": "下册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tag_id": "362880194a9ec684014a9f0dfa190056",
+                        "tag_name": "沪教版",
+                        "tag_dimension_id": "zxxbb",
+                        "tag_dimension_name": "版本",
+                        "children": [
+                            {
+                                "tag_id": "44bec67a-54e6-11ed-9c34-850ba61fa9f4",
+                                "tag_name": "八年级",
+                                "tag_dimension_id": "zxxnj",
+                                "tag_dimension_name": "年级",
+                                "children": [
+                                    {
+                                        "tag_id": "ef0ef714-adc6-447e-b84b-fd4d048d5079",
+                                        "tag_name": "影视上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "b81b4afe-7690-4d22-a1be-c2253bead10b",
+                                        "tag_name": "戏剧上册",
+                                        "tag_dimension_id": "zxxcc",
+                                        "tag_dimension_name": "册次",
+                                        "children": []
+                                    },
+                                    {
+                                        "tag_id": "84f17d23-3a87-478f-b823-e122a9e5be70",
+                                        "tag_name": "舞蹈上册",
                                         "tag_dimension_id": "zxxcc",
                                         "tag_dimension_name": "册次",
                                         "children": []

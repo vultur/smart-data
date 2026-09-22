@@ -5,7 +5,7 @@
         "name": "视频",
         "unit": "节",
         "format": "mp4",
-        "count": 15619
+        "count": 13589
     },
     {
         "key": "courseware",
@@ -13,7 +13,7 @@
         "name": "课件",
         "unit": "组",
         "format": "pdf",
-        "count": 10938
+        "count": 9926
     },
     {
         "key": "task",
@@ -21,7 +21,7 @@
         "name": "任务",
         "unit": "项",
         "format": "pdf",
-        "count": 14938
+        "count": 12981
     },
     {
         "key": "exercise",
@@ -29,7 +29,7 @@
         "name": "练习",
         "unit": "份",
         "format": "pdf",
-        "count": 14963
+        "count": 13009
     },
     {
         "key": "plandesign",
@@ -37,6 +37,6 @@
         "name": "设计",
         "unit": "篇",
         "format": "pdf",
-        "count": 10937
+        "count": 9925
     }
 ]
